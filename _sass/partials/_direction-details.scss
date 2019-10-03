@@ -1,9 +1,10 @@
-$direction-details-color: #757575;
+$direction-details-color: #000;
 .direction-details {
     display: inline-block;
     padding: 0;
     color: $direction-details-color;
     .image-section {
+        color: $direction-details-color !important;
         @media (max-width: 767px) {
             min-height: 350px;
         }
