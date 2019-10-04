@@ -1,59 +1,52 @@
--
-  id: 307
+- id: 307
   title: "Coffee Break"
   place: "Hall"
   service: true
   description: "The best time to talk with speakers and attendees"
--
-  id: 503
+- id: 503
   title: "Lunch Break"
   place: "Dining room"
   service: true
--
-  id: 001
-  title: "Material design: Visual style and imagery"
-  description: "This session will reveal the invisible structures behind the material design system. Designers will show how to use the new color systems, typographic strategies, and the underlying grids that hold it together. They will show how imagery and the new framework material rendering can make apps more interesting and communicate more quickly."
-  subtype: workshop
-  speakers: [3, 6]
-  language: en
-  complexity: "Intermediate"
-  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
--
-  id: 002
-  title: "Building Cloud-powered wearable Apps"
-  description: "I will speak and show how to:<br>- Respond to touch events in your views with touch feedback animations.<br>- Hide and show views with reveal effect animations.<br>- Switch between activities with custom activity transition animations.<br>- Create more natural animations with curved motion.<br>- Animate changes in one or more view properties with view state change animations.<br>- Create icon morphing transition"
+- id: 001
+  title: "Managing state with NgRx and Pokemon"
+  description: "Introducción a la construcción de aplicaciones reactivas en Angular usando la última versión del framework NgRx. Veremos el código necesario para la construcción de una Pokedex, en el que veremos aplicados los principios base de NgRx (inmutabilidad, centralización, delegación de responsabilidades, programación funcional etc.) "
   subtype: presentation
-  speakers: [4, 5]
+  speakers: [3]
+  language: es
+  complexity: "Intermediate"
+- id: 002
+  title: "Observability and ServiceMesh with Istio & Kiali"
+  description: "Microservice Architectures break up the monolith into many smaller pieces and introduce new communication patterns between services like fault tolerance and dynamic routing. A Service Mesh like Istio provides these traffic control capabilities on a platform level and frees the application writers from those tasks, allowing them to focus on business logic. One of the major challenges with the management of a microservices architecture is trying to understand how services are composed, how they are connected and how all components operate from global perspective to a particular detail. Kiali works with Istio to visualise the service mesh topology and describe how are they connected."
+  subtype: presentation
+  speakers: [1]
+  language: es
+  complexity: "Intermediate"
+- id: 003
+  title: "Get real happy at work!"
+  description: "Many of us are spending at least 8 hours a day being disconnected from our deep meaning, purpose and values, as well disconnected from people around us. These are major issues in modern day organizations (even at Google!). There are both lack of understanding why we do our job, and lack of openness, trust, authenticity and vulnerability in teams. Instead of being fully present and feeling happy, engaged, energized - we agree for less and bring only small part of ourselves to our companies, startups, schools. This talk/workshop will help you find true happiness at work!"
+  subtype: presentation
+  speakers: [0]
   language: en
-  complexity: "Intermediate" 
+  complexity: "Advanced"
   presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
-  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
--
-  id: 003
-  title: "Android L Animation"
-  description: "More than ever before, developing for global audience is a necessity than a luxury in today's world. Are you ready ... where to start? what does it entail? how do I do it? how to promote in local markets? This talk will address above questions for android, chrome and web developers. In our journey of the where, what and how, we will take an in-depth look at various internationalization and localization tools & strategies available to you."
+- id: 004
+  title: "Desmontando Alphastar"
+  description: "AlphaStar es la nueva creación del equipo DeepMind. Este sistema de Inteligencia Artificial es capaz de derrotar a los mejores jugadores de StarCraft II del planeta. Pero la gran pregunta es como funciona por dentro. En esta charla describiremos como está construido este sistema y cuales son cada uno de las piezas que lo componen. Para cada una de ellas describiremos que hacen cada una de ella y que aportan al sistema de juego global con el fin de entender un poco mejor porque el sistema desarrollado por el equipo de DeepMind juega tan bien. "
+  subtype: presentation
+  speakers: [2]
+  language: es
+  complexity: "Intermediate"
+- id: 005
+  title: "Coroutines vs. ReactiveX: Handling errors"
+  description: "Whether you’re coming from the Android world or not, you’ve probably heard about Kotlin (the programming language) and its asynchronous programming concept called Coroutines. It’s a neat concept that helps you create execution blocks similar to light-weight threads, while at the same time allowing you to write your asynchronous code in a synchronous fashion. On the other hand, many of us got really (really) used to Reactive Extensions in many languages, and we prefer to go down this road. With ReactiveX, you can chain your asynchronous blocks in future-like structures, and easily control threading around them. /n Well, you know how it usually goes - you read about something (aha! what is this coroutines thing)… maybe you see a couple of talks on the topic, maybe you get interested. After you try it out and decide to use it in a real project, you start typing your code… and boom! Your program crashes. You then go to StackOverflow to check for answers to your problem, and surprise: you’re not handling errors properly. You copy-paste the solution without any edits or tests and you’re ready for release. /n Hopefully this is not you. You want to check everything before using a new language or library, you want to fully understand the consequences of switching over to a different solution from the one you currently have. There are some quirks in every approach, sure, but do you know all of the corner cases? /n That’s why we need to have this talk. Let’s go together through the most interesting examples of how we can get (and handle) errors with ReactiveX and Coroutines."
   subtype: presentation
   speakers: [4]
   language: en
-  complexity: "Intermediate" 
-  presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
--
-  id: 004
-  title: "Polymer: Interacting with Google Services using nothing but HTML"
-  description: "Google has 1M APIs and services. Every API is different! Learn how you can interact with Google services without writing code! Designing your UI so it works across multiple screen sizes is no longer a nice to have, it is *the* way to build for the web. Using Polymer, we'll cover how to create robust, responsive elements that work across all platforms."
-  subtype: keynote
-  speakers: [6]
-  language: uk
-  complexity: "Beginner"
-  presentation: "https://speakerdeck.com/gdglviv/mateusz-herych-guava-beyond-collections"
-  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
--
-  id: 005
-  title: "Test: Interacting with Google Services using nothing but HTML"
-  description: "Google has 1M APIs and services. Every API is different! Learn how you can interact with Google services without writing code! Designing your UI so it works across multiple screen sizes is no longer a nice to have, it is *the* way to build for the web. Using Polymer, we'll cover how to create robust, responsive elements that work across all platforms."
-  subtype: keynote
-  speakers: [7]
+  complexity: "Intermediate"
+- id: 006
+  title: "Modern web development"
+  description: "Progressive web apps have been around us for many years. Let's see how they evolved during this time, what the web can do and which are the plans for the future. We will also do a walkthrough some experiences developing and deploying some PWAs and some AMP compatible frontends for a big companies. Challenges, big wins, pros and cons of it, plus the results of how is it performing."
+  subtype: presentation
+  speakers: [5]
   language: en
-  complexity: "Expert"
-  presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
-  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+  complexity: "Intermediate"

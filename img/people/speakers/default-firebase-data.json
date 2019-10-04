@@ -1,0 +1,2222 @@
+{
+  "blog": {
+    "c4p": {
+      "backgroundColor": "#3647a5",
+      "brief": "GDG DevFest Malaga was announced, for the third year in a row, as one of the most incredible conferences to attract plenty of developers, managers ...",
+      "content": "GDG DevFest Malaga is announced, for the third year in a row,  as one of the most incredible conferences to attract plenty of developers, managers, freelancers and any person interested in the IT world. It will take place on 14 of December  and it will provide enough space to accommodate up to 200 visitors. The main topics will be not only Android, Web and Google Cloud, but whatever awesome technology-related fields that our speakers want to share with us. We are looking for IT-rock-stars like you to bring your expertise on stage and to shine with your talk or workshop. <div layout horizontal center-justified> <a href=\"https://forms.gle/iycF5gKYMub5orcq6\" rel=\"noopener noreferrer\">   <paper-button primary>Submit a proposal</paper-button> </a> </div> \n ## Why you should not miss this opportunity at the DevFest Malaga?  \n Why you should not miss this opportunity at the DevFest Malaga? Apart from being celebrated at one of the top destinations in Europe, we will give an exceptional technical support to ensure a great talk-experience for our selected speakers. Besides, we will cover their travel and accommodation expenses. At the conference, we will encourage networking sessions to meet the best experts in the industry, as well as dedicated activities only for our speakers. As a selected speaker you will receive professional guidance to polish your talk, help with any kind of preparations you might require and assistance during your presentation. You can choose the language of the presentation to be in Spanish or English. Finally we strongly recommend to follow these public speaking tips from Zach Holman:  [speaking.io](http://speaking.io/).\n\n ## Timeline Call for Papers submission deadline is September. \n 2019. Submission results will be announced by end of September . \n If you have any further questions please contact the organizers at [gdgmalaga@gmail.com](mailto:gdgmalaga@gmail.com)  <div layout horizontal center-justified> <a href=\"https://forms.gle/iycF5gKYMub5orcq6\" rel=\"noopener noreferrer\">   <paper-button primary>Submit a proposal</paper-button> </a> </div>",
+      "image": "/images/posts/c4p.jpg",
+      "published": "2019-06-07",
+      "source": "/data/posts/2019-06-07-c4p.md",
+      "title": "We're looking for speakers"
+    }
+  },
+  "gallery": [
+    "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fgallery%2Fimg_4185.jpg?alt=media&token=ff3fd161-3d68-401a-90cd-74b90bd2a4d8",
+    "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fgallery%2Fimg_4411.jpg?alt=media&token=7fda0d66-a631-4816-bd85-b93ef49ed3a6",
+    "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fgallery%2Fimg_4577.jpg?alt=media&token=f14205b5-be75-447c-8bca-73a15ca2df41",
+    "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fgallery%2Fimg_4525.jpg?alt=media&token=0428f0e3-fda0-4119-8249-69f98e936ce5",
+    "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fgallery%2Fimg_4611.jpg?alt=media&token=b080143c-161c-4d9f-96f3-ebb6bdcdfd95",
+    "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fgallery%2Fimg_4720.jpg?alt=media&token=75de0c2d-8bd9-48bb-9117-1349c9bc381f",
+    "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fgallery%2Fimg_4646.jpg?alt=media&token=eafb0320-6f21-47bc-8ba4-8eec708f2076",
+    "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fgallery%2Fimg_5294.jpg?alt=media&token=72ab5141-d21b-4e71-a58b-faa2b00d1d02"
+  ],
+  "notifications": {
+    "config": {
+      "icon": "",
+      "timezone": "+03:00"
+    },
+    "messages": {},
+    "subscribers": {},
+    "test": {},
+    "users": {}
+  },
+  "partners": [
+    {
+      "logos": [
+        {
+          "order": 0,
+          "logoUrl": "../images/sponsors/google.svg",
+          "name": "Google",
+          "url": "https://www.google.com.ua/intl/en/about/"
+        },
+        {
+          "order": 1,
+          "logoUrl": "../images/sponsors/etsii-uma.png",
+          "name": "Etsii",
+          "url": "https://www.uma.es/ETSI-informatica"
+        }
+      ],
+      "order": 0,
+      "title": "Platinum"
+    },
+    {
+      "logos": [
+        {
+          "order": 0,
+          "logoUrl": "../images/sponsors/The_workshop.jpg",
+          "name": "The Workshop",
+          "url": "https://theworkshop.com/es/pagina-de-inicio/"
+        },
+        {
+          "order": 1,
+          "logoUrl": "../images/sponsors/malt.png",
+          "name": "Malt",
+          "url": "https://www.malt.es/"
+        }
+      ],
+      "order": 1,
+      "title": "Gold"
+    },
+    {
+      "logos": [
+        {
+          "order": 0,
+          "logoUrl": "../images/sponsors/keepcoding.png",
+          "name": "Keepcoding",
+          "url": "https://keepcoding.io/es"
+        },
+        {
+          "order": 1,
+          "logoUrl": "../images/sponsors/Indra.jpg",
+          "name": "Indra",
+          "url": "https://www.indracompany.com/"
+        }
+      ],
+      "order": 2,
+      "title": "Silver"
+    },
+    {
+      "logos": [
+        {
+          "order": 0,
+          "logoUrl": "../images/communities/LogoAngularMalaga.jpg",
+          "name": "Angular Malaga",
+          "url": "https://www.meetup.com/es-ES/Google-Developer-Group-Malaga/"
+        },
+        {
+          "order": 1,
+          "logoUrl": "../images/communities/topicfriend.jpg",
+          "name": "Topic Friends",
+          "url": "https://topicfriends.org"
+        },
+        {
+          "order": 2,
+          "logoUrl": "../images/communities/acelera_espana.png",
+          "name": "Acelera España",
+          "url": "https://keepcoding.io/es/blog/acelera-espana-movimiento-resetear-espana/"
+        }
+      ],
+      "order": 2,
+      "title": "Community partners"
+    },
+    {
+      "logos": [
+        {
+          "order": 0,
+          "logoUrl": "../images/logos/organizer-logo.png",
+          "name": "GDG Malaga",
+          "url": "https://www.meetup.com/es-ES/Google-Developer-Group-Malaga/"
+        }
+      ],
+      "order": 3,
+      "title": "Organization"
+    }
+  ],
+  "schedule": {
+    "2016-09-09": {
+      "dateReadable": "September 9",
+      "timeslots": [
+        {
+          "endTime": "10:00",
+          "sessions": [
+            {
+              "items": [132]
+            }
+          ],
+          "startTime": "09:00"
+        },
+        {
+          "endTime": "10:15",
+          "sessions": [
+            {
+              "items": [136]
+            }
+          ],
+          "startTime": "10:00"
+        },
+        {
+          "endTime": "11:00",
+          "sessions": [
+            {
+              "items": [139]
+            }
+          ],
+          "startTime": "10:15"
+        },
+        {
+          "endTime": "11:40",
+          "sessions": [
+            {
+              "items": [103, 112]
+            },
+            {
+              "items": [120]
+            },
+            {
+              "extend": 3,
+              "items": [109]
+            }
+          ],
+          "startTime": "11:00"
+        },
+        {
+          "endTime": "12:30",
+          "sessions": [
+            {
+              "items": [129]
+            },
+            {
+              "items": [116]
+            }
+          ],
+          "startTime": "11:50"
+        },
+        {
+          "endTime": "14:00",
+          "sessions": [
+            {
+              "items": [133]
+            }
+          ],
+          "startTime": "12:30"
+        },
+        {
+          "endTime": "14:40",
+          "sessions": [
+            {
+              "items": [101]
+            },
+            {
+              "items": [118]
+            },
+            {
+              "extend": 2,
+              "items": [107]
+            }
+          ],
+          "startTime": "14:00"
+        },
+        {
+          "endTime": "15:30",
+          "sessions": [
+            {
+              "items": [140]
+            },
+            {
+              "items": [126]
+            }
+          ],
+          "startTime": "14:50"
+        },
+        {
+          "endTime": "16:00",
+          "sessions": [
+            {
+              "items": [134]
+            }
+          ],
+          "startTime": "15:30"
+        },
+        {
+          "endTime": "16:40",
+          "sessions": [
+            {
+              "items": [105]
+            },
+            {
+              "items": [127]
+            },
+            {
+              "extend": 3,
+              "items": [119]
+            }
+          ],
+          "startTime": "16:00"
+        },
+        {
+          "endTime": "17:30",
+          "sessions": [
+            {
+              "items": [112]
+            },
+            {
+              "items": [111]
+            }
+          ],
+          "startTime": "16:50"
+        },
+        {
+          "endTime": "18:20",
+          "sessions": [
+            {
+              "items": [106]
+            },
+            {
+              "items": [125]
+            }
+          ],
+          "startTime": "17:40"
+        },
+        {
+          "endTime": "22:30",
+          "sessions": [
+            {
+              "items": [137]
+            }
+          ],
+          "startTime": "18:30"
+        }
+      ],
+      "tracks": [
+        {
+          "title": "Expo hall"
+        },
+        {
+          "title": "Conference hall"
+        },
+        {
+          "title": "Workshops hall"
+        }
+      ]
+    },
+    "2016-09-10": {
+      "dateReadable": "September 10",
+      "timeslots": [
+        {
+          "endTime": "10:10",
+          "sessions": [
+            {
+              "items": [135]
+            }
+          ],
+          "startTime": "09:30"
+        },
+        {
+          "endTime": "10:50",
+          "sessions": [
+            {
+              "items": [114]
+            },
+            {
+              "items": [117]
+            },
+            {
+              "items": [121]
+            }
+          ],
+          "startTime": "10:10"
+        },
+        {
+          "endTime": "11:40",
+          "sessions": [
+            {
+              "items": [122]
+            },
+            {
+              "items": [113]
+            },
+            {
+              "extend": 2,
+              "items": [121]
+            }
+          ],
+          "startTime": "11:00"
+        },
+        {
+          "endTime": "12:30",
+          "sessions": [
+            {
+              "items": [104]
+            },
+            {
+              "items": [124]
+            }
+          ],
+          "startTime": "11:50"
+        },
+        {
+          "endTime": "14:00",
+          "sessions": [
+            {
+              "items": [133]
+            }
+          ],
+          "startTime": "12:30"
+        },
+        {
+          "endTime": "14:40",
+          "sessions": [
+            {
+              "items": [108]
+            },
+            {
+              "items": [128]
+            },
+            {
+              "extend": 2,
+              "items": [102]
+            }
+          ],
+          "startTime": "14:00"
+        },
+        {
+          "endTime": "15:30",
+          "sessions": [
+            {
+              "items": [110]
+            },
+            {
+              "items": [123]
+            }
+          ],
+          "startTime": "14:50"
+        },
+        {
+          "endTime": "16:00",
+          "sessions": [
+            {
+              "items": [134]
+            }
+          ],
+          "startTime": "15:30"
+        },
+        {
+          "endTime": "16:40",
+          "sessions": [
+            {
+              "items": [131]
+            },
+            {
+              "items": [140]
+            },
+            {
+              "extend": 2,
+              "items": [130]
+            }
+          ],
+          "startTime": "16:00"
+        },
+        {
+          "endTime": "17:30",
+          "sessions": [
+            {
+              "items": [115]
+            },
+            {
+              "items": [140]
+            }
+          ],
+          "startTime": "16:50"
+        }
+      ],
+      "tracks": [
+        {
+          "title": "Expo hall"
+        },
+        {
+          "title": "Conference hall"
+        },
+        {
+          "title": "Workshops hall"
+        }
+      ]
+    }
+  },
+  "sessions": {
+    "101": {
+      "complexity": "Beginner",
+      "description": "In this session, we will take a look at Windows and .NET support on Google Cloud Platform. We will build a simple ASP.NET app, deploy to Google Compute Engine and take a look at some of the tools and APIs available to .NET developers on Google Cloud Platform. ",
+      "language": "English",
+      "presentation": "https://speakerdeck.com/gdglviv/mete-atamel-windows-and-net-on-google-cloud-platform",
+      "speakers": ["mete_atamel", "adrian_kajda"],
+      "tags": ["Cloud"],
+      "title": "Windows and .NET on Google Cloud Platform "
+    },
+    "102": {
+      "complexity": "Beginner",
+      "description": "Do you remember the game Simon says from the 80s? I don’t know about you, but I know many that spent hours trying to press those specific sequences of red, green, blue and yellow buttons in the correct order. But why play on your own? We’ve implemented a gRPC server that allows you to play Simon with other players over the internet!\n\nIn this workshop we will dive into the toolset and libraries to build your very own Simon Says client for this server. We will have a message description in Protocol Buffers format and some stub code in several languages ready for you to play with. The goal for this workshop is for you to have a working client that you can use to play (and beat!) other attendees of the workshop.",
+      "language": "English",
+      "speakers": ["mete_atamel"],
+      "tags": ["Cloud"],
+      "title": "Hands-on gRPC experience building your own multiplayer game client"
+    },
+    "103": {
+      "complexity": "Intermediate",
+      "description": "Doze mode is just around the corner. \nIntroduced in Marshmallow, as the shy guy that was allowed to step in only when your device went to sleep. ZzzZzzzz\nWith the new N release, Doze mode becomes the rockstar. He rushes into the room with a big shabang by shooting all background services and network requests that forgot to get away. \nHe should no longer be shy. He just shoots and dances on bones of your scheduled alarms, while you wonder why this particular task is no longer running.\nWith the new Doze mode, you require to adapt your app architecture to the new reality.\nOn this talk, we will learn how to survive Doze mode using Job Scheduler, Content Provider and stay in one piece.",
+      "language": "English",
+      "presentation": "https://speakerdeck.com/gdglviv/yonatan-levin-knock-knock-whos-there-doze",
+      "speakers": ["yonatan_levin"],
+      "tags": ["Android"],
+      "title": "Knock knock! Who's there? Doze."
+    },
+    "104": {
+      "complexity": "Beginner",
+      "description": "It's no longer just about digitizing our environment. It’s rather about pervasive and ubiquitous computing. Almost all everyday things will turn into connected devices soon. This “Internet of Things” will allow the Web to be physically tangible. But what is the value, and how can one prevent IoT applications which just seem to be only more expensive and complicated than conventional solutions. Sascha will discuss the purpose and guide you through this complex topic showing inspiring solutions, tips from practice, and code samples in a variety of technologies from simple Bluetooth Eddystone Beacons to more sophisticated IoT platforms like Eclipse SmartHome.",
+      "language": "English",
+      "presentation": "https://speakerdeck.com/gdglviv/sascha-wolter-the-physical-web-context-is-king",
+      "speakers": ["sascha_wolter"],
+      "tags": ["Web"],
+      "title": "The Physical Web: Context is King!",
+      "videoId": "fLfQNp75kbc"
+    },
+    "105": {
+      "complexity": "Intermediate",
+      "description": "TBD",
+      "language": "English",
+      "presentation": "https://speakerdeck.com/gdglviv/rustem-arzymbetov-intro-to-tensorflow",
+      "speakers": ["rustem_arzymbetov"],
+      "tags": ["Cloud"],
+      "title": "Intro to TensorFlow",
+      "videoId": "e3cuSz1hEPs"
+    },
+    "106": {
+      "complexity": "Beginner",
+      "description": "Fuelio. Success story (I'll write more info later)",
+      "language": "English",
+      "presentation": "https://speakerdeck.com/gdglviv/adrian-kajda-fuelio-success-story",
+      "speakers": ["adrian_kajda"],
+      "tags": ["Android"],
+      "title": "Fuelio. Success story",
+      "videoId": "qK7ysoohsaM"
+    },
+    "107": {
+      "complexity": "Beginner",
+      "description": "There's been much discussion about Progressive Web Apps. They're still a relatively new model. In this talk, I'll summarise few options and techniques for getting started with your own Progressive Web App",
+      "extend": 2,
+      "language": "English",
+      "speakers": ["gerard_sans"],
+      "tags": ["Web"],
+      "title": "Introduction to Progressive Web Apps in Angular 2"
+    },
+    "108": {
+      "complexity": "Intermediate",
+      "description": "Angular 2 introduces a new Data Architecture based on Reactive Programming using RxJS 5. We are really excited to see the new approach using Observable sequences aka Observables. We will cover a basic introduction of Angular 2 followed by RxJS 5 and the new HTTP API covering some basic use cases.",
+      "language": "English",
+      "presentation": "https://speakerdeck.com/gdglviv/gerard-sans-new-data-architecture-in-angular-2",
+      "speakers": ["gerard_sans"],
+      "tags": ["Web"],
+      "title": "New Data Architecture in Angular 2",
+      "videoId": "pgmLkwD-mqM"
+    },
+    "109": {
+      "complexity": "Beginner",
+      "description": "TBD",
+      "language": "English",
+      "presentation": "https://speakerdeck.com/gdglviv/jozef-vodicka-how-much-money-firebase-can-save-you",
+      "speakers": ["jozef_vodicka"],
+      "tags": ["Cloud"],
+      "title": "How much money Firebase can save you"
+    },
+    "110": {
+      "complexity": "Intermediate",
+      "description": "There's a lot of hype around MVP pattern in the Android world. Now it's time for concretes. During his presentation Mateusz will tell you how IG divided responsibilities between pattern's different components, how they tied Presenters' and Views' lifecycles and what they did to make it all testable. If you'd love to make your Fragments' and Activities' code simpler and increase your coverage, but you're confused how to glue it all together - don't miss Mateusz's talk.",
+      "language": "English",
+      "presentation": "https://speakerdeck.com/gdglviv/mateusz-herych-the-ultimate-guide-to-mvp-pattern-on-android",
+      "speakers": ["mateusz_herych"],
+      "tags": ["Android"],
+      "title": "The ultimate guide to MVP pattern on Android"
+    },
+    "111": {
+      "complexity": "Intermediate",
+      "description": "It's beauty, it's handy, it's fast, it's easy - all about Dagger 2",
+      "language": "English",
+      "presentation": "https://speakerdeck.com/gdglviv/kseniia-shumelchyk-building-modular-architecture-apps-with-dagger-2",
+      "speakers": ["david_mayboroda"],
+      "tags": ["Android"],
+      "title": "Building modular architecture apps with Dagger 2"
+    },
+    "112": {
+      "complexity": "Intermediate",
+      "description": "Last year brought a lot of new capabilities to browsers, fundamentally changing the way we will build web apps in 2016. 60FPS, push messages, offline support and background sync became a reality marking the birth of Progressive Web Apps.",
+      "language": "English",
+      "speakers": ["konrad_dzwinel"],
+      "tags": ["Web"],
+      "title": "Building web apps in 2016"
+    },
+    "113": {
+      "complexity": "Intermediate",
+      "description": "Microservices is coming with a certain workload and constraints. Let's try to see how Google Cloud Platform and App Engine can help the overall microservices implementation.",
+      "language": "English",
+      "presentation": "https://speakerdeck.com/gdglviv/jean-baptiste-clion-microservices-in-google-app-engine",
+      "speakers": ["jean-baptiste_clion"],
+      "tags": ["Cloud"],
+      "title": "Microservices in Google App Engine"
+    },
+    "114": {
+      "complexity": "Intermediate",
+      "description": "Storing account information is a common challenge many app developers face, and is often tackled in tailored solutions. Isn't there some strategy to store account credentials in a centralized place?\n\nWhat about considerations for multiple accounts? Security concerns? And when should or could I synchronize data?\n\nAndroid offers a powerful—and underrated—account manager. Let's explore the possibilities together and lay out an architecture for engineering an Android app based on accounts.",
+      "language": "English",
+      "speakers": [12],
+      "tags": ["Android"],
+      "title": "I’ve been doing some syncing…"
+    },
+    "115": {
+      "complexity": "Beginner",
+      "description": "Upcoming Android N release will bring some interesting changes to both Android run-time and toolchain. Let's talk about JIT, AOT, hybrid JIT/AOT, Jack, Jill and other acronyms and codenames ;-) In this presentation we'll see how many awesome tricks are needed to make our apps start fast and run smoothly on modern Android devices. Hopefully we'll also answer the most important question -- what's next for Android after Java.",
+      "language": "English",
+      "presentation": "https://speakerdeck.com/gdglviv/aleksander-piotrowski-android-tool-chain-and-run-time-improvements-in-n",
+      "speakers": ["paul_lammertsma"],
+      "tags": ["Android"],
+      "title": "Android tool-chain and run-time improvements in N",
+      "videoId": "WqULb6bdwwg"
+    },
+    "116": {
+      "complexity": "Beginner",
+      "description": "One of my favourite things about the web are ASCII smileys. They're sweet, fun and simply make the web a better place. How could anyone not like them ¯(ツ)/¯?\n\nThis talk is an overdose of smileys, because they're the perfect excuse to get started with Polymer. Polymer is a library built on top of the Web Components standards that helps developers create reusable components for the modern web. And since I know that everybody has been wondering how one could take over the world by creating a suite of Polymer animated emoticon components, we're going to do exactly that.",
+      "language": "English",
+      "presentation": "http://carmenpopoviciu.github.io/on-polymer-and-smileys/",
+      "speakers": ["aleksander_piotrowski"],
+      "tags": ["Web"],
+      "title": "On Polymer and smileys... or Polysmileys"
+    },
+    "117": {
+      "complexity": "Beginner",
+      "description": "Data is becoming one of the main decision-makers in an organisation. The more data we have the more challenges we face every day. Every decision we make will have long-term implications. In the talk we will go through different approaches to the data pipelines: from a simple in-house built, with comparison to open source solutions based on Apache stack(Apache Kafka, Apache Samza, Spark) and finally hosted auto-scaling solutions based Amazon(S3, Kinesis, Lambda, EMR) or Google(Pub/Sub, Dataflow, BigQuery). The talk covers the main aspects of data collecting processes altogether with further implications for data processing, highlighting appropriate solutions and architectures for the particular use-cases. ",
+      "language": "English",
+      "presentation": "https://speakerdeck.com/gdglviv/sergii-khomenko-building-data-pipelines-from-simple-to-more-advanced-hands-on-experience",
+      "speakers": ["carmen_popovicu"],
+      "tags": ["Cloud"],
+      "title": "Building data pipelines: from simple to more advanced - hands-on experience"
+    },
+    "118": {
+      "complexity": "Intermediate",
+      "description": "TBD",
+      "language": "English",
+      "presentation": "https://speakerdeck.com/gdglviv/dmytro-danylyk-kotlin-plus-android",
+      "speakers": ["sergii_khomenko"],
+      "tags": ["Android"],
+      "title": "Kotlin + Android"
+    },
+    "119": {
+      "complexity": "Beginner",
+      "description": "Writing Android apps is usually fun because you are actually building something. But what about writing tests? Boring stuff. Errr, UI tests? I am a developer!\n\nIn this talk we will take a look at options for UI tests on Android, why you should write them and how they help you with your app development workflow. No more untested apps!",
+      "language": "English",
+      "presentation": "https://speakerdeck.com/gdglviv/jana-moudra-hands-on-with-ui-testing-for-android-developers",
+      "speakers": ["dmytro_danylyk"],
+      "tags": ["Android"],
+      "title": "Hands-on with UI testing for Android developers"
+    },
+    "120": {
+      "complexity": "Beginner",
+      "description": "\"Remember back when AJAX completely changed what was possible in the desktop web? Progressive web apps are that same fundamental shift for the mobile web.\" said Rahul Row-Chowdhury (Google’s product lead for chrome and the web platform) on stage at Google I/O 2016. - Progressive web apps use service workers, app shell, push notifications, RAIL and other capabilities to deliver an app-like user experience.",
+      "language": "English",
+      "presentation": "https://speakerdeck.com/gdglviv/jakub-skvara-progressive-web-apps-prepare-your-web-for-2017",
+      "speakers": ["jana_moudra"],
+      "tags": ["Web"],
+      "title": "Progressive web apps - prepare your web for 2017"
+    },
+    "121": {
+      "complexity": "Intermediate",
+      "description": "Using service workers and other modern progressive web apps capabilities we can update our web applications to be offline-fires. In this session we'll show how to easily convert your applications be usable without the internet connection.",
+      "language": "English",
+      "speakers": ["jana_moudra"],
+      "tags": ["Web"],
+      "title": "Offline-first progressive web apps"
+    },
+    "122": {
+      "complexity": "Intermediate",
+      "description": "I would like to talk about architecture of our Settle Up app. It's all based on new Firebase announced on I/O with the help of modern frameworks like Rx, Kotlin and MVP.",
+      "language": "English",
+      "presentation": "https://speakerdeck.com/gdglviv/david-vavra-firebase-plus-kotlin-plus-rxjava-plus-mvp-practical-tips",
+      "speakers": ["jakub_škvára"],
+      "tags": ["Android"],
+      "title": "Firebase + Kotlin + RxJava + MVP: Practical Tips",
+      "videoId": "b9NgjqM6dvk"
+    },
+    "123": {
+      "complexity": "Beginner",
+      "description": "TBD",
+      "language": "English",
+      "speakers": ["david_vávra"],
+      "tags": ["Web"],
+      "title": "TBD"
+    },
+    "124": {
+      "complexity": "Intermediate",
+      "description": "You are tired of building every patch for your QA ? Still deploying to google play manually ? You still think that build server is something that you don't need ? Than I will try to show you how you can make life of your team easier with CI.",
+      "language": "English",
+      "speakers": ["valentyn_shybanov"],
+      "tags": ["Android"],
+      "title": "Continues Integration in Android",
+      "videoId": "MmGDQkgknfY"
+    },
+    "125": {
+      "complexity": "Intermediate",
+      "description": "TBD",
+      "language": "English",
+      "speakers": ["sergiy_mokienko"],
+      "tags": ["Cloud"],
+      "title": "Kubernetes in a real world"
+    },
+    "126": {
+      "complexity": "Intermediate",
+      "description": "Imagine the world where you can get any application, look into its code (even if it is not open sourced) and modify any conditional operator in any way you like. Welcome, you are in the Android applications world! Let's discover how anyone can decompile your app and, for example, hack your 'if' operators. For the beginning, we will play a role of a script kiddie and try to hack some simple app. After this, we will pretend security-conscious Android developers and try to think how we can protect ourselves.",
+      "language": "English",
+      "presentation": "https://speakerdeck.com/gdglviv/michael-pustovit-android-hacking-for-dummies-if-operator-demolytion",
+      "speakers": ["ihor_dvoretskyi"],
+      "tags": ["Android"],
+      "title": "Android hacking for dummies: ‘if’ operator demolytion",
+      "videoId": "We04nyIIsA0"
+    },
+    "127": {
+      "complexity": "Intermediate",
+      "description": "If you have any experience with Android Media Player, you definitely know how hard it is to prepare it and do not lose your mind. ExoPlayer - is an alternative, which can help you deal with media with much less pain. So lets discuss if it really a \"silver bullet\" or yet another State Machine hell.",
+      "language": "Ukrainian",
+      "presentation": "https://speakerdeck.com/gdglviv/anton-minashkin-exoplayer-media-playback-without-pain-almost-dot-dot-dot",
+      "speakers": ["michael_pustovit"],
+      "tags": ["Android"],
+      "title": "ExoPlayer: Media playback without pain (almost...)"
+    },
+    "128": {
+      "complexity": "Beginner",
+      "description": "Google announced Android Wear 2.0 become available this Fall. This major update brings some revolutionary changes in platform, that should change our approaches in developing wearable apps, including freedom of BLE tethering, system support for complications and activity recognition by GoogleFit, developed mainly for Android Wear 2.0. We will talk deeper about these new features and look at some ways to implement them in the code.",
+      "language": "English",
+      "speakers": ["anton__minashkin"],
+      "tags": ["Android"],
+      "title": "Android Wear 2.0: Great Changes Upcoming this Fall"
+    },
+    "129": {
+      "complexity": "Intermediate",
+      "description": "Accessibility is a very important step to make sure that your app reaches everyone in an easy and fun way to use. \nGood accessibility support means much more than just making sure the app supports screen readers, different fonts sizes and good contrast ratios. It is a learning process, and one in which we ourselves still have much to learn and explore. ",
+      "language": "English",
+      "presentation": "https://speakerdeck.com/gdglviv/resul-caner-yildirim-accessibility-on-android",
+      "speakers": ["constantine_mars"],
+      "tags": ["Android"],
+      "title": "Accessibility on Android"
+    },
+    "130": {
+      "complexity": "Intermediate",
+      "description": "Wearable devices are one of the most popular things nowadays. Specially, after the Apple Watch, we finally get the whole picture of the entire list of products and their features. Now, we can talk about how we can design a user experience for this type of devices.\nEvery platform has it's own design principles and approaches. But, in the core, they all need to follow same core rules. So, how we combine this core requirements with Google's Material Design and use them on an Android Wear device? Let's learn!",
+      "language": "English",
+      "speakers": ["constantine_mars"],
+      "tags": ["Android"],
+      "title": "Designing an Android Wear Application"
+    },
+    "131": {
+      "complexity": "Intermediate",
+      "description": "In this talk, I will reveal you all the deepest secrets of using MVVM architecture in Android. \nWe will discuss on how to organise your application, views, models, how to retrieve data from the model requested from the view via data binding. \nLightweight Activities and Fragments, is it even possible? \n\nYes, and I will show you how to achieve this with MVVM and DataBinding!",
+      "language": "English",
+      "presentation": "https://speakerdeck.com/gdglviv/roman-herasymenko-deal-with-it-android-databinding-explained",
+      "speakers": ["resul_caner__yildirim"],
+      "tags": ["Android"],
+      "title": "Deal with it: Android DataBinding explained"
+    },
+    "132": {
+      "description": "Get your badge, coffee, enjoy talking with tech edicts around",
+      "icon": "registration",
+      "image": "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fbackgrounds%2Fregistration.jpg?alt=media&token=27328646-d323-4cca-904c-75f021bc3ffe",
+      "title": "Registration & morning Coffee"
+    },
+    "133": {
+      "description": "Foooooooood!",
+      "icon": "lunch",
+      "image": "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fbackgrounds%2Flunch.jpg?alt=media&token=bc82aaff-92cc-4dcc-a00e-2b6f30a40225",
+      "title": "Lunch"
+    },
+    "134": {
+      "description": "Coffeeeeeee!",
+      "icon": "coffee-break",
+      "image": "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fbackgrounds%2Fcoffee-break.jpg?alt=media&token=7c2c929b-cb94-4be8-a05a-b3f678136cb7",
+      "title": "Coffee break"
+    },
+    "135": {
+      "description": "Coffeeeeeee!",
+      "icon": "coffee-break",
+      "image": "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fbackgrounds%2Fmorning.jpg?alt=media&token=d0da3d64-fc63-48c6-9d41-1460451dca64",
+      "title": "Morning coffee"
+    },
+    "136": {
+      "description": "Official start of the conference. Greetings from the organizers, sponsors and partners.",
+      "icon": "opening",
+      "image": "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fbackgrounds%2Fopening.jpg?alt=media&token=aa52dd45-50c9-4e36-9485-c1f9138ecd6b",
+      "language": "English",
+      "title": "GDG DevFest Ukraine 2016 Opening"
+    },
+    "137": {
+      "description": "Afterparty is a great time to have some fun and meet new people",
+      "icon": "party",
+      "image": "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fbackgrounds%2Fparty.jpg?alt=media&token=8e413f01-373a-40bf-bb87-1dcf1d8e6af1",
+      "title": "Afterparty & Networking"
+    },
+    "138": {
+      "description": "Make sure you won't miss closing ceremony, all gifts from out sponsors and partners will find their owners during this session.",
+      "image": "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fbackgrounds%2Fclosing.jpg?alt=media&token=f02d014a-09ee-407e-88c7-b74093e00fed",
+      "title": "Conference closing and contest winners announcements"
+    },
+    "139": {
+      "description": "",
+      "language": "English",
+      "title": "Keynote"
+    },
+    "140": {
+      "description": "TBD",
+      "language": "English",
+      "title": "TBD"
+    }
+  },
+  "speakers": {
+    "ekaterina_kamenskaya": {
+      "bio": "",
+      "company": "Google",
+      "companyLogo": "/images/sponsors/google.svg",
+      "companyLogoUrl": "../images/sponsors/google.svg",
+      "country": "Russia",
+      "featured": false,
+      "name": "Ekaterina Kamenskaya",
+      "photo": "/images/people/speakers/ekaterina.jpg",
+      "photoUrl": "../images/people/speakers/ekaterina.jpg",
+      "shortBio": "TechLead",
+      "socials": [
+        {
+          "icon": "linkedin",
+          "link": "https://www.linkedin.com/in/ekaterina-kamenskaya-78795022/",
+          "name": "LinkedIn"
+        }
+      ],
+      "order": 0,
+      "title": "Get real happy at work!"
+    },
+    "Alberto_Gutierrez ": {
+      "bio": "",
+      "company": "Red Hat",
+      "companyLogo": "../images/companies/Red_hat_logo.png",
+      "companyLogoUrl": "../images/companies/Red_hat_logo.png",
+      "country": "Spain",
+      "featured": false,
+      "name": "Alberto Gutierrez ",
+      "photo": "/images/people/speakers/alberto_gutierrez.jpeg",
+      "photoUrl": "../images/people/speakers/alberto_gutierrez.jpeg",
+      "shortBio": "",
+      "socials": [
+        {
+          "icon": "twitter",
+          "link": "https://twitter.com/aljesusg",
+          "name": "Twitter"
+        },
+        {
+          "icon": "linkedin",
+          "link": "https://www.linkedin.com/in/aljesusg",
+          "name": "LinkedIn"
+        }
+      ],
+      "order": 1,
+      "title": "Observability and ServiceMesh with Istio & Kiali"
+    },
+    "Estefania_Garcia ": {
+      "bio": "",
+      "company": "Npkill",
+      "companyLogo": "../images/companies/npkill.png",
+      "companyLogoUrl": "../images/companies/npkill.png",
+      "country": "Spain",
+      "featured": false,
+      "name": "Estefania García",
+      "photo": "/images/people/speakers/estefania_garcia.jpg",
+      "photoUrl": "../images/people/speakers/estefania_garcia.jpg",
+      "shortBio": "",
+      "socials": [
+        {
+          "icon": "twitter",
+          "link": "https://twitter.com/Nyablk",
+          "name": "Twitter"
+        }
+      ],
+      "order": 2,
+      "title": "Managing state with NgRx and Pokemon"
+    },
+    "Carlos_Caballero": {
+      "bio": "",
+      "company": "Universitat Oberta de Catalunya",
+      "companyLogo": "../images/companies/universidad_oberta_cataluna.png",
+      "companyLogoUrl": "../images/companies/universidad_oberta_cataluna.png",
+      "country": "Spain",
+      "featured": false,
+      "name": "Carlos Caballero",
+      "photo": "/images/people/speakers/carlos_caballero.jpg",
+      "photoUrl": "../images/people/speakers/carlos_caballero.jpg",
+      "shortBio": "",
+      "socials": [
+        {
+          "icon": "twitter",
+          "link": "https://twitter.com/Carlillo",
+          "name": "Twitter"
+        }
+      ],
+      "order": 3,
+      "title": "Arquitectura en node.js usando NestJS"
+    },
+    "moises_martinez": {
+      "bio": "",
+      "company": "Sngular",
+      "companyLogo": "../images/companies/sngular.png",
+      "companyLogoUrl": "../images/companies/sngular.png",
+      "country": "Spain",
+      "featured": false,
+      "name": "Moisés Martinez",
+      "photo": "/images/people/speakers/moises_martinez.jpg",
+      "photoUrl": "../images/people/speakers/moises_martinez.jpg",
+      "shortBio": "",
+      "socials": [
+        {
+          "icon": "twitter",
+          "link": "https://twitter.com/moisipm",
+          "name": "Twitter"
+        }
+      ],
+      "order": 4,
+      "title": "Desmontando Alphastar"
+    },
+    "sergio_casero": {
+      "bio": "",
+      "company": "Worldline e-payment services",
+      "companyLogo": "../images/companies/wworldline-logo.jpg",
+      "companyLogoUrl": "../images/companies/worldline-logo.jpg",
+      "country": "Spain",
+      "featured": false,
+      "name": "Sergio Casero",
+      "photo": "/images/people/speakers/sergio_casero.jpg",
+      "photoUrl": "../images/people/speakers/sergio_casero.jpg",
+      "shortBio": "",
+      "socials": [
+        {
+          "icon": "twitter",
+          "link": "https://twitter.com/Sergioch23",
+          "name": "Twitter"
+        }
+      ],
+      "order": 5,
+      "title": "Kotlin multiplatform: un lenguaje para dominarlos a todos"
+    },
+    "daniel_pizarro": {
+      "bio": "",
+      "company": "Worldline e-payment services",
+      "companyLogo": "../images/companies/wworldline-logo.jpg",
+      "companyLogoUrl": "../images/companies/worldline-logo.jpg",
+      "country": "Spain",
+      "featured": false,
+      "name": "Daniel Pizarro",
+      "photo": "/images/people/speakers/daniel-pizarro.jpg",
+      "photoUrl": "../images/people/speakers/daniel-pizarro.jpg",
+      "shortBio": "",
+      "socials": [
+        {
+          "icon": "twitter",
+          "link": "https://twitter.com/Dany4794",
+          "name": "Twitter"
+        }
+      ],
+      "order": 6,
+      "title": "Kotlin multiplatform: un lenguaje para dominarlos a todos"
+    },
+    "imran_settuba": {
+      "bio": "",
+      "company": "47 Degrees",
+      "companyLogo": "../images/companies/47_degrees.jpg",
+      "companyLogoUrl": "../images/companies/47_degrees.jpg",
+      "country": "Germany",
+      "featured": false,
+      "name": "Daniel Pizarro",
+      "photo": "/images/people/speakers/imran_settuba.png",
+      "photoUrl": "../images/people/speakers/imran_settuba.png",
+      "shortBio": "",
+      "socials": [
+        {
+          "icon": "github",
+          "link": "https://github.com/i-walker",
+          "name": "Github"
+        }
+      ],
+      "order": 7,
+      "title": "Functional plant delivery in Kotlin with ArrowFx"
+    },
+    "milos_marinkovic": {
+      "bio": "",
+      "company": "GDG Berlin Android",
+      "companyLogo": "../images/companies/gdg_berlin.png",
+      "companyLogoUrl": "../images/companies/gdg_berlin.png",
+      "country": "Germany",
+      "featured": false,
+      "name": "Milos Marinkovic",
+      "photo": "/images/people/speakers/milos_marinkovic.jpg",
+      "photoUrl": "../images/people/speakers/milos_marinkovic.jpg",
+      "shortBio": "",
+      "socials": [
+        {
+          "icon": "twitter",
+          "link": "https://github.com/milosmns",
+          "name": "Twitter"
+        }
+      ],
+      "order": 8,
+      "title": "Coroutines vs. ReactiveX: Handling errors"
+    },
+    "milos_marinkovic": {
+      "bio": "",
+      "company": "Karumi",
+      "companyLogo": "../images/companies/karumi.png",
+      "companyLogoUrl": "../images/companies/karumi.png",
+      "country": "Spain",
+      "featured": false,
+      "name": "Milos Marinkovic",
+      "photo": "/images/people/speakers/pedro_gomez.jpg",
+      "photoUrl": "../images/people/speakers/pedro_gomez.jpg",
+      "shortBio": "",
+      "socials": [
+        {
+          "icon": "twitter",
+          "link": "https://github.com/pedro_g_s",
+          "name": "Twitter"
+        },
+        {
+          "icon": "github",
+          "link": "https://github.com/pedrovgs",
+          "name": "Github"
+        }
+      ],
+      "order": 9,
+      "title": "UI Testing with Espresso and Test Doubles"
+    }
+  },
+  "team": [
+    {
+      "members": [
+        {
+          "name": "Jose Antonio Palacios",
+          "photo": "/images/people/team/jose_palacios.jpeg",
+          "photoUrl": "../images/people/team/jose_palacios.jpeg",
+          "socials": [
+            {
+              "icon": "linkedin",
+              "link": "https://www.linkedin.com/in/joseantpalacios/",
+              "name": "Linkedin"
+            },
+            {
+              "icon": "twitter",
+              "link": "https://twitter.com/JoseAntPR",
+              "name": "Twitter"
+            },
+            {
+              "icon": "github",
+              "link": "https://github.com/JoseAntpr",
+              "name": "Github"
+            }
+          ],
+          "order": 1,
+          "title": "Lead Organizer"
+        },
+        {
+          "name": "Cristina Díaz",
+          "photo": "/images/people/team/cris.jpg",
+          "photoUrl": "../images/people/team/cris.jpg",
+          "socials": [
+            {
+              "icon": "linkedin",
+              "link": "https://www.linkedin.com/in/cdg-97/",
+              "name": "Linkedin"
+            },
+            {
+              "icon": "twitter",
+              "link": "https://twitter.com/ladynightmare_2",
+              "name": "Twitter"
+            },
+            {
+              "icon": "github",
+              "link": "https://github.com/LadyNightmare",
+              "name": "Github"
+            }
+          ],
+          "order": 0,
+          "title": "Communities & Party Lead Organizer"
+        },
+        {
+          "name": "Juanma Rojas",
+          "photo": "/images/people/team/Juanma_Rojas.jpg",
+          "photoUrl": "../images/people/team/Juanma_Rojas.jpg",
+          "socials": [
+            {
+              "icon": "linkedin",
+              "link": "https://www.linkedin.com/in/juanma-rojas/",
+              "name": "Linkedin"
+            },
+            {
+              "icon": "twitter",
+              "link": "https://twitter.com/JRFstack",
+              "name": "Twitter"
+            },
+            {
+              "icon": "github",
+              "link": "https://github.com/juanmarc82",
+              "name": "Github"
+            }
+          ],
+          "order": 9,
+          "title": "Community relations"
+        },
+        {
+          "name": "Quino Terrasa",
+          "photo": "/images/people/team/joaquin_terrasa.png",
+          "photoUrl": "../images/people/team/joaquin_terrasa.png",
+          "socials": [
+            {
+              "icon": "linkedin",
+              "link": "https://www.linkedin.com/in/quinoterrasa/",
+              "name": "Linkedin"
+            },
+            {
+              "icon": "twitter",
+              "link": "https://twitter.com/flamenquino",
+              "name": "Twitter"
+            },
+            {
+              "icon": "github",
+              "link": "https://github.com/espetro",
+              "name": "Github"
+            }
+          ],
+          "order": 12,
+          "title": "Website && RRSS Specialist"
+        },
+        {
+          "name": "Pedro Fernández",
+          "photo": "/images/people/sr_x.jpg",
+          "photoUrl": "../images/people/team/pedro_fdez.jpg",
+          "socials": [
+            {
+              "icon": "linkedin",
+              "link": "https://www.linkedin.com/in/pedrofernandezcamacho",
+              "name": "Linkedin"
+            },
+            {
+              "icon": "twitter",
+              "link": "https://twitter.com/pedringcoding",
+              "name": "Twitter"
+            },
+            {
+              "icon": "github",
+              "link": "https://github.com/pedringcoding",
+              "name": "Github"
+            }
+          ],
+          "order": 2,
+          "title": "Sponsors Lead Organizer"
+        },
+        {
+          "name": "A. Rosa Castillo",
+          "photo": "images/people/team/a_rosa.jpg",
+          "photoUrl": "../images/people/team/a_rosa.jpg",
+          "socials": [
+            {
+              "icon": "linkedin",
+              "link": "https://www.linkedin.com/in/arosacastillo/",
+              "name": "Linkedin"
+            },
+            {
+              "icon": "twitter",
+              "link": "https://twitter.com/rosacastilloPhD",
+              "name": "Twitter"
+            },
+            {
+              "icon": "github",
+              "link": "https://github.com/cyberosa",
+              "name": "Github"
+            }
+          ],
+          "order": 3,
+          "title": "Speakers Lead Organizer"
+        },
+        {
+          "name": "Karol Depka Pradzinski",
+          "photo": "/images/people/team/karol_depka.jpg",
+          "photoUrl": "../images/people/team/karol_depka.jpg",
+          "socials": [
+            {
+              "icon": "linkedin",
+              "link": "https://www.linkedin.com/in/karoldepka",
+              "name": "Linkedin"
+            },
+            {
+              "icon": "twitter",
+              "link": "https://twitter.com/karol_depka",
+              "name": "Twitter"
+            },
+            {
+              "icon": "github",
+              "link": " https://github.com/karol-depka",
+              "name": "Github"
+            }
+          ],
+          "order": 11,
+          "title": "Community relations Advisor"
+        },
+        {
+          "name": "Salvador León",
+          "photo": "/images/people/team/Salvador.jpeg",
+          "photoUrl": "../images/people/team/Salvador.jpeg",
+          "socials": [
+            {
+              "icon": "linkedin",
+              "link": "https://www.linkedin.com/in/salvador-leon-vaz/",
+              "name": "Linkedin"
+            },
+            {
+              "icon": "twitter",
+              "link": "https://twitter.com/Sleonvaz",
+              "name": "Twitter"
+            },
+            {
+              "icon": "github",
+              "link": "https://github.com/sleonvaz",
+              "name": "Github"
+            }
+          ],
+          "order": 8,
+          "title": "Finance & Party"
+        },
+        {
+          "name": "Miguel Angel Ruiz",
+          "photo": "/images/people/team/miguel_angel.jpg",
+          "photoUrl": "../images/people/team/miguel_angel.jpg",
+          "socials": [
+            {
+              "icon": "linkedin",
+              "link": "https://www.linkedin.com/in/maruiz81/",
+              "name": "Linkedin"
+            },
+            {
+              "icon": "twitter",
+              "link": "https://twitter.com/maRuizLopez",
+              "name": "Twitter"
+            },
+            {
+              "icon": "github",
+              "link": "https://github.com/maruiz81",
+              "name": "Github"
+            }
+          ],
+          "order": 5,
+          "title": "Speakers Lead Organizer"
+        },
+        {
+          "name": "Francisco Baena",
+          "photo": "/images/people/team/baenans.jpeg",
+          "photoUrl": "../images/people/team/baenans.jpeg",
+          "socials": [
+            {
+              "icon": "linkedin",
+              "link": "https://linkedin.co.uk/in/baenans",
+              "name": "Linkedin"
+            },
+            {
+              "icon": "twitter",
+              "link": "https://twitter.com/baenans",
+              "name": "Twitter"
+            },
+            {
+              "icon": "github",
+              "link": "https://github.com/baenans",
+              "name": "Github"
+            }
+          ],
+          "order": 4,
+          "title": "Event Advisor"
+        },
+        {
+          "name": "Yasmina Gil",
+          "photo": "/images/people/team/YasminaGil.JPG",
+          "photoUrl": "../images/people/team/YasminaGil.JPG",
+          "socials": [
+            {
+              "icon": "linkedin",
+              "link": "https://www.linkedin.com/in/yasmina-gil-87227624/",
+              "name": "Linkedin"
+            },
+            {
+              "icon": "twitter",
+              "link": "https://twitter.com/QaYasmina",
+              "name": "Twitter"
+            },
+            {
+              "icon": "github",
+              "link": "https://github.com/yasmina999",
+              "name": "Github"
+            }
+          ],
+          "order": 6,
+          "title": "Speakers & Party"
+        },
+        {
+          "name": "Azahar Zafra",
+          "photo": "/images/people/team/Azahar.jpg",
+          "photoUrl": "../images/people/team/Azahar.jpg",
+          "socials": [
+            {
+              "icon": "linkedin",
+              "link": "https://www.linkedin.com/in/azaharzafra/",
+              "name": "Linkedin"
+            },
+            {
+              "icon": "twitter",
+              "link": "https://twitter.com/azaharvyb",
+              "name": "Twitter"
+            },
+            {
+              "icon": "github",
+              "link": "https://github.com/Azahar",
+              "name": "Github"
+            }
+          ],
+          "order": 7,
+          "title": "Event Advisor"
+        },
+        {
+          "name": "Marta Niemiec",
+          "photo": "/images/people/team/marta_niemiec.jpg",
+          "photoUrl": "../images/people/team/marta_niemiec.jpg",
+          "socials": [
+            {
+              "icon": "linkedin",
+              "link": "https://www.linkedin.com/in/martaniemiec/",
+              "name": "Linkedin"
+            }
+          ],
+          "order": 14,
+          "title": "Designer"
+        },
+        {
+          "name": "Javi Ramirez",
+          "photo": "/images/people/team/javi_ramirez.jpeg",
+          "photoUrl": "../images/people/team/javi_ramirez.jpeg",
+          "socials": [
+            {
+              "icon": "linkedin",
+              "link": "https://www.linkedin.com/in/javiramirezcapilla/",
+              "name": "Linkedin"
+            },
+            {
+              "icon": "twitter",
+              "link": "https://twitter.com/xlramirez",
+              "name": "Twitter"
+            }
+          ],
+          "order": 14,
+          "title": "RRSS & Marketing Advisor"
+        }
+      ],
+      "title": "Core Team"
+    }
+  ],
+  "tickets": [
+    {
+      "available": true,
+      "currency": "$",
+      "ends": "Oct 13",
+      "info": "Requires valid student/lecturer ID",
+      "name": "EDU",
+      "price": 80,
+      "soldOut": false,
+      "starts": "Feb 7",
+      "url": "https://2event.com/events/1027108"
+    },
+    {
+      "available": false,
+      "currency": "$",
+      "ends": "Mar 31",
+      "inDemand": false,
+      "info": "Or first 50 tickets",
+      "name": "Pre Early Bird",
+      "price": 100,
+      "regular": true,
+      "soldOut": true,
+      "starts": "Feb 7",
+      "url": "https://2event.com/events/1027108"
+    },
+    {
+      "available": true,
+      "currency": "$",
+      "ends": "Jun 30",
+      "inDemand": true,
+      "info": "Or first 200 tickets",
+      "name": "Early Bird",
+      "price": 120,
+      "regular": true,
+      "soldOut": false,
+      "starts": "Feb 7",
+      "url": "https://2event.com/events/1027108"
+    },
+    {
+      "available": false,
+      "currency": "$",
+      "ends": "Sep 30",
+      "inDemand": false,
+      "info": "Or first 350 tickets",
+      "name": "Regular",
+      "price": 160,
+      "primary": true,
+      "regular": true,
+      "soldOut": false,
+      "starts": "Jul 1",
+      "url": "https://2event.com/events/1027108"
+    },
+    {
+      "available": true,
+      "currency": "$",
+      "info": "Money worth nothing when you love it",
+      "name": "I Love DFUA",
+      "price": 280,
+      "soldOut": false,
+      "url": "https://2event.com/events/1027108"
+    }
+  ],
+  "triggers": {
+    "images": false
+  },
+  "videos": [
+    {
+      "speakers": "Yonatan Levin",
+      "thumbnail": "https://firebasestorage.googleapis.com/v0/b/hoverboard-firebase.appspot.com/o/images%2Fsessions%2F2017%2FGDG-(65).jpg?alt=media&token=f25f04cf-9a10-42ed-b2ff-e41fad910c39",
+      "title": "Making mistakes and building products from 1st to 30M users",
+      "youtubeId": "hUY8jg9-ieE"
+    },
+    {
+      "speakers": "Britt Barak",
+      "thumbnail": "https://firebasestorage.googleapis.com/v0/b/hoverboard-firebase.appspot.com/o/images%2Fsessions%2F2017%2FGDG-(92).jpg?alt=media&token=0dfc3002-6d6e-4e9f-8518-5941fc501a04",
+      "title": "When your app is asleep",
+      "youtubeId": "D6WEL_inXxk"
+    },
+    {
+      "speakers": "Asim Hussain",
+      "thumbnail": "https://firebasestorage.googleapis.com/v0/b/hoverboard-firebase.appspot.com/o/images%2Fsessions%2F2017%2FGDG-(173).jpg?alt=media&token=779549b7-6578-4092-9e32-7785fff270c5",
+      "title": "How to hack a node app?",
+      "youtubeId": "iN92OsbtgGI"
+    },
+    {
+      "speakers": "Marcos Placona",
+      "thumbnail": "https://firebasestorage.googleapis.com/v0/b/hoverboard-firebase.appspot.com/o/images%2Fsessions%2F2017%2FGDG-(186).jpg?alt=media&token=54b241f6-b1d4-4357-b5a3-05e00ed55814",
+      "title": "I just hacked your app!",
+      "youtubeId": "GrLYrJ-aNSE"
+    },
+    {
+      "speakers": "Mateusz Herych",
+      "thumbnail": "https://firebasestorage.googleapis.com/v0/b/hoverboard-firebase.appspot.com/o/images%2Fsessions%2F2017%2FGDG-(238).jpg?alt=media&token=805c0d09-95ed-4d8b-8b87-85f3c4c5f427",
+      "title": "Release Android apps globally with no headache and minimum stress",
+      "youtubeId": "OhcJqVEnc7I"
+    },
+    {
+      "speakers": "Shmuela Jacobs",
+      "thumbnail": "https://firebasestorage.googleapis.com/v0/b/hoverboard-firebase.appspot.com/o/images%2Fsessions%2F2017%2FGDG-(271).jpg?alt=media&token=dfbf87f8-5a72-44cd-b2b1-3388b65ffebb",
+      "title": "Web goes Native: Progressive Web Apps with Angular",
+      "youtubeId": "OcIZS4jNgP0"
+    },
+    {
+      "speakers": "Martin Splitt",
+      "thumbnail": "https://firebasestorage.googleapis.com/v0/b/hoverboard-firebase.appspot.com/o/images%2Fsessions%2F2017%2FGDG-(81).jpg?alt=media&token=3ff4ca98-5b27-4253-a0ae-e740b6dc45a3",
+      "title": "A look at the guts of Polymer 2.0",
+      "youtubeId": "tRdx6Q5x3Fw"
+    },
+    {
+      "speakers": "Mete Atamel",
+      "thumbnail": "https://firebasestorage.googleapis.com/v0/b/hoverboard-firebase.appspot.com/o/images%2Fsessions%2F2017%2FGDG-(197).jpg?alt=media&token=83227977-a290-4816-875f-67b71586111e",
+      "title": "Apache Beam and Google Cloud DataFlow",
+      "youtubeId": "RxHijHZd0oM"
+    },
+    {
+      "speakers": "Dmitriy Novakovskiy",
+      "thumbnail": "https://firebasestorage.googleapis.com/v0/b/hoverboard-firebase.appspot.com/o/images%2Fsessions%2F2017%2FGDG-(169).jpg?alt=media&token=15f84e75-f070-4fe8-9d94-454bdf672bf9",
+      "title": "Google Cloud Spanner: Going global with relational database",
+      "youtubeId": "iGMjK8UY9gQ"
+    },
+    {
+      "speakers": "Jose Aguinaga",
+      "thumbnail": "https://firebasestorage.googleapis.com/v0/b/hoverboard-firebase.appspot.com/o/images%2Fsessions%2F2017%2FGDG-(213).jpg?alt=media&token=9b25ad9a-10d0-4887-8595-816662dc4402",
+      "title": "Buy my mixtape: the Payment Request API in action",
+      "youtubeId": "uDPRrmjmAD0a"
+    },
+    {
+      "speakers": "Denis Radin",
+      "thumbnail": "https://firebasestorage.googleapis.com/v0/b/hoverboard-firebase.appspot.com/o/images%2Fsessions%2F2017%2FGDG-(345).jpg?alt=media&token=f3e71338-c085-4fe7-b6cf-c7ef8212c930",
+      "title": "Applying NASA coding guidelines to JavaScript or airspace is closer than you may think",
+      "youtubeId": "E4fpZm17GNI"
+    },
+    {
+      "speakers": "Yonatan Levin",
+      "thumbnail": "https://firebasestorage.googleapis.com/v0/b/hoverboard-firebase.appspot.com/o/images%2Fsessions%2F2017%2FGDG-(369).jpg?alt=media&token=453207bd-cb21-41b6-a2e5-9da05273788d",
+      "title": "Architecture Components. The one that got away",
+      "youtubeId": "FzmDFscF41o"
+    },
+    {
+      "speakers": "Michael Pustovit",
+      "thumbnail": "https://firebasestorage.googleapis.com/v0/b/hoverboard-firebase.appspot.com/o/images%2Fsessions%2F2017%2FGDG-(377).jpg?alt=media&token=8c9ec397-1a38-4d7c-95ca-7d55f499eb37",
+      "title": "Gradle scripts in Kotlin: is it cool?",
+      "youtubeId": "XLNJkxWoCoc"
+    },
+    {
+      "speakers": "Yuliya Kaleda",
+      "thumbnail": "https://firebasestorage.googleapis.com/v0/b/hoverboard-firebase.appspot.com/o/images%2Fsessions%2F2017%2FGDG-(413).jpg?alt=media&token=b70b4a85-5634-4a83-8902-fa85cefb7113",
+      "title": "Make Your App Instant!",
+      "youtubeId": "v4RfZ0f_HVE"
+    },
+    {
+      "speakers": "Tim Messerschmidt",
+      "thumbnail": "https://firebasestorage.googleapis.com/v0/b/hoverboard-firebase.appspot.com/o/images%2Fsessions%2F2017%2FGDG-(350).jpg?alt=media&token=12f727f2-f9c8-4749-b76c-2da7a90cd3bb",
+      "title": "Hands-on Flutter",
+      "youtubeId": "0IY6J5baAj8"
+    },
+    {
+      "speakers": "Gerard Sans",
+      "thumbnail": "https://firebasestorage.googleapis.com/v0/b/hoverboard-firebase.appspot.com/o/images%2Fsessions%2F2017%2FGDG-(370).jpg?alt=media&token=d8627038-bb13-4e07-8e76-feca75e26086",
+      "title": "Reactive Animations Using Angular",
+      "youtubeId": "ij8kaavQ61Y"
+    },
+    {
+      "speakers": "Tom Wilkie",
+      "thumbnail": "https://firebasestorage.googleapis.com/v0/b/hoverboard-firebase.appspot.com/o/images%2Fsessions%2F2017%2FGDG-(352).jpg?alt=media&token=5656ddcc-6ff6-4846-9ef8-22bc0322a5de",
+      "title": "gRPC & Kubernetes",
+      "youtubeId": "YiWgWqOe_PI"
+    },
+    {
+      "speakers": "Mat Ryer",
+      "thumbnail": "https://firebasestorage.googleapis.com/v0/b/hoverboard-firebase.appspot.com/o/images%2Fsessions%2F2017%2FGDG-(363).jpg?alt=media&token=09ffdbc7-b717-49c8-abb8-3bae33552d14",
+      "title": "How I build APIs capable of gigantic scale in Go",
+      "youtubeId": "FkPqqakDeRY"
+    },
+    {
+      "speakers": "Juarez Filho",
+      "thumbnail": "https://firebasestorage.googleapis.com/v0/b/hoverboard-firebase.appspot.com/o/images%2Fsessions%2F2017%2FGDG-(383).jpg?alt=media&token=9aa8263d-e6b3-4141-83f9-17ef48409ec1",
+      "title": "Let Firebase help you to build better Front-end apps",
+      "youtubeId": "xJsgIH4U_DM"
+    },
+    {
+      "speakers": "Andrey Lipattsev",
+      "thumbnail": "https://firebasestorage.googleapis.com/v0/b/hoverboard-firebase.appspot.com/o/images%2Fsessions%2F2017%2FGDG-(412).jpg?alt=media&token=bf36bdf0-cea2-48a6-83e9-a3d6c3226f8f",
+      "title": "AMP in 2018. Still fast, still furious",
+      "youtubeId": "iPwlMr-j76w"
+    },
+    {
+      "speakers": "Ihor Dvoretskyi",
+      "thumbnail": "https://firebasestorage.googleapis.com/v0/b/hoverboard-firebase.appspot.com/o/images%2Fsessions%2F2017%2FGDG-(466).jpg?alt=media&token=76a822f9-9d82-4d5e-83ad-5e3f1593f2fe",
+      "title": "Welcome to the world of Open Source. Stories by Kubernetes contributor",
+      "youtubeId": "HhpHf3GefXI"
+    },
+    {
+      "speakers": "Joanna Chwastowska",
+      "thumbnail": "https://firebasestorage.googleapis.com/v0/b/hoverboard-firebase.appspot.com/o/images%2Fsessions%2F2017%2FGDG-(469).jpg?alt=media&token=80669b99-81f4-4d7d-8160-e0174da62b85",
+      "title": "100x impact - from an Individual Contributor to Technical Leader",
+      "youtubeId": "O1dtdDpQXU8"
+    }
+  ],
+  "previousSpeakers": {
+    "jairo_caro": {
+      "company": "Interacso",
+      "companyLogo": "../images/companies/interacso.png",
+      "country": "Spain",
+      "id": "jairo_caro",
+      "name": "Jairo Caro",
+      "order": 6,
+      "photoUrl": "../images/people/2018_speakers/jairo_caro.jpeg",
+      "sessions": {
+        "2018": [
+          {
+            "tags": ["ML"],
+            "title": "Neataptic, machine learning al alcance de todos"
+          }
+        ]
+      },
+      "socials": [
+        {
+          "icon": "twitter",
+          "link": "https://twitter.com/kidandcat",
+          "name": "Twitter"
+        }
+      ],
+      "title": "Senior developer"
+    },
+    "jesus_rivera": {
+      "company": "Netbeast",
+      "companyLogo": "../images/companies/netbeast.png",
+      "country": "Spain",
+      "id": "jesus_rivera",
+      "name": "Jesús Rivera",
+      "order": 0,
+      "photoUrl": "../images/people/2018_speakers/jesus_rivera.jpg",
+      "sessions": {
+        "2018": [
+          {
+            "tags": ["git", "management"],
+            "title": "Midiendo la Programación"
+          }
+        ]
+      },
+      "socials": [
+        {
+          "icon": "twitter",
+          "link": "https://twitter.com/jsdariorivera",
+          "name": "Twitter"
+        }
+      ],
+      "title": "CTO"
+    },
+    "antonio_moreno": {
+      "company": "The Workshop",
+      "companyLogo": "../images/companies/the_workshop.png",
+      "country": "Spain",
+      "id": "antonio_moreno",
+      "name": "Antonio Moreno",
+      "order": 17,
+      "photoUrl": "../images/people/2018_speakers/antonio_moreno.png",
+      "sessions": {
+        "2018": [
+          {
+            "tags": ["blockchain"],
+            "title": "Hands on Blockchain"
+          }
+        ]
+      },
+      "socials": [
+        {
+          "icon": "twitter",
+          "link": "https://twitter.com/nito__moreno",
+          "name": "Twitter"
+        }
+      ],
+      "title": "Software Engineer"
+    },
+    "jose_marquez": {
+      "company": "Ikicode",
+      "companyLogo": "../images/companies//ikicode.png",
+      "country": "Spain",
+      "id": "jose_marquez",
+      "name": "Jose Manuel Márquez",
+      "order": 3,
+      "photoUrl": "../images/people/2018_speakers/jose_markez.jpeg",
+      "sessions": {
+        "2018": [
+          {
+            "tags": ["Mobile", "Dart"],
+            "title": "Desarrollo de aplicaciones móviles con Flutter"
+          }
+        ]
+      },
+      "socials": [
+        {
+          "icon": "twitter",
+          "link": "https://twitter.com/jm_markez",
+          "name": "Twitter"
+        }
+      ],
+      "title": "Founder"
+    },
+    "david_bueno": {
+      "company": "Ayuntamiento Málaga",
+      "companyLogo": "../images/companies/ayuntamiento_malaga.png",
+      "country": "Spain",
+      "id": "david_bueno",
+      "name": "David Bueno",
+      "order": 7,
+      "photoUrl": "../images/people/2018_speakers/david_bueno.jpeg",
+      "sessions": {
+        "2018": [
+          {
+            "tags": ["Web", "IA", "Voice"],
+            "title": "Victoria la Malagueña: El chatbot desarrollado con Dialogflow y NodeJS con el que hablar sobre Málaga"
+          }
+        ]
+      },
+      "socials": [
+        {
+          "icon": "twitter",
+          "link": "https://twitter.com/davidbuenov",
+          "name": "Twitter"
+        }
+      ],
+      "title": "Software engineer Lead"
+    },
+    "carlos_hernandez": {
+      "company": "Freelance",
+      "country": "Spain",
+      "id": "carlos_hernandez",
+      "name": "Carlos Hernández",
+      "order": 15,
+      "photoUrl": "../images/people/2018_speakers/carlos_hernandez.jpg",
+      "sessions": {
+        "2018": [
+          {
+            "tags": ["Product", "Development"],
+            "title": "7 tips de producto que te harán mejor desarrollador"
+          }
+        ]
+      },
+      "socials": [
+        {
+          "icon": "twitter",
+          "link": "https://twitter.com/CodingCarlos",
+          "name": "Twitter"
+        }
+      ],
+      "title": "Senior Android Developer"
+    },
+    "elena_guzman": {
+      "company": "Bravent",
+      "companyLogo": "../images/companies/bravent.png",
+      "country": "Spain",
+      "id": "elena_guzman",
+      "name": "Elena Guzmán",
+      "order": 4,
+      "photoUrl": "../images/people/2018_speakers/elena_guzman.jpg",
+      "sessions": {
+        "2018": [
+          {
+            "tags": ["video_games"],
+            "title": "Creando videojuegos con Godot"
+          }
+        ],
+        "2017": [
+          {
+            "tags": ["code", "Development", "General"],
+            "title": "Refactoriza tu vida"
+          }
+        ]
+      },
+      "socials": [
+        {
+          "icon": "twitter",
+          "link": "https://twitter.com/Beelzenef_",
+          "name": "Twitter"
+        }
+      ],
+      "title": "Junior developer"
+    },
+    "carlos_sanchez": {
+      "company": "OnTruck",
+      "companyLogo": "../images/companies/ontruck.png",
+      "country": "Spain",
+      "id": "carlos_sanchez",
+      "name": "Carlos Sánchez",
+      "order": 21,
+      "photoUrl": "../images/people/2018_speakers/carlos_sanchez.jpg",
+      "sessions": {
+        "2018": [
+          {
+            "tags": ["General", "Design", "Product"],
+            "title": "Why developers are a essential part of our product design proces"
+          }
+        ]
+      },
+      "socials": [
+        {
+          "icon": "twitter",
+          "link": "https://twitter.com/chocotuits",
+          "name": "Twitter"
+        }
+      ],
+      "title": "Lead product designer"
+    },
+    "cinthia_galvez": {
+      "company": "CXMeeting",
+      "companyLogo": "../images/companies/cxmeeting.png",
+      "country": "Czech Republic",
+      "id": "cinthia_galvez",
+      "name": "Cynthia Gálvez",
+      "order": 16,
+      "photoUrl": "../images/people/2018_speakers/cinthia_galvez.jpg",
+      "sessions": {
+        "2018": [
+          {
+            "tags": ["Augmented_reality"],
+            "title": "Realidad Aumentada: desde la tecnología a la calidad de contenidos"
+          }
+        ]
+      },
+      "socials": [
+        {
+          "icon": "twitter",
+          "link": "https://twitter.com/icynthia",
+          "name": "Twitter"
+        }
+      ],
+      "title": "Creative director"
+    },
+    "juanjo_montiel": {
+      "company": "Pasiona consulting",
+      "companyLogo": "../images/companies/pasiona.jpeg",
+      "country": "Spain",
+      "id": "juanjo_montiel",
+      "name": "Juanjo Montiel",
+      "order": 13,
+      "photoUrl": "../images/people/2018_speakers/juanjo_montiel.jpeg",
+      "sessions": {
+        "2018": [
+          {
+            "tags": ["Web"],
+            "title": "Dando significado a la World wide web.¿Cómo desarrollar para todas las personas?"
+          }
+        ]
+      },
+      "socials": [
+        {
+          "icon": "twitter",
+          "link": "https://twitter.com/kastwe",
+          "name": "Twitter"
+        }
+      ],
+      "title": "Senior developer"
+    },
+    "dario_alonso": {
+      "company": "Freelance",
+      "country": "Spain",
+      "id": "dario_alonso",
+      "name": "Darío Alonso",
+      "order": 11,
+      "photoUrl": "../images/people/2018_speakers/dario_alonso.jpg",
+      "sessions": {
+        "2018": [
+          {
+            "tags": ["Web", "Mobile", "Development"],
+            "title": "Android, desde el lado del mal"
+          }
+        ]
+      },
+      "socials": [
+        {
+          "icon": "twitter",
+          "link": "https://twitter.com/dariovillar",
+          "name": "Twitter"
+        }
+      ],
+      "title": "Developer"
+    },
+    "adrian_gonzalez": {
+      "company": "Rindus",
+      "companyLogo": "../images/companies/rindus.png",
+      "country": "Spain",
+      "id": "adrian_gonzalez",
+      "name": "Adrián González",
+      "order": 2,
+      "photoUrl": "../images/people/2018_speakers/adrian_gonzalez.jpeg",
+      "sessions": {
+        "2018": [
+          {
+            "tags": ["Scala", "Backend"],
+            "title": "A strongly typed martini. Shaken, not stirred"
+          }
+        ]
+      },
+      "socials": [
+        {
+          "icon": "twitter",
+          "link": "https://twitter.com/adriangonzl",
+          "name": "Twitter"
+        }
+      ],
+      "title": "Scala developer"
+    },
+    "jose_torres": {
+      "company": "Telefonica",
+      "companyLogo": "../images/companies/telefonica.jpeg",
+      "country": "Spain",
+      "id": "jose_torres",
+      "name": "Jose Torres",
+      "order": 18,
+      "photoUrl": "../images/people/2018_speakers/jose_torres.jpeg",
+      "sessions": {
+        "2018": [
+          {
+            "tags": ["Security"],
+            "title": "Innovación en ciberseguridad, betatesters forzosos de la tecnología emergente"
+          }
+        ]
+      },
+      "socials": [
+        {
+          "icon": "twitter",
+          "link": "https://twitter.com/mherych",
+          "name": "Twitter"
+        }
+      ],
+      "title": "Cibersecurity Innovation Analyst"
+    },
+    "diego_rodriguez": {
+      "company": "Telefonica",
+      "companyLogo": "../images/companies/designEskola.jpg",
+      "country": "Spain",
+      "id": "diego_rodriguez",
+      "name": "Diego Rodríguez",
+      "order": 22,
+      "photoUrl": "../images/people/2017_speakers/diego_rodriguez.jpeg",
+      "sessions": {
+        "2017": [
+          {
+            "tags": ["Design", "Mobile"],
+            "title": "Diseño para programadores"
+          }
+        ]
+      },
+      "socials": [
+        {
+          "icon": "twitter",
+          "link": "https://twitter.com/arketipo",
+          "name": "Twitter"
+        }
+      ],
+      "title": "Designer"
+    },
+    "kike_navalon": {
+      "company": "Trucksters",
+      "companyLogo": "../images/companies/trucksters.png",
+      "country": "Spain",
+      "id": "kike_navalon",
+      "name": "Kike Navalon",
+      "order": 23,
+      "photoUrl": "../images/people/2017_speakers/enrique_navalon.jpeg",
+      "sessions": {
+        "2017": [
+          {
+            "tags": ["Firebase", "Web"],
+            "title": "Diseño para programadores"
+          }
+        ]
+      },
+      "socials": [
+        {
+          "icon": "twitter",
+          "link": "https://twitter.com/garcianavalon",
+          "name": "Twitter"
+        }
+      ],
+      "title": "CTO of Trucksters"
+    },
+    "ines_huertas": {
+      "company": "Thesidewaysproject",
+      "companyLogo": "../images/companies/thesidewaysproject.png",
+      "country": "Spain",
+      "id": "ines_huertas",
+      "name": "Inés Huertas",
+      "order": 24,
+      "photoUrl": "../images/people/2017_speakers/ines_huertas.jpeg",
+      "sessions": {
+        "2017": [
+          {
+            "tags": ["ML", "Data"],
+            "title": "Aplicando Machine Learning sobre imágenes para optimizar el transporte público"
+          }
+        ]
+      },
+      "socials": [
+        {
+          "icon": "twitter",
+          "link": "https://twitter.com/quierodata",
+          "name": "Twitter"
+        }
+      ],
+      "title": "CDO of Thesidewaysproject"
+    },
+    "carlos_caballero": {
+      "company": "Junta de Andalucia",
+      "companyLogo": "../images/companies/junta_andalucia.png",
+      "country": "Spain",
+      "id": "carlos_caballero",
+      "name": "Carlos Caballero",
+      "order": 25,
+      "photoUrl": "../images/people/2017_speakers/carlos_cabellero.jpeg",
+      "sessions": {
+        "2017": [
+          {
+            "tags": ["Development", "Web"],
+            "title": "Arquitectura de Angular en el servidor: NestJS"
+          }
+        ]
+      },
+      "socials": [
+        {
+          "icon": "twitter",
+          "link": "https://twitter.com/Carlillo",
+          "name": "Twitter"
+        }
+      ],
+      "title": "Instructor"
+    },
+    "amando_cavarallo": {
+      "company": "Gamesys",
+      "companyLogo": "../images/companies/gamesys.png",
+      "country": "Portugal",
+      "id": "amando_cavarallo",
+      "name": "Amanda Cavallaro",
+      "order": 26,
+      "photoUrl": "../images/people/2017_speakers/amanda_cavallaro.jpeg",
+      "sessions": {
+        "2017": [
+          {
+            "tags": ["Development", "Voice"],
+            "title": "Inclusion in technology and building your first chatbot with action on Google using spreadsheets"
+          }
+        ]
+      },
+      "socials": [
+        {
+          "icon": "twitter",
+          "link": "https://twitter.com/chibichibibr",
+          "name": "Twitter"
+        }
+      ],
+      "title": "Software developer"
+    },
+    "raul_jimenez": {
+      "company": "bytedefault",
+      "companyLogo": "",
+      "country": "Spain",
+      "id": "raul_jimenez",
+      "name": "Raul Jiménez",
+      "order": 27,
+      "photoUrl": "../images/people/2017_speakers/raul_jimenez.jpg",
+      "sessions": {
+        "2017": [
+          {
+            "tags": ["Development", "Web"],
+            "title": "Some things you don’t know about Angular"
+          }
+        ]
+      },
+      "socials": [
+        {
+          "icon": "twitter",
+          "link": "https://twitter.com/elecash",
+          "name": "Twitter"
+        }
+      ],
+      "title": "GDE Angular & Freelance"
+    },
+    "sergi_martinez": {
+      "company": "Schibsted Spain",
+      "companyLogo": "../images/companies/schibsted.png",
+      "country": "Spain",
+      "id": "sergi_martinez",
+      "name": "Sergi Martínez",
+      "order": 28,
+      "photoUrl": "../images/people/2017_speakers/sergi_martinez.jpeg",
+      "sessions": {
+        "2017": [
+          {
+            "tags": ["Development", "Mobile"],
+            "title": "What’s Flutter and why should you care?"
+          }
+        ]
+      },
+      "socials": [
+        {
+          "icon": "twitter",
+          "link": "https://twitter.com/SergiAndReplace",
+          "name": "Twitter"
+        }
+      ],
+      "title": "Android Developer"
+    },
+    "jorge_del_casar": {
+      "company": "Citibox - smart services",
+      "companyLogo": "../images/companies/citibox.jpeg",
+      "country": "Spain",
+      "id": "jorge_del_casar",
+      "name": "Jorge del Casar",
+      "order": 29,
+      "photoUrl": "../images/people/2017_speakers/jorge_del_casar.jpeg",
+      "sessions": {
+        "2017": [
+          {
+            "tags": ["Development", "Voice"],
+            "title": "Actions on Google: a developer viewpoint"
+          }
+        ]
+      },
+      "socials": [
+        {
+          "icon": "twitter",
+          "link": "https://twitter.com/JorgeCasar",
+          "name": "Twitter"
+        }
+      ],
+      "title": "Head of Frontend"
+    },
+    "oliver_leplus": {
+      "company": "Microsoft",
+      "companyLogo": "../images/companies/microsoft.png",
+      "country": "Spain",
+      "id": "oliver_leplus",
+      "name": "Olivier Leplus",
+      "order": 30,
+      "photoUrl": "../images/people/2017_speakers/olivier_leplus.jpeg",
+      "sessions": {
+        "2017": [
+          {
+            "tags": ["Development", "management"],
+            "title": "This is your captain speaking, please put your phone in airplane mode"
+          }
+        ]
+      },
+      "socials": [
+        {
+          "icon": "twitter",
+          "link": "https://twitter.com/olivierleplus",
+          "name": "Twitter"
+        }
+      ],
+      "title": "Developer Relations Manager"
+    },
+    "laura_morillo": {
+      "company": "Seedtag",
+      "companyLogo": "../images/companies/seedtag.png",
+      "country": "Spain",
+      "id": "laura_morillo",
+      "name": "Laura Morillo",
+      "order": 31,
+      "photoUrl": "../images/people/2017_speakers/laura_morillo.jpeg",
+      "sessions": {
+        "2017": [
+          {
+            "tags": ["Development", "Backend"],
+            "title": "Desarrollo y despliegue continuo con microservicios"
+          }
+        ]
+      },
+      "socials": [
+        {
+          "icon": "twitter",
+          "link": "https://twitter.com/laura_morillo",
+          "name": "Twitter"
+        }
+      ],
+      "title": "Backend engineer"
+    },
+    "nerea_luis": {
+      "company": "Seedtag",
+      "companyLogo": "../images/companies/t3f.png",
+      "country": "Spain",
+      "id": "nerea_luis",
+      "name": "Nerea Luis",
+      "order": 32,
+      "photoUrl": "../images/people/2017_speakers/nerea_luis.jpg",
+      "sessions": {
+        "2017": [
+          {
+            "tags": ["Development", "IA", "ML"],
+            "title": "¿Y si los robots nos pidieran ayuda?"
+          }
+        ]
+      },
+      "socials": [
+        {
+          "icon": "twitter",
+          "link": "https://twitter.com/sailormerqury",
+          "name": "Twitter"
+        }
+      ],
+      "title": "U3CM Investigator"
+    },
+    "israel_blancas": {
+      "company": "Real Time Innovations",
+      "companyLogo": "../images/companies/rti.png",
+      "country": "Spain",
+      "id": "israel_blancas",
+      "name": "Israel Blancas",
+      "order": 33,
+      "photoUrl": "../images/people/2017_speakers/israel_blancas.jpg",
+      "sessions": {
+        "2017": [
+          {
+            "tags": ["Development"],
+            "title": "Github: La única red social que necesitas"
+          }
+        ]
+      },
+      "socials": [
+        {
+          "icon": "twitter",
+          "link": "https://twitter.com/iblancasa",
+          "name": "Twitter"
+        }
+      ],
+      "title": "Software engineer"
+    },
+    "alberto_gutierrez": {
+      "company": "Red hat",
+      "companyLogo": "../images/companies/red_hat.png",
+      "country": "Spain",
+      "id": "alberto_gutierrez",
+      "name": "Alberto Gutiérrez",
+      "order": 34,
+      "photoUrl": "../images/people/2017_speakers/alberto_gutierrez.jpeg",
+      "sessions": {
+        "2017": [
+          {
+            "tags": ["Development", "Data"],
+            "title": "Hadoop on fire"
+          }
+        ]
+      },
+      "socials": [
+        {
+          "icon": "twitter",
+          "link": "https://twitter.com/aljesusg",
+          "name": "Twitter"
+        }
+      ],
+      "title": "Senior Engineering"
+    },
+    "francisco_gutierrez": {
+      "company": "Virus Total",
+      "companyLogo": "../images/companies/virus_total.jpg",
+      "country": "Spain",
+      "id": "francisco_gutierrez",
+      "name": "Francisco López",
+      "order": 35,
+      "photoUrl": "../images/people/2017_speakers/francisco_lopez.jpg",
+      "sessions": {
+        "2017": [
+          {
+            "tags": ["Development", "Data"],
+            "title": "A (data) stream full of phish: Procesamiento de Eventos Complejos para detectar de amenazas de seguridad"
+          }
+        ]
+      },
+      "socials": [
+        {
+          "icon": "twitter",
+          "link": "https://twitter.com/zisk0",
+          "name": "Twitter"
+        }
+      ],
+      "title": "Software engineer"
+    },
+    "Hadi_Hariri": {
+      "company": "JetBrains",
+      "companyLogo": "../images/companies/jetbrain.png",
+      "country": "Spain",
+      "id": "Hadi_Hariri",
+      "name": "Hadi Hariri",
+      "order": 36,
+      "photoUrl": "../images/people/2017_speakers/hadi_hariri.jpg",
+      "sessions": {
+        "2017": [
+          {
+            "tags": ["Development", "Android"],
+            "title": "Functional Programming with Kotlin"
+          }
+        ]
+      },
+      "socials": [
+        {
+          "icon": "twitter",
+          "link": "https://twitter.com/hhariri",
+          "name": "Twitter"
+        }
+      ],
+      "title": "VP of Developer Advocacy"
+    }
+  }
+}

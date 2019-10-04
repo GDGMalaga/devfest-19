@@ -1,67 +1,83 @@
-- 
-  id: 3
-  name: "Dawid"
-  surname: "Ostrowski"
-  company: "Google Poland"
-  title: "Developer Relations Program Manager"
-  bio: "Dawid is true technology enthusiast, who loves to work in areas where humans and machines meet to create amazing new products and services. He is experienced program manager with strong technical background, who is able to establish priorities for complex projects and execute across multiple organizations, according to long-term objectives. Dawid has worked in Poland, USA, Germany, Belgium and The Netherlands and truly values diversity of international working environment. His most visible characteristics are individualization (when dealing directly with people), ideation&intellection (inexhaustible source of new concepts) and strong communication (experienced trainer, community manager). He is also an activator constantly impatient for action."
-  thumbnailUrl: DawidOstrowski.jpg
+- id: 0
+  name: "Ekaterina"
+  surname: "Ekaterina Kamenskaya"
+  company: "Google"
+  title: "Tech Lead"
+  bio: "Ekaterina has been working in Google for almost 9 years helping increase Engineering Productivity and product quality in various teams. She has been working for products such as Google Chrome and YouTube. Ekaterina received higher education degrees in Engineering and Management, and PhD in Engineering. She published a book about image recognition algorithms in biometrics. Ekaterina is passionate about Women in Tech, gives regular talks at the conferences, provides mentorship for Anita Borg Scholars, Googlers and girls interested in CS. She is the Google Women Engineers Lead in Google Zurich. She is also leading the internal education community focusing on Googlers‘ learning and development."
+  thumbnailUrl: speakers/ekaterina.jpg
   rockstar: true
-  social: 
-    - {name: "google-plus", link: "https://plus.google.com/+DawidOstrowski/"}
-- 
-  id: 4
-  name: "Dmytro"
-  surname: "Danylyk"
-  company: "Lemberg Solutions Limited"
-  title: "Android Developer"
-  bio: '<p>Developer. Nominated to apply for the <a href="http://goo.gl/V7qHc">Google Developer Expert Program</a>. Finalist of <a href="http://goo.gl/HO2kLf">Google Apps Developer Challenge 2012</a>. Author of open source <a href="http://goo.gl/Sp5Pel">libraries</a> 1000+ stars. Writer. When Dmytro has free time he is writing <a href="http://goo.gl/AoOVru">technical articles</a>. Speaker. Always trying to share his knowledge &amp; experience on different <a href="http://goo.gl/PNolZY">events</a>. Big fan of android, flat design, stackoverflow, git, Intellij IDEA. Eclipse IDE hater.</p>'
-  thumbnailUrl: DmytroDanylyk.jpg
-  rockstar: true
-  social: 
-    - {name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk"}
-    - {name: "twitter", link: "https://twitter.com/dmytrodanylyk"}
-    - {name: "github", link: "https://github.com/dmytrodanylyk"}
-- 
-  id: 5
-  name: "Mateusz"
-  surname: "Herych"
-  company: "Base CRM, GDG Krakow"
-  title: "Software Engineer"
-  bio: "Mateusz is an Android GDE and GDG organizer. Works as Android Developer for Base CRM where he uses his android-abracadabras to make enterprise software users more productive."
-  thumbnailUrl: MateuszHerych.jpg
-  rockstar: true
-  ribbon: 
-    - {abbr: "GDE", title: "Google Developer Expert", url: "https://developers.google.com/experts/"}
-    - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/107562802227561437057/"}
-  social: 
-    - {name: "google-plus", link: "https://plus.google.com/+MateuszHerych"}
-    - {name: "twitter", link: "https://twitter.com/mherych"}
-- 
-  id: 6
-  name: "Roman"
-  surname: "Mazur"
-  company: "Stanfy, GDG Kyiv"
-  title: "Head of Android/Java Unit"
-  bio: "Roman started his way in Android 5 years ago and fall in love with this platform. Currently he is a head of Android unit in Stanfy LLC and a co-organizer of Kyiv Google Developers Group focusing on Android development. Roman is responsible for building a strong team of Android developers inside Stanfy as well as for organizing Android professionals community in Kyiv."
-  thumbnailUrl: RomanMazur.jpg
+  social:
+    - {
+        name: "linkedin",
+        link: "https://www.linkedin.com/in/ekaterina-kamenskaya-78795022/",
+      }
+- id: 1
+  name: "Alberto"
+  surname: "Gutierrez"
+  company: "Red Hat"
+  title: "Sr Software Engineer / GDE"
+  bio: "Engineer in RedHat working in ManageIQ Project and Middleware with RoR, Go and angular. With plenty of years of professional experience like SysAdmin (Hadoop certified, CloudForms) and Developer (Microservices in Go, OpenStack certified), Alberto works developing and maintaining open source projects and is part of the GDG community."
+  thumbnailUrl: speakers/alberto_gutierrez.jpeg
   rockstar: true
   ribbon:
-    - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
-  social: 
-    - {name: "google-plus", link: "https://plus.google.com/+RomanMazur/"}
-    - {name: "twitter", link: "http://twitter.com/roman_mazur"}
-- 
-  id: 7
-  name: "Valentyn"
-  surname: "Shybanov"
-  company: "Twinfield, GDG Kyiv"
-  title: "Software engineer/country manager"
-  bio: "Valentyn focuses on Polymer and Web Components. In previous roles he’s helped craft design systems for massive enterprise companies, user interfaces for console titles, and even built the occasional enchanted princess game. These days his mission is to fight for a better web and to help developers build great experiences."
-  thumbnailUrl: ValentynShybanov.jpg
+    - {
+        abbr: "GDE",
+        title: "Google Developer Expert",
+        url: "https://developers-dot-devsite-v2-prod.appspot.com/community/experts/directory/profile/profile-alberto_gutierrez_juanes",
+      }
+  social:
+    - { name: "linkedin", link: "https://www.linkedin.com/in/aljesusg" }
+    - { name: "twitter", link: "https://twitter.com/aljesusg" }
+- id: 2
+  name: "Moisés"
+  surname: "Martinez"
+  company: "Sngular"
+  title: "AI & Big Data Architect / PhD"
+  bio: "Moisés es doctor en Inteligencia Artificial especializado en las áreas de robótica, planificación automática y aprendizaje automático. Trabaja como AI & BigData Architect en Sngular. Moisés es además organizador de T3chfest y GDG Cloud Madrid, speaker en diferente meetups y GDE en Machine Learning."
+  thumbnailUrl: speakers/moises_martinez.jpg
   rockstar: true
   ribbon:
-    - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
-  social: 
-    - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
-    - {name: "site", link: "http://olostan.name/"}
+    - {
+        abbr: "GDE",
+        title: "Google Developer Expert",
+        url: "https://developers-dot-devsite-v2-prod.appspot.com/community/experts/directory/profile/profile-moises_martinez",
+      }
+  social:
+    - { name: "twitter", link: "https://twitter.com/moisipm" }
+- id: 3
+  name: "Estefania"
+  surname: "García"
+  company: "Npkill"
+  title: "Intern SwE @ Lemoncode / 'NPKILL'"
+  bio: "Born in Málaga, Estefanía has completed college at IES Jesús Marín and is currently working as Software Developer intern in Lemoncoder. Her specialty are web technologies, and she often collaborates in the open source community. Estefanía is the co-creator and maintainer of the utility npkill that helps developers find and remove heavy & unused node_module in npm."
+  thumbnailUrl: speakers/estefania_garcia.jpg
+  rockstar: true
+  social:
+    - { name: "twitter", link: "https://twitter.com/Nyablk" }
+- id: 4
+  name: "Miloš"
+  surname: "Marinković"
+  company: "GDG Berlin Android"
+  title: "Sr Android Developer @ Blacklane"
+  bio: "Milos is a software product developer, enthusiast, tech speaker, and an active event organizer. His interests are primarily Android, modern Web, general tech stuff and gadgets, and---of course---Internet of Things. He also likes reading about global innovation, programming, computer science, and organization."
+  thumbnailUrl: speakers/milos_marinkovic.jpg
+  rockstar: true
+  social:
+    - { name: "twitter", link: "https://twitter.com/milosmns" }
+- id: 5
+  name: "Leonardo"
+  surname: "Pitelli"
+  company: "OLX"
+  title: "Tech Lead / GDE"
+  bio: "Leonardo is an Argentinian Software Engineer and Google Developer Expert for Web and Cloud. He's been working on web technologies for many years, building websites with a heavy focus on performance and optimization. He has hosted leading roles in progressive web apps at e-commerce and classifieds companies. Leonardo has recently moved to Lisbon and is Tech Lead in OLX Portugal."
+  thumbnailUrl: speakers/leonardo_pitelli.jpg
+  rockstar: true
+  ribbon:
+    - {
+        abbr: "GDE",
+        title: "Google Developer Expert",
+        url: "https://developers-dot-devsite-v2-prod.appspot.com/community/experts/directory/profile/profile-leonardo_pittelli",
+      }
+  social:
+    - { name: "linkedin", link: "https://www.linkedin.com/in/leopittelli" }
+    - { name: "twitter", link: "https://twitter.com/leopittelli" }

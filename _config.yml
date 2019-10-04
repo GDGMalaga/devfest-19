@@ -47,10 +47,10 @@ navigationLinks:
  - {permalink: "/speakers/", text: "Speakers"}
  - {permalink: "/team/", text: "Team"}
  - {permalink: "/logistics/", text: "Attending"}
-bottomNavigationLinks:
- - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
-rightNavigationButtons:
- - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
+# bottomNavigationLinks:
+#  - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
+# rightNavigationButtons:
+#  - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
 
 # Hero Block
 heroImage: "home.jpg_large"
@@ -123,7 +123,7 @@ partnersC4sponsorsButton: "Become a sponsor"
 # Subscribe Block
 subscribeImage: "subscribe.jpg"
 subscribeTitle: "Subscribe for updates"
-subscribeAction: "https://gdg.us5.list-manage1.com/subscribe/post?u=9fc8aa205b0521b5f05fc8e1e&amp;id=ae0fb459fc"
+subscribeAction: "https://hackersweek.us12.list-manage.com/subscribe/post?u=835ce9277f861ef90d68966a4&amp;id=653ff1fc51"
 subscribeInfo: "Registration will be open around first of October. Number of tickets are limited. Stay tuned!"
 
 # Tickets Block
