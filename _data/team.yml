@@ -1,60 +1,181 @@
 - 
-  id: 0
-  name: "Vitaliy"
-  surname: "Zasadnyy"
-  title: "Sponsors and Speakers Manager"
-  thumbnailUrl: VitaliyZasadnyy.jpg
-  team: true
-  ribbon: 
-    - {abbr: "GDG", title: "Google Developer Group"}
-  social: 
-    - {name: "google-plus", link: "https://google.com/+VitalikZasadnyy"}
-    - {name: "twitter", link: "https://twitter.com/zasadnyy"}
-    - {name: "github", link: "https://github.com/zasadnyy"}
-    - {name: "site", link: "http://zasadnyy.com/"}
-- 
   id: 1
-  name: "Oleh"
-  surname: "Zasadnyy"
-  title: "Designer and Web Developer"
-  thumbnailUrl: OlehZasadnyy.jpg
+  name: "Jose Antonio"
+  surname: "Palacios"
+  title: "Organizer"
+  thumbnailUrl: team/jose_palacios.jpeg
   team: true
   ribbon: 
     - {abbr: "GDG", title: "Google Developer Group"}
   social: 
-    - {name: "google-plus", link: "https://google.com/+OlehZasadnyy"}
-    - {name: "github", link: "https://github.com/ozasadnyy"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/joseantpalacios/"}
+    - {name: "github", link: "https://github.com/JoseAntpr"}
+    - {name: "twitter", link: "https://twitter.com/JoseAntPR"}
 - 
   id: 2
-  name: "Ostap"
-  surname: "Andrusiv"
-  title: "Sponsors and Speakers Manager"
-  thumbnailUrl: OstapAndrusiv.jpg
+  name: "Rosa"
+  surname: "Castillo"
+  title: "Content, Diversity & Inclusion"
+  thumbnailUrl: team/a_rosa.jpg
   team: true
   ribbon: 
     - {abbr: "GDG", title: "Google Developer Group"}
   social: 
-    - {name: "google-plus", link: "https://google.com/+OstapAndrusiv"}
-    - {name: "twitter", link: "https://twitter.com/p1f"}
-    - {name: "site", link: "http://andrusiv.com/"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/arosacastillo/"}
+    - {name: "github", link: "https://github.com/cyberosa"}
+    - {name: "twitter", link: "https://twitter.com/rosacastilloPhD"}
+- 
+  id: 3
+  name: "Cristina"
+  surname: "Díaz"
+  title: "Community Relations"
+  thumbnailUrl: team/cris.jpg
+  team: true
+  ribbon: 
+    - {abbr: "GDG", title: "Google Developer Group"}
+  social: 
+    - {name: "linkedin", link: "https://www.linkedin.com/in/cdg-97/"}
+    - {name: "github", link: "https://github.com/LadyNightmare"}
+    - {name: "twitter", link: "https://twitter.com/ladynightmare_2"}
 - 
   id: 4
-  name: "Dmytro"
-  surname: "Danylyk"
-  title: "Android Program Committee"
-  thumbnailUrl: DmytroDanylyk.jpg
-  subTeam: true
+  name: "Miguel Angel"
+  surname: "Ruiz"
+  title: "Partnerships & Logistics"
+  thumbnailUrl: team/miguel_angel.jpg
+  team: true
+  ribbon: 
+    - {abbr: "GDG", title: "Google Developer Group"}
   social: 
-    - {name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk"}
-    - {name: "twitter", link: "https://twitter.com/dmytrodanylyk"}
-    - {name: "github", link: "https://github.com/dmytrodanylyk"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/maruiz81/"}
+    - {name: "github", link: "https://github.com/maruiz81"}
+    - {name: "twitter", link: "https://twitter.com/maRuizLopez"}
+- 
+  id: 5
+  name: "Alicia"
+  surname: "Ropero"
+  title: "Partnerships & Logistics"
+  thumbnailUrl: team/alicia_ropero.jpg
+  team: true
+  ribbon: 
+    - {abbr: "GDG", title: "Google Developer Group"}
+  social: 
+    - {name: "linkedin", link: "https://www.linkedin.com/in/alicia-ropero-haro/"}
+    - {name: "twitter", link: "https://twitter.com/ali_bluee"}
+- 
+  id: 6
+  name: "Quino"
+  surname: "Terrasa"
+  title: "Social Media"
+  thumbnailUrl: team/joaquin_terrasa.png
+  team: true
+  ribbon: 
+    - {abbr: "GDG", title: "Google Developer Group"}
+  social: 
+    - {name: "linkedin", link: "https://www.linkedin.com/in/quinoterrasa/"}
+    - {name: "github", link: "https://github.com/espetro"}
+    - {name: "twitter", link: "https://twitter.com/flamenquino"}
 - 
   id: 7
-  name: "Valentyn"
-  surname: "Shybanov"
-  title: "Web and Cloud Program Committee"
-  thumbnailUrl: ValentynShybanov.jpg
-  subTeam: true
+  name: "Karol"
+  surname: "Depka"
+  title: "Community Relations"
+  thumbnailUrl: team/karol_depka.jpg
+  team: true
+  ribbon: 
+    - {abbr: "GDG", title: "Google Developer Group"}
   social: 
-    - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
-    - {name: "site", link: "http://olostan.name/"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/karoldepka/"}
+    - {name: "github", link: "https://github.com/karol-depka"}
+    - {name: "twitter", link: "https://twitter.com/karol-depka"}
+- 
+  id: 8
+  name: "Yasmina"
+  surname: "Gil"
+  title: "Local Activities"
+  thumbnailUrl: team/YasminaGil.JPG
+  team: true
+  ribbon: 
+    - {abbr: "GDG", title: "Google Developer Group"}
+  social: 
+    - {name: "linkedin", link: "https://www.linkedin.com/in/yasmina-gil-87227624/"}
+    - {name: "github", link: "https://github.com/QaYasmina"}
+    - {name: "twitter", link: "https://twitter.com/yasmina999"}
+- 
+  id: 9
+  name: "Azahar"
+  surname: "Zafra"
+  title: "Organiser"
+  thumbnailUrl: team/Azahar.jpg
+  team: true
+  ribbon: 
+    - {abbr: "GDG", title: "Google Developer Group"}
+  social: 
+    - {name: "linkedin", link: "https://www.linkedin.com/in/azaharzafra/"}
+    - {name: "github", link: "https://github.com/Azahar"}
+    - {name: "twitter", link: "https://twitter.com/azaharvyb"}
+- 
+  id: 10
+  name: "Marta"
+  surname: "Niemiec"
+  title: "Designer"
+  thumbnailUrl: team/marta_niemiec.jpg
+  team: true
+  ribbon: 
+    - {abbr: "GDG", title: "Google Developer Group"}
+  social: 
+    - {name: "linkedin", link: "https://www.linkedin.com/in/martaniemiec/"}
+- 
+  id: 11
+  name: "Pedro"
+  surname: "Fernández"
+  title: "Sponsors & Partnerships"
+  thumbnailUrl: team/pedro_fdez.jpg
+  team: true
+  ribbon: 
+    - {abbr: "GDG", title: "Google Developer Group"}
+  social: 
+    - {name: "linkedin", link: "https://www.linkedin.com/in/pedrofernandezcamacho/"}
+    - {name: "github", link: "https://github.com/pedringcoding"}
+    - {name: "twitter", link: "https://twitter.com/pedringcoding"}
+- 
+  id: 12
+  name: "Francisco"
+  surname: "Baena"
+  title: "Content, Diversity & Inclussion"
+  thumbnailUrl: team/baenans.jpeg
+  team: true
+  ribbon: 
+    - {abbr: "GDG", title: "Google Developer Group"}
+  social: 
+    - {name: "linkedin", link: "https://www.linkedin.com/in/baenans/"}
+    - {name: "github", link: "https://github.com/baenans"}
+    - {name: "twitter", link: "https://twitter.com/baenans"}
+# Team
+# - 
+#   id: 2
+#   name: "Ostap"
+#   surname: "Andrusiv"
+#   title: "Sponsors and Speakers Manager"
+#   thumbnailUrl: OstapAndrusiv.jpg
+#   team: true
+#   ribbon: 
+#     - {abbr: "GDG", title: "Google Developer Group"}
+#   social: 
+      # - {name: "linkedin", link: "https://www.linkedin.com/in/joseantpalacios/"}
+      # - {name: "github", link: "https://github.com/JoseAntpr"}
+      # - {name: "twitter", link: "https://twitter.com/JoseAntPR"}
+
+# SUBTEAM EXAMPLE
+# - 
+#   id: 4
+#   name: "Dmytro"
+#   surname: "Danylyk"
+#   title: "Android Program Committee"
+#   thumbnailUrl: DmytroDanylyk.jpg
+#   subTeam: true
+#   social: 
+#     - {name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk"}
+#     - {name: "twitter", link: "https://twitter.com/dmytrodanylyk"}
+#     - {name: "github", link: "https://github.com/dmytrodanylyk"}
+- 

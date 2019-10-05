@@ -55,7 +55,7 @@ navigationLinks:
 # Hero Block
 heroImage: "home.jpg_large"
 heroTitle: "GDG DevFest <typeout> 2019"
-eventDate: "Decembers, 2019"
+eventDate: "14th Decembers, 2019"
 typeoutTextValues: '"", "Season", "Spain", "Malaga"'
 typeoutFallback: "Season"
 # heroButtons:
@@ -118,7 +118,7 @@ twitterHashTag: "DevfestMlg19"
 # Partners Block
 organizersTitle: "Organizers"
 partnersTitle: "Partners"
-partnersC4sponsorsButton: "Become a sponsor"
+# partnersC4sponsorsButton: "Become a sponsor"
 
 # Subscribe Block
 subscribeImage: "subscribe.jpg"
@@ -175,12 +175,12 @@ footerBlocks:
  -
   title: "Links"
   links:
-   - {link: "http://gdg.org.ua", text: "GDG.org.ua"}
+   - {link: "https://www.meetup.com/es-ES/Google-Developer-Group-Malaga/", text: "GDG Málaga"}
    - {link: "https://developers.google.com", text: "Google Developers"}
  -
   title: "Contacts"
   links:
-   - {link: "mailto:lviv@gdg.org.ua", text: "lviv@gdg.org.ua"}
+   - {link: "mailto:gdgmalaga@gmail.com", text: "gdgmalaga@gmail.com"}
  -
   title: "FAQ"
   links:
@@ -196,7 +196,7 @@ showSessions: true
 
 # Team Block
 teamBlockTitle: "About us"
-aboutUs: "Google is known all around the world. Everyone is 'googling', checking on 'maps' and communicating in 'gmail'. For simple users, they are services that just works, but not for us. Developers see much more: APIs, scalability issues, complex technology stacks. And that is what GDG is about.<br><br> [Google Developers Group (GDG) Málaga](https://www.meetup.com/es-ES/Google-Developer-Group-Malaga/) - is open and volunteer geek community who create exciting projects and share experience about technologies with a passion.<br><br> Our goal is to organize space to connect the best industry experts with Málaga audience to boost development of IT."
+aboutUs: "Google is known all around the world. Everyone is 'googling', checking on 'maps' and communicating in 'gmail'. For simple users, they are services that just works, but not for us. Developers see much more: APIs, scalability issues, complex technology stacks. And that is what GDG is about.<br><br> <a href='https://www.meetup.com/es-ES/Google-Developer-Group-Malaga/'>Google Developers Group (GDG) Málaga</a> is open and volunteer geek community who create exciting projects and share experience about technologies with a passion.<br><br> Our goal is to organize space to connect the best industry experts with Málaga audience to boost development of IT."
 
 # Logistics Find Way Block
 findWayTitle: "Find your way here"
