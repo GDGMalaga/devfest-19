@@ -20,7 +20,7 @@
   thumbnailUrl: speakers/alberto_gutierrez.jpeg
   rockstar: true
   ribbon:
-    - {abbr: "GDG", title: "Google Developer Group Organiser"}
+    - { abbr: "GDG", title: "Google Developer Group Organiser" }
     - {
         abbr: "GDE",
         title: "Google Developer Expert",
@@ -142,7 +142,10 @@
   thumbnailUrl: speakers/ana_encinar.jpg
   rockstar: true
   social:
-    - { name: "linkedin", link: "https://www.linkedin.com/in/ana-isabel-encinar-saez" }
+    - {
+        name: "linkedin",
+        link: "https://www.linkedin.com/in/ana-isabel-encinar-saez",
+      }
     - { name: "twitter", link: "https://twitter.com/jnisabe" }
 - id: 12
   name: "Javier"
@@ -153,7 +156,7 @@
   thumbnailUrl: speakers/javier_lopez.jpg
   rockstar: true
   ribbon:
-    - {abbr: "GDG", title: "Google Developer Group Organiser"}
+    - { abbr: "GDG", title: "Google Developer Group Organiser" }
     - {
         abbr: "GDE",
         title: "Google Developer Expert",
@@ -171,7 +174,10 @@
   thumbnailUrl: speakers/elena_guzman.jpg
   rockstar: true
   social:
-    - { name: "linkedin", link: "https://www.linkedin.com/in/elena-guzman-blanco" }
+    - {
+        name: "linkedin",
+        link: "https://www.linkedin.com/in/elena-guzman-blanco",
+      }
     - { name: "twitter", link: "https://twitter.com/Beelzenef_" }
 - id: 14
   name: "David"
@@ -199,7 +205,7 @@
   thumbnailUrl: speakers/gema_arnaiz.jpg
   rockstar: true
   ribbon:
-    - {abbr: "GDG", title: "Google Developer Group Organiser"}
+    - { abbr: "GDG", title: "Google Developer Group Organiser" }
   social:
     - { name: "twitter", link: "https://twitter.com/garnaizd92" }
 - id: 16
@@ -227,7 +233,7 @@
   thumbnailUrl: speakers/israel_blancas.jpg
   rockstar: true
   ribbon:
-      - {abbr: "GDG", title: "Google Developer Group Organiser"}
+    - { abbr: "GDG", title: "Google Developer Group Organiser" }
   social:
     - { name: "twitter", link: "https://twitter.com/iblancasa" }
 - id: 18
@@ -239,11 +245,11 @@
   thumbnailUrl: speakers/bob_van.jpeg
   rockstar: true
   ribbon:
-      - {
-          abbr: "GDE",
-          title: "Google Developer Expert",
-          url: "https://developers.google.com/community/experts/directory/profile/profile-bob_van_luijt",
-        }
+    - {
+        abbr: "GDE",
+        title: "Google Developer Expert",
+        url: "https://developers.google.com/community/experts/directory/profile/profile-bob_van_luijt",
+      }
   social:
     - { name: "linkedin", link: "https://linkedin.com/in/bobvanluijt" }
     - { name: "github", link: "https://github.com/bobvanluijtt" }
@@ -269,6 +275,17 @@
   social:
     - { name: "github", link: "https://github.com/pedrovgs" }
     - { name: "twitter", link: "https://twitter.com/pedro_g_s" }
+- id: 21
+  name: "Irene M"
+  surname: "Morgado"
+  company: "Aplazame"
+  title: "HR Talent Manager"
+  bio: "<p>Especializada en RRHH, orientada a diseño de estrategias para la mejora de la motivación y productividad de los equipos de personas. Mejora del engagement a través de herramientas de psicología social y herramientas aplicadas a la comunicación interna. Análisis del comportamiento y definición de perfiles.</p><p>Experiencia en diseño y ejecución de Planes Estratégicos de Branding y Comunicación para organizaciones y startups, ayudándolas a crear estrategias de comunicación, gestión e imagen corporativa que ayuden a cumplir sus objetivos.</p><p>En los últimos años, impartiendo formación y consultoría en Recursos y Habilidades Sociales. También contando "cosas" en podcasts sobre perfiles, análisis de inteligencia y estrategia, y habilidades profesionales y personales :)"</p>
+  thumbnailUrl: speakers/irene_morgado.jpeg
+  rockstar: true
+  social:
+    - { name: "linkedin", link: "https://www.linkedin.com/in/irenemmorgado/" }
+    - { name: "twitter", link: "https://twitter.com/leopittelli" }
 # - id: 50
 #   name: "Leonardo"
 #   surname: "Pitelli"

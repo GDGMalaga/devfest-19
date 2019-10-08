@@ -147,6 +147,13 @@
   speakers: [20]
   language: en
   complexity: "Intermediate"
+- id: 021
+  title: "Diseña tu futuro"
+  description: "<p>¿Llevas ya años trabajando en el sector y temes perder el foco de hacia donde quieres desarrollarte realmente? ¿Has pivotado hace poco hacia al mundo del desarrollo y no sabes cómo enfrentarte a mundo profesional?</p><p>En esta charla averiguaremos las claves que te ayudarán a sentirte más fuerte durante las entrevistas y analizaremos cómo definir tu carrera profesional, ver cuáles son los puntos importantes a tener en cuenta cuando cambias de trabajo y definir de manera personalizada hacia dónde quieres crecer.</p>"
+  subtype: presentation
+  speakers: [21]
+  language: es
+  complexity: "Beginner"
 # - id: 006
 #   title: "Modern web development"
 #   description: ""
