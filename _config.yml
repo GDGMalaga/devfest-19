@@ -128,45 +128,46 @@ subscribeInfo: "Registration will be open in mid October. The number of tickets 
 
 # Tickets Block
 ticketsTitle: "Pricetable"
-ticketsInfo: "Tickets grant access to all conference sections, coffee brakes, lunch and party. Accommodation is NOT included in the ticket price."
+ticketsInfo: "Tickets grant access to all conference sections, coffee breaks and lunch Accommodation is NOT included in the ticket price."
 ticketsOffers:
  -
   name: "Early Bird"
   price: "3"
   priceCurrency: "EUR"
-  ticketsNumber: "100"
-  ribbon: "-5%"
-  buyButtonLink: "http://dfua.ticketforevent.com/"
+  ticketsNumber: "80"
+  ribbon: "-70%"
+  buyButtonLink: "https://www.eventbrite.es/e/entradas-devfest-malaga19-75813818171"
   buyButtonText: "Get Now"
-  ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
-  validFrom: "2014-08-25T10:00"
-  validThrough: "2014-09-30T23:59"
+  ticketContentList: ["Coffee breaks", "Lunch", "workshops & talks"]
+  validFrom: "2019-10-28T10:00"
+  validThrough: "2019-11-10T23:59"
  -
-  name: "General Entry"
+  name: "General"
   price: "10"
   priceCurrency: "EUR"
-  ticketsNumber: "250"
-  ribbon: "-20%"
+  ticketsNumber: "180"
+  # ribbon: "-20%"
   featured: true
-  buyButtonLink: "http://dfua.ticketforevent.com/"
-  buyButtonText: "Buy Now"
-  ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
-  validFrom: "2014-10-01T00:00"
-  validThrough: "2014-10-23T23:59"
+  buyButtonLink: "https://www.eventbrite.es/e/entradas-devfest-malaga19-75813818171"
+  buyButtonText: "Soon"
+  ticketContentList: ["Coffee breaks", "Lunch", "workshops & talks"]
+  validFrom: "2019-11-11T00:00"
+  validThrough: "2019-12-13T23:59"
   disabled: true
  -
   name: "Student"
   price: "3"
   priceCurrency: "EUR"
-  ticketsNumber: "150"
-  buyButtonLink: "http://dfua.ticketforevent.com/"
-  buyButtonText: "Buy Now"
+  ticketsNumber: "100"
+  buyButtonLink: "https://www.eventbrite.es/e/entradas-devfest-malaga19-75813818171"
+  buyButtonText: "Buy soon"
   additionalInfo: "Requires a valid student ID at the conference check in. Without student ID at the check in, ticket will be cancelled without refund"
-  ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
-  validFrom: "2014-08-20T10:00"
-  validThrough: "2014-10-23T23:59"
-  soldOut: true
-  soldOutText: "Sold Out"
+  ticketContentList: ["Coffee breaks", "Lunch", "workshops & talks"]
+  validFrom: "2019-11-11T00:00"
+  validThrough: "2019-12-13T23:59"
+  disabled: true
+  # soldOut: true
+  # soldOutText: "Sold Out"
 
 # Footer
 socialLinks:
