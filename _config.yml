@@ -142,7 +142,7 @@ ticketsOffers:
   validFrom: "2019-10-28T10:00"
   validThrough: "2019-11-10T23:59"
  -
-  name: "General"
+  name: "General Admission"
   price: "10"
   priceCurrency: "EUR"
   ticketsNumber: "180"
