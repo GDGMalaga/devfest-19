@@ -1,5 +1,5 @@
 - 
-  group: "Main organizer"
+  group: "Organised by"
   elements: 
     - {name: "GDG Málaga", description: "GDG Málaga - Open and volunteer geek community", link: "https://www.meetup.com/es-ES/Google-Developer-Group-Malaga/", imageUrl: "organizer-logo.png"}
 # - 

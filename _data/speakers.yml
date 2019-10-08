@@ -20,11 +20,11 @@
   thumbnailUrl: speakers/alberto_gutierrez.jpeg
   rockstar: true
   ribbon:
-    - {abbr: "GDG", title: "Google Developer Group"}
+    - {abbr: "GDG", title: "Google Developer Group Organiser"}
     - {
         abbr: "GDE",
         title: "Google Developer Expert",
-        url: "https://developers-dot-devsite-v2-prod.appspot.com/community/experts/directory/profile/profile-alberto_gutierrez_juanes",
+        url: "https://developers.google.com/community/experts/directory/profile/profile-alberto_gutierrez_juanes",
       }
   social:
     - { name: "linkedin", link: "https://www.linkedin.com/in/aljesusg" }
@@ -41,7 +41,7 @@
     - {
         abbr: "GDE",
         title: "Google Developer Expert",
-        url: "https://developers-dot-devsite-v2-prod.appspot.com/community/experts/directory/profile/profile-moises_martinez",
+        url: "https://developers.google.com/community/experts/directory/profile/profile-moises_martinez",
       }
   social:
     - { name: "twitter", link: "https://twitter.com/moisipm" }
@@ -77,7 +77,7 @@
     - {
         abbr: "GDE",
         title: "Google Developer Expert",
-        url: "https://developers-dot-devsite-v2-prod.appspot.com/community/experts/directory/profile/profile-leonardo_pittelli",
+        url: "https://developers.google.com/community/experts/directory/profile/profile-leonardo_pittelli",
       }
   social:
     - { name: "linkedin", link: "https://www.linkedin.com/in/leopittelli" }
@@ -153,11 +153,11 @@
   thumbnailUrl: speakers/javier_lopez.jpg
   rockstar: true
   ribbon:
-    - {abbr: "GDG", title: "Google Developer Group"}
+    - {abbr: "GDG", title: "Google Developer Group Organiser"}
     - {
         abbr: "GDE",
         title: "Google Developer Expert",
-        url: "https://developers-dot-devsite-v2-prod.appspot.com/community/experts/directory/profile/profile-javier_l_C3_B3pez_mart_C3_ADnez",
+        url: "https://developers.google.com/community/experts/directory/profile/profile-javier_l_C3_B3pez_mart_C3_ADnez",
       }
   social:
     - { name: "linkedin", link: "https://www.linkedin.com/in/jlopezmartinez" }
@@ -178,6 +178,12 @@
   surname: "Cifuentes"
   company: "Zalon by Zalando"
   title: "Sr Software Engineer"
+  ribbon:
+    - {
+        abbr: "GDE",
+        title: "Google Developer Expert",
+        url: "https://developers.google.com/community/experts/directory/profile/profile-david_cifuentes",
+      }
   bio: "David is a Software Engineer at Zalon by Zalando, based in Berlin, Germany. For the past few years, he has been developing applications running in the cloud in different kinds of projects ranging from enterprise software to IoT but he is currently focused in marketing tech. In his spare time, he enjoys traveling the world and running marathons."
   thumbnailUrl: speakers/david_cifuentes.jpg
   rockstar: true
@@ -193,7 +199,7 @@
   thumbnailUrl: speakers/gema_arnaiz.jpg
   rockstar: true
   ribbon:
-    - {abbr: "GDG", title: "Google Developer Group"}
+    - {abbr: "GDG", title: "Google Developer Group Organiser"}
   social:
     - { name: "twitter", link: "https://twitter.com/garnaizd92" }
 - id: 16
@@ -208,7 +214,7 @@
     - {
         abbr: "GDE",
         title: "Google Developer Expert",
-        url: "https://developers-dot-devsite-v2-prod.appspot.com/community/experts/directory/profile/profile-jorge_del_casar",
+        url: "https://developers.google.com/community/experts/directory/profile/profile-jorge_del_casar",
       }
   social:
     - { name: "twitter", link: "https://twitter.com/jorgecasar" }
@@ -221,7 +227,7 @@
   thumbnailUrl: speakers/israel_blancas.jpg
   rockstar: true
   ribbon:
-      - {abbr: "GDG", title: "Google Developer Group"}
+      - {abbr: "GDG", title: "Google Developer Group Organiser"}
   social:
     - { name: "twitter", link: "https://twitter.com/iblancasa" }
 - id: 18
@@ -236,7 +242,7 @@
       - {
           abbr: "GDE",
           title: "Google Developer Expert",
-          url: "https://developers-dot-devsite-v2-prod.appspot.com/community/experts/directory/profile/profile-bob_van_luijt",
+          url: "https://developers.google.com/community/experts/directory/profile/profile-bob_van_luijt",
         }
   social:
     - { name: "linkedin", link: "https://linkedin.com/in/bobvanluijt" }
@@ -275,7 +281,7 @@
 #     - {
 #         abbr: "GDE",
 #         title: "Google Developer Expert",
-#         url: "https://developers-dot-devsite-v2-prod.appspot.com/community/experts/directory/profile/profile-leonardo_pittelli",
+#         url: "https://developers.google.com/community/experts/directory/profile/profile-leonardo_pittelli",
 #       }
 #   social:
 #     - { name: "linkedin", link: "https://www.linkedin.com/in/leopittelli" }

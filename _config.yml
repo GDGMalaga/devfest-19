@@ -10,14 +10,14 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
 
 # Site Settings
-title: "GDG DevFest Season 2019"
+title: "DevFest Málaga '19"
 email: "gdgmalaga@gmail.com"
-description: "GDG DevFest is a set of events all around the world"
-baseurl: "/zeppelin"
-url: "https://gdg-x.github.io"
+description: "Saturday Dec 14th @ University of Málaga. Join the commuity, learn new things!"
+baseurl: ""
+url: "https://devfest.gdgmalaga.dev"
 permalink: "/blog/:title"
-googleAnalyticsTrackingId: "UA-43643469-5"
-googleAnalyticsSiteUrl: "gdg-x.github.io"
+googleAnalyticsTrackingId: "UA-148935261-1"
+googleAnalyticsSiteUrl: "devfest.gdgmalaga.dev"
 siteVerification: "b9imDOrFawXaBXCC4r3uJDdswSYcalD-wWpMYhFq-no"
 
 # Organizer Info
@@ -54,27 +54,27 @@ navigationLinks:
 
 # Hero Block
 heroImage: "home.jpg_large"
-heroTitle: "GDG DevFest <typeout> 2019"
-eventDate: "14th Decembers, 2019"
-typeoutTextValues: '"", "Season", "Spain", "Malaga"'
-typeoutFallback: "Season"
+heroTitle: "GDG DevFest <typeout> '19"
+eventDate: "December 14th, 2019"
+typeoutTextValues: '"Málaga"'
+typeoutFallback: "Málaga"
 # heroButtons:
 #  - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
 #  - {permalink: "/#tickets", text: "Buy tickets"}
 
 # About Block
-aboutTitle: "About GDG DevFest"
+aboutTitle: ""
 aboutBlock:
- - {title: "Conference & Workshops", image: "conference.jpg", text: "GDG DevFest Málaga brings together the world class experts in Mobile, AI, Web and Cloud technologies to Málaga for a full day of sessions, workshops and showcases." }
- - {title: "People", image: "workshop.jpg", text: "Organised by GDG Málaga (Women Techmakers, Hackers Week), the third edition of DevFest Málaga invites students, employees and tech enthusiasts to be the best place for experience sharing in a phenomenal atmosphere." }
+ - {title: "About DevFest Málaga", image: "conference.jpg", text: "GDG DevFest Málaga brings together the world class experts in Mobile, AI, Web and Cloud technologies to Málaga for a full day of sessions, workshops and showcases." }
+ - {title: "Join the Community", image: "workshop.jpg", text: "Organised by GDG Málaga (Women Techmakers, Hackers Week), the third edition of DevFest Málaga invites students, employees and tech enthusiasts to be the best place for experience sharing in a phenomenal atmosphere." }
 
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
 statisticBlock:
  - {count: "350", specialCharacter: "+", info: "attendees", detail: "from everywhere"}
- - {count: "24", specialCharacter: "+", info: "hours", detail: "of all type of technologies"}
- - {count: "25", specialCharacter: "+", info: "speakers", detail: "from country and beyond"}
- - {count: "5", specialCharacter: "", info: "parallel tracks", detail: "plus entertainment lounge"}
+ - {count: "10", specialCharacter: "+", info: "hours", detail: "of talks and hand in sessions"}
+ - {count: "25", specialCharacter: "+", info: "speakers", detail: "from Spain and beyond"}
+ - {count: "5", specialCharacter: "", info: "parallel tracks", detail: "plus networking time"}
 
 # Latest News Block
 # latestNewsTitle: "Latest news"
@@ -82,7 +82,7 @@ statisticBlock:
 # Rockstar Speakers Block
 rockstarSpeakersImage: "rockstar-speakers.jpg"
 rockstarSpeakersCount: 4
-rockstarSpeakersTitle: "Rockstar speakers"
+rockstarSpeakersTitle: "The Speakers"
 rockstarSpeakersButtonText: "See all speakers"
 
 # Location Block
@@ -102,29 +102,29 @@ mapCenterCoordinates: "36.7151364, -4.477648"
 mapMobileCenterCoordinates: "36.7151364, -4.477648"
 
 # Venue Block
-venueBlockTitle: "Venue"
+venueBlockTitle: "The Venue"
 venueBigImage: "venue_0.jpg"
 venueSmallImage1: "venue_1.jpg"
 venueSmallImage2: "venue_2.jpg"
 venueSmallImage3: "venue_3.jpg"
 venueTitle: "Escuela Técnica Superior de Ingeniería Informática"
-venueFeatures: ["3 huge rooms", "Big open spaces", "Near from transport services"]
+venueFeatures: ["Good transpot connections", "Big open spaces"]
 
 # Tweets Feed Block
 tweetsFeedImage: "twitter-feed.jpg"
 tweetsFeedTitle: "What's Up?"
-twitterHashTag: "DevfestMlg19"
+twitterHashTag: "DevFestMLG19"
 
 # Partners Block
-organizersTitle: "Organizers"
-partnersTitle: "Partners"
+organizersTitle: ""
+partnersTitle: ""
 # partnersC4sponsorsButton: "Become a sponsor"
 
 # Subscribe Block
 subscribeImage: "subscribe.jpg"
 subscribeTitle: "Subscribe for updates"
 subscribeAction: "https://hackersweek.us12.list-manage.com/subscribe/post?u=835ce9277f861ef90d68966a4&amp;id=653ff1fc51"
-subscribeInfo: "Registration will be open around first of October. Number of tickets are limited. Stay tuned!"
+subscribeInfo: "Registration will be open in mid October. The number of tickets is limited. Stay tuned!"
 
 # Tickets Block
 ticketsTitle: "Pricetable"
@@ -132,20 +132,20 @@ ticketsInfo: "Tickets grant access to all conference sections, coffee brakes, lu
 ticketsOffers:
  -
   name: "Early Bird"
-  price: "350"
-  priceCurrency: "UAH"
-  ticketsNumber: "150"
+  price: "3"
+  priceCurrency: "EUR"
+  ticketsNumber: "100"
   ribbon: "-5%"
   buyButtonLink: "http://dfua.ticketforevent.com/"
-  buyButtonText: "Buy Now"
+  buyButtonText: "Get Now"
   ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
   validFrom: "2014-08-25T10:00"
   validThrough: "2014-09-30T23:59"
  -
-  name: "Last Chance"
-  price: "450"
-  priceCurrency: "UAH"
-  ticketsNumber: "100"
+  name: "General Entry"
+  price: "10"
+  priceCurrency: "EUR"
+  ticketsNumber: "250"
   ribbon: "-20%"
   featured: true
   buyButtonLink: "http://dfua.ticketforevent.com/"
@@ -156,9 +156,9 @@ ticketsOffers:
   disabled: true
  -
   name: "Student"
-  price: "200"
-  priceCurrency: "UAH"
-  ticketsNumber: "50"
+  price: "3"
+  priceCurrency: "EUR"
+  ticketsNumber: "150"
   buyButtonLink: "http://dfua.ticketforevent.com/"
   buyButtonText: "Buy Now"
   additionalInfo: "Requires a valid student ID at the conference check in. Without student ID at the check in, ticket will be cancelled without refund"
@@ -177,6 +177,8 @@ footerBlocks:
   links:
    - {link: "https://www.meetup.com/es-ES/Google-Developer-Group-Malaga/", text: "GDG Málaga"}
    - {link: "https://developers.google.com", text: "Google Developers"}
+   - {link: "https://devfest17.gdgmalaga.dev", text: "DevFest Málaga '17"}
+   - {link: "https://devfest18.gdgmalaga.dev", text: "DevFest Málaga '18"}
  -
   title: "Contacts"
   links:
@@ -189,7 +191,7 @@ footerBlocks:
 # Blog
 blogTitle: "Latest news"
 blogCommentsEnabled: true
-discusShortName: "devfestua"
+discusShortName: "devfestmlg"
 
 # Speakers List Block
 showSessions: true

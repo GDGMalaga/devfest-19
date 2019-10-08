@@ -1,23 +1,23 @@
 - 
-  group: "Platinum"
-  elements: 
-    - {name: "Google", description: "Google", link: "https://www.google.com.ua/intl/en/about/", imageUrl: "google.svg"}
-    - {name: "Etsii", description: "Etsii", link: "https://www.uma.es/ETSI-informatica", imageUrl: "etsii-uma.png"}
-- 
-  group: "Gold"
-  elements: 
-    - {name: "The Workshop", description: "The Workshop", link: "https://theworkshop.com/es/pagina-de-inicio/", imageUrl: "The_workshop.jpg"}
-    - {name: "Rindus", description: "Rindus", link: "https://www.rindus.de", imageUrl: "rindus.png"}
-    - {name: "Malt", description: "Malt", link: "https://www.malt.es/", imageUrl: "malt.png"}
-- 
-  group: "Silver"
-  elements: 
-    - {name: "Keepcoding", description: "Keepcoding", link: "https://keepcoding.io/es", imageUrl: "keepcoding.png", width: "120px"}
-    - {name: "Indra", description: "Indra", link: "https://www.indracompany.com/", imageUrl: "Indra.jpg", width: "120px"}
-- 
-  group: "Community Partner"
+  group: "Community Partners"
   elements: 
     - {name: "La Peña Overflow", description: "La Peña Overflow", link: "https://www.meetup.com/es-ES/La-Pena-Overflow/", imageUrl: "communities/la_pena_overflow.jpeg", width: "100px"}
     - {name: "Yes We Tech", description: "Yes We Tech", link: "https://yeswetech.org/", imageUrl: "communities/yes_we_tech.jpg", width: "100px"}
     - {name: "Angular Malaga", description: "Angular Malaga", link: "https://www.meetup.com/es-ES/Angular-Malaga/", imageUrl: "communities/LogoAngularMalaga.jpg", width: "100px"}
     - {name: "Topic Friends", description: "Topic Friends", link: "https://topicfriends.org", imageUrl: "communities/topicfriend.jpg", width: "100px"}
+- 
+  group: "Platinum Sponsors"
+  elements: 
+    - {name: "Google", description: "Google", link: "https://www.google.com.ua/intl/en/about/", imageUrl: "google.svg"}
+    - {name: "Etsii", description: "Etsii", link: "https://www.uma.es/ETSI-informatica", imageUrl: "etsii-uma.png"}
+- 
+  group: "Gold Sponsors"
+  elements: 
+    - {name: "The Workshop", description: "The Workshop", link: "https://theworkshop.com/es/pagina-de-inicio/", imageUrl: "The_workshop.jpg"}
+    - {name: "Rindus", description: "Rindus", link: "https://www.rindus.de", imageUrl: "rindus.png"}
+    - {name: "Malt", description: "Malt", link: "https://www.malt.es/", imageUrl: "malt.png"}
+- 
+  group: "Silver Sponsors"
+  elements: 
+    - {name: "Keepcoding", description: "Keepcoding", link: "https://keepcoding.io/es", imageUrl: "keepcoding.png", width: "120px"}
+    - {name: "Indra", description: "Indra", link: "https://www.indracompany.com/", imageUrl: "Indra.jpg", width: "120px"}

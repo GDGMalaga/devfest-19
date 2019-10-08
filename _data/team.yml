@@ -39,94 +39,6 @@
     - {name: "twitter", link: "https://twitter.com/ladynightmare_2"}
 - 
   id: 4
-  name: "Miguel Angel"
-  surname: "Ruiz"
-  title: "Partnerships & Logistics"
-  thumbnailUrl: team/miguel_angel.jpg
-  team: true
-  ribbon: 
-    - {abbr: "GDG", title: "Google Developer Group"}
-  social: 
-    - {name: "linkedin", link: "https://www.linkedin.com/in/maruiz81/"}
-    - {name: "github", link: "https://github.com/maruiz81"}
-    - {name: "twitter", link: "https://twitter.com/maRuizLopez"}
-- 
-  id: 5
-  name: "Alicia"
-  surname: "Ropero"
-  title: "Partnerships & Logistics"
-  thumbnailUrl: team/alicia_ropero.jpg
-  team: true
-  ribbon: 
-    - {abbr: "GDG", title: "Google Developer Group"}
-  social: 
-    - {name: "linkedin", link: "https://www.linkedin.com/in/alicia-ropero-haro/"}
-    - {name: "twitter", link: "https://twitter.com/ali_bluee"}
-- 
-  id: 6
-  name: "Quino"
-  surname: "Terrasa"
-  title: "Social Media"
-  thumbnailUrl: team/joaquin_terrasa.png
-  team: true
-  ribbon: 
-    - {abbr: "GDG", title: "Google Developer Group"}
-  social: 
-    - {name: "linkedin", link: "https://www.linkedin.com/in/quinoterrasa/"}
-    - {name: "github", link: "https://github.com/espetro"}
-    - {name: "twitter", link: "https://twitter.com/flamenquino"}
-- 
-  id: 7
-  name: "Karol"
-  surname: "Depka"
-  title: "Community Relations"
-  thumbnailUrl: team/karol_depka.jpg
-  team: true
-  ribbon: 
-    - {abbr: "GDG", title: "Google Developer Group"}
-  social: 
-    - {name: "linkedin", link: "https://www.linkedin.com/in/karoldepka/"}
-    - {name: "github", link: "https://github.com/karol-depka"}
-    - {name: "twitter", link: "https://twitter.com/karol-depka"}
-- 
-  id: 8
-  name: "Yasmina"
-  surname: "Gil"
-  title: "Local Activities"
-  thumbnailUrl: team/YasminaGil.JPG
-  team: true
-  ribbon: 
-    - {abbr: "GDG", title: "Google Developer Group"}
-  social: 
-    - {name: "linkedin", link: "https://www.linkedin.com/in/yasmina-gil-87227624/"}
-    - {name: "github", link: "https://github.com/QaYasmina"}
-    - {name: "twitter", link: "https://twitter.com/yasmina999"}
-- 
-  id: 9
-  name: "Azahar"
-  surname: "Zafra"
-  title: "Organiser"
-  thumbnailUrl: team/Azahar.jpg
-  team: true
-  ribbon: 
-    - {abbr: "GDG", title: "Google Developer Group"}
-  social: 
-    - {name: "linkedin", link: "https://www.linkedin.com/in/azaharzafra/"}
-    - {name: "github", link: "https://github.com/Azahar"}
-    - {name: "twitter", link: "https://twitter.com/azaharvyb"}
-- 
-  id: 10
-  name: "Marta"
-  surname: "Niemiec"
-  title: "Designer"
-  thumbnailUrl: team/marta_niemiec.jpg
-  team: true
-  ribbon: 
-    - {abbr: "GDG", title: "Google Developer Group"}
-  social: 
-    - {name: "linkedin", link: "https://www.linkedin.com/in/martaniemiec/"}
-- 
-  id: 11
   name: "Pedro"
   surname: "Fernández"
   title: "Sponsors & Partnerships"
@@ -139,7 +51,7 @@
     - {name: "github", link: "https://github.com/pedringcoding"}
     - {name: "twitter", link: "https://twitter.com/pedringcoding"}
 - 
-  id: 12
+  id: 5
   name: "Francisco"
   surname: "Baena"
   title: "Content, Diversity & Inclussion"
@@ -151,6 +63,94 @@
     - {name: "linkedin", link: "https://www.linkedin.com/in/baenans/"}
     - {name: "github", link: "https://github.com/baenans"}
     - {name: "twitter", link: "https://twitter.com/baenans"}
+- 
+  id: 6
+  name: "Miguel Angel"
+  surname: "Ruiz"
+  title: "Partnerships & Logistics"
+  thumbnailUrl: team/miguel_angel.jpg
+  team: true
+  ribbon: 
+    - {abbr: "GDG", title: "Google Developer Group"}
+  social: 
+    - {name: "linkedin", link: "https://www.linkedin.com/in/maruiz81/"}
+    - {name: "github", link: "https://github.com/maruiz81"}
+    - {name: "twitter", link: "https://twitter.com/maRuizLopez"}
+- 
+  id: 7
+  name: "Alicia"
+  surname: "Ropero"
+  title: "Partnerships & Logistics"
+  thumbnailUrl: team/alicia_ropero.jpg
+  team: true
+  ribbon: 
+    - {abbr: "GDG", title: "Google Developer Group"}
+  social: 
+    - {name: "linkedin", link: "https://www.linkedin.com/in/alicia-ropero-haro/"}
+    - {name: "twitter", link: "https://twitter.com/ali_bluee"}
+- 
+  id: 8
+  name: "Quino"
+  surname: "Terrasa"
+  title: "Social Media"
+  thumbnailUrl: team/joaquin_terrasa.png
+  team: true
+  ribbon: 
+    - {abbr: "GDG", title: "Google Developer Group"}
+  social: 
+    - {name: "linkedin", link: "https://www.linkedin.com/in/quinoterrasa/"}
+    - {name: "github", link: "https://github.com/espetro"}
+    - {name: "twitter", link: "https://twitter.com/flamenquino"}
+- 
+  id: 9
+  name: "Karol"
+  surname: "Depka"
+  title: "Community Relations"
+  thumbnailUrl: team/karol_depka.jpg
+  team: true
+  ribbon: 
+    - {abbr: "GDG", title: "Google Developer Group"}
+  social: 
+    - {name: "linkedin", link: "https://www.linkedin.com/in/karoldepka/"}
+    - {name: "github", link: "https://github.com/karol-depka"}
+    - {name: "twitter", link: "https://twitter.com/karol-depka"}
+- 
+  id: 10
+  name: "Yasmina"
+  surname: "Gil"
+  title: "Local Activities"
+  thumbnailUrl: team/YasminaGil.JPG
+  team: true
+  ribbon: 
+    - {abbr: "GDG", title: "Google Developer Group"}
+  social: 
+    - {name: "linkedin", link: "https://www.linkedin.com/in/yasmina-gil-87227624/"}
+    - {name: "github", link: "https://github.com/QaYasmina"}
+    - {name: "twitter", link: "https://twitter.com/yasmina999"}
+- 
+  id: 11
+  name: "Azahar"
+  surname: "Zafra"
+  title: "Organiser"
+  thumbnailUrl: team/Azahar.jpg
+  team: true
+  ribbon: 
+    - {abbr: "GDG", title: "Google Developer Group"}
+  social: 
+    - {name: "linkedin", link: "https://www.linkedin.com/in/azaharzafra/"}
+    - {name: "github", link: "https://github.com/Azahar"}
+    - {name: "twitter", link: "https://twitter.com/azaharvyb"}
+- 
+  id: 12
+  name: "Marta"
+  surname: "Niemiec"
+  title: "Designer"
+  thumbnailUrl: team/marta_niemiec.jpg
+  team: true
+  ribbon: 
+    - {abbr: "GDG", title: "Google Developer Group"}
+  social: 
+    - {name: "linkedin", link: "https://www.linkedin.com/in/martaniemiec/"}
 # Team
 # - 
 #   id: 2
