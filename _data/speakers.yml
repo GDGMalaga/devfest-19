@@ -12,24 +12,6 @@
         link: "https://www.linkedin.com/in/ekaterina-kamenskaya-78795022/",
       }
 - id: 1
-  name: "Alberto"
-  surname: "Gutierrez"
-  company: "Red Hat"
-  title: "Sr Software Engineer / GDE"
-  bio: "Engineer in RedHat working in ManageIQ Project and Middleware with RoR, Go and angular. With plenty of years of professional experience like SysAdmin (Hadoop certified, CloudForms) and Developer (Microservices in Go, OpenStack certified), Alberto works developing and maintaining open source projects and is part of the GDG community."
-  thumbnailUrl: speakers/alberto_gutierrez.jpeg
-  rockstar: true
-  ribbon:
-    - { abbr: "GDG", title: "Google Developer Group Organiser" }
-    - {
-        abbr: "GDE",
-        title: "Google Developer Expert",
-        url: "https://developers.google.com/community/experts/directory/profile/profile-alberto_gutierrez_juanes",
-      }
-  social:
-    - { name: "linkedin", link: "https://www.linkedin.com/in/aljesusg" }
-    - { name: "twitter", link: "https://twitter.com/aljesusg" }
-- id: 2
   name: "Moisés"
   surname: "Martinez"
   company: "Sngular"
@@ -45,7 +27,7 @@
       }
   social:
     - { name: "twitter", link: "https://twitter.com/moisipm" }
-- id: 3
+- id: 2
   name: "Estefania"
   surname: "García"
   company: "Npkill"
@@ -55,188 +37,7 @@
   rockstar: true
   social:
     - { name: "twitter", link: "https://twitter.com/Nyablk" }
-- id: 4
-  name: "Miloš"
-  surname: "Marinković"
-  company: "GDG Berlin Android"
-  title: "Sr Android Developer @ Blacklane"
-  bio: "Milos is a software product developer, enthusiast, tech speaker, and an active event organizer. His interests are primarily Android, modern Web, general tech stuff and gadgets, and---of course---Internet of Things. He also likes reading about global innovation, programming, computer science, and organization."
-  thumbnailUrl: speakers/milos_marinkovic.jpg
-  rockstar: true
-  social:
-    - { name: "twitter", link: "https://twitter.com/milosmns" }
-- id: 5
-  name: "Leonardo"
-  surname: "Pitelli"
-  company: "OLX"
-  title: "Tech Lead / GDE"
-  bio: "Leonardo is an Argentinian Software Engineer and Google Developer Expert for Web and Cloud. He's been working on web technologies for many years, building websites with a heavy focus on performance and optimization. He has hosted leading roles in progressive web apps at e-commerce and classifieds companies. Leonardo has recently moved to Lisbon and is Tech Lead in OLX Portugal."
-  thumbnailUrl: speakers/leonardo_pitelli.jpg
-  rockstar: true
-  ribbon:
-    - {
-        abbr: "GDE",
-        title: "Google Developer Expert",
-        url: "https://developers.google.com/community/experts/directory/profile/profile-leonardo_pittelli",
-      }
-  social:
-    - { name: "linkedin", link: "https://www.linkedin.com/in/leopittelli" }
-    - { name: "twitter", link: "https://twitter.com/leopittelli" }
-- id: 6
-  name: "Carmen"
-  surname: "Recio"
-  company: "IBM Research"
-  title: "Data Scientist / Advocate"
-  bio: "Carmen trabaja como Data Scientist en el equipo técnico de Sistemas Cognitivos, es Embajadora de Computación Cuántica en IBM y Qiskit Advocate. Estudió Matemáticas en la Universidad de Zaragoza, habla 4 idiomas y fue becaria de investigación en el departamento de Física-Matemática del Trinity College de Dublín en un proyecto sobre Relatividad General. Comenzó en IBM como parte del programa Artificial Intelligence & Cognitive program en el departamento de Hardware, a través de la Fundación Universidad-Empresa mientras hacía un posgrado en la Universidad Autónoma de Madrid (Citius Postgraduate Training Program). En IBM se está especializando en Inteligencia Artificial y Computación Cuántica. Carmen recibió el premio Movers by FUE, un reconocimiento a la excelencia académica y a la actitud diferencial en la empresa, por la Fundación Universidad-Empresa y la Fundación Rafael del Pino, gracias a este premio participó en el programa C4t Call for talent, en Londres y Boston, donde fue al Imperial College of London, LBS, LSE, MIT y Harvard University. Carmen colabora como profesora en varios máster en la UAH, es voluntaria del proyecto ESTALMAT de la Real Academia de las Ciencias Exactas, Físicas y Naturales y co-organizadora y co-fundadora de 4 grupos de meetup sobre IA en Madrid, Barcelona, Grecia y Lisboa."
-  thumbnailUrl: speakers/carmen_recio.jpg
-  rockstar: true
-  social:
-    - { name: "twitter", link: "https://twitter.com/carmenreciov" }
-- id: 7
-  name: "Carlos"
-  surname: "Caballero"
-  company: "Universitat Oberta de Catalunya"
-  title: "Lecturer"
-  bio: "Carlos Caballero González es Ingeniero y Doctor en Informática por la Universidad de Málaga. Máster en Ingeniería del Software e Inteligencia Artificial. Imparte formación profesional y es profesor asociado en la Universidad Oberta de Cataluña. En la actualidad imparte el Máster de desarrollo de sitios Web, especializado en frontend. Además, desarrolla tareas de colaboración con el ministerio de educación como tutor del Aula Mentor e imparte cursos de formación específica. Ha escrito más de una docena de libros que son usados para impartir certificaciones profesionales y más de una decena de artículos de investigación en las primeras revistas a nivel internacional como son las publicaciones en Solar Physics (A Comparative Study of Clustering Methods for Active Region Detection in Solar EUV Images; Automatic tracking of active regions and detection of solar flares on solar EUV images). Anteriormente trabajó como investigador en la Universidad de Málaga en diversos proyectos internacionales centrados en AI y SWE donde acabó realizando una tesis doctoral relacionada con sistemas automáticos de detección de llamaradas solares."
-  thumbnailUrl: speakers/carlos_caballero.jpg
-  rockstar: true
-  social:
-    - { name: "twitter", link: "https://twitter.com/Carlillo" }
-- id: 8
-  name: "Imran"
-  surname: "Settuba"
-  company: "47 Degrees"
-  title: "Software Engineer"
-  bio: "Imran is a Software Engineer and maintainer of the Arrow Kotlin functional library for Kotlin. Graduated in 2019 from the Technische Universität München (TUM), he has recently moved to Cadiz to join 47 Degrees."
-  thumbnailUrl: speakers/imran_settuba.png
-  rockstar: true
-  social:
-    - { name: "github", link: "https://github.com/i-walker" }
-    - { name: "linkedin", link: "https://www.linkedin.com/in/imran-settuba/" }
-- id: 9
-  name: "Daniel"
-  surname: "Llanos"
-  company: "Worldline e-payment services"
-  title: "Sr Android Engineer"
-  bio: "From Extremadura, Daniel is a curious guy that He is always trying to learn new knowledge about technology and share it with the community. He works with Android in Worldline Iberia (Madrid) since 2016, but He try to learn how develop also for iOS."
-  thumbnailUrl: speakers/daniel-pizarro.jpg
-  rockstar: true
-  social:
-    - { name: "twitter", link: "https://twitter.com/Dany4794" }
-- id: 10
-  name: "Sergio"
-  surname: "Casero"
-  company: "Worldline e-payment services"
-  title: "Android Team Lead"
-  bio: "Sergio: Tengo 28 años, soy desarrollador de Android desde hace más de 4 años, y llevo trabajando con Kotlin desde 2015. Actualmente trabajo como Senior Android Engineer en Worldline Iberia. Amante del Software en general y de Android + IoT en particular. Arduino FTW!"
-  thumbnailUrl: speakers/sergio_casero.jpg
-  rockstar: true
-  social:
-    - { name: "twitter", link: "https://twitter.com/Sergioch23" }
-- id: 11
-  name: "Ana"
-  surname: "Encinar"
-  company: "Idealista"
-  title: "FullStack Developer"
-  bio: "Ingeniera Informática por la Universidad de Salamanca, curiosa e inquieta por naturaleza. Resultado de ello es la obsesión por experimentar con todo lenguaje de programación. Amante de la inteligencia artificial y del cine. Temas sobre los que ha escrito en alguna revista. Una de las fundadoras de BlackBerry Developers Salamanca y ACM (Association for Computing Machinery) Salamanca. Fue en aquellas épocas donde comenzó su andadura con javascript. Actualmente se encuentra dedicada al mundo fullstack en Idealista."
-  thumbnailUrl: speakers/ana_encinar.jpg
-  rockstar: true
-  social:
-    - {
-        name: "linkedin",
-        link: "https://www.linkedin.com/in/ana-isabel-encinar-saez",
-      }
-    - { name: "twitter", link: "https://twitter.com/jnisabe" }
-- id: 12
-  name: "Javier"
-  surname: "López"
-  company: "BBVA Next"
-  title: "Tech Lead / GDE"
-  bio: "Javier is a technology enthusiast, and works as Tech Lead at BBVA Next Technologies. He is also professor of Cloud technologies and in his free time he organizes Google Developers Group Burgos and presides Abi2Burgos."
-  thumbnailUrl: speakers/javier_lopez.jpg
-  rockstar: true
-  ribbon:
-    - { abbr: "GDG", title: "Google Developer Group Organiser" }
-    - {
-        abbr: "GDE",
-        title: "Google Developer Expert",
-        url: "https://developers.google.com/community/experts/directory/profile/profile-javier_l_C3_B3pez_mart_C3_ADnez",
-      }
-  social:
-    - { name: "linkedin", link: "https://www.linkedin.com/in/jlopezmartinez" }
-    - { name: "twitter", link: "https://twitter.com/javioreto" }
-- id: 13
-  name: "Elena"
-  surname: "Guzmán"
-  company: "Bravent"
-  title: "Software Developer"
-  bio: "Elena is a software developer located in Málaga, Spain. Elena enjoys learning new technologies and making dreams come apps. Also writing and creating fictional worlds, dreaming new adventures in TTRPGames and videogames to imagine better worlds."
-  thumbnailUrl: speakers/elena_guzman.jpg
-  rockstar: true
-  social:
-    - {
-        name: "linkedin",
-        link: "https://www.linkedin.com/in/elena-guzman-blanco",
-      }
-    - { name: "twitter", link: "https://twitter.com/Beelzenef_" }
-- id: 14
-  name: "David"
-  surname: "Cifuentes"
-  company: "Zalon by Zalando"
-  title: "Sr Software Engineer"
-  ribbon:
-    - {
-        abbr: "GDE",
-        title: "Google Developer Expert",
-        url: "https://developers.google.com/community/experts/directory/profile/profile-david_cifuentes",
-      }
-  bio: "David is a Software Engineer at Zalon by Zalando, based in Berlin, Germany. For the past few years, he has been developing applications running in the cloud in different kinds of projects ranging from enterprise software to IoT but he is currently focused in marketing tech. In his spare time, he enjoys traveling the world and running marathons."
-  thumbnailUrl: speakers/david_cifuentes.jpg
-  rockstar: true
-  social:
-    - { name: "github", link: "https://github.com/dcifuen" }
-    - { name: "twitter", link: "https://twitter.com/dcifuen" }
-- id: 15
-  name: "Gema"
-  surname: "Arnaiz"
-  company: "BBVA Next"
-  title: "Software Engineer"
-  bio: "Ingeniera de Software, Gema trabaja en en el equipo de Payments de BBVA Next Technologies desarrollando soluciones de pagos. Gema es organizadora de GDG Burgos."
-  thumbnailUrl: speakers/gema_arnaiz.jpg
-  rockstar: true
-  ribbon:
-    - { abbr: "GDG", title: "Google Developer Group Organiser" }
-  social:
-    - { name: "twitter", link: "https://twitter.com/garnaizd92" }
-- id: 16
-  name: "Jorge"
-  surname: "del Casar"
-  company: "Sngular"
-  title: "Head of Frontend"
-  bio: "Jorge es desarrollador web desde hace más de 15 años. En 2012, Jorge centró su carrera en Javascript, desde 2015 comenzó a desarrollar Web Components y desde 2018 ha llevado los web components a otro nivel defendiendo la idea de los Micro Frontends. Adicionalmente lleva desde 2017 trasteando con Google Assistant creando Actions on Google y chatbots para Slack, Twitter y Telegram."
-  thumbnailUrl: speakers/jorge_del_casar.jpg
-  rockstar: true
-  ribbon:
-    - {
-        abbr: "GDE",
-        title: "Google Developer Expert",
-        url: "https://developers.google.com/community/experts/directory/profile/profile-jorge_del_casar",
-      }
-  social:
-    - { name: "twitter", link: "https://twitter.com/jorgecasar" }
-- id: 17
-  name: "Israel"
-  surname: "Blancas"
-  company: "RTI"
-  title: "Internal Tools Engineer"
-  bio: "Apasionado de las comunidades, del software libre y todo lo relacionado con la tecnología, Israel trabaja en RTI como Ingeniero de Software. Le gusta tocar y romper. Israel es Organizador de GDG Granada."
-  thumbnailUrl: speakers/israel_blancas.jpg
-  rockstar: true
-  ribbon:
-    - { abbr: "GDG", title: "Google Developer Group Organiser" }
-  social:
-    - { name: "twitter", link: "https://twitter.com/iblancasa" }
-- id: 18
+- id: 3
   name: "Bob"
   surname: "van Luijt"
   company: "SeMI Technologies"
@@ -254,17 +55,7 @@
     - { name: "linkedin", link: "https://linkedin.com/in/bobvanluijt" }
     - { name: "github", link: "https://github.com/bobvanluijtt" }
     - { name: "twitter", link: "https://twitter.com/bobvanluijt" }
-- id: 19
-  name: "Nerea"
-  surname: "Luis"
-  company: "Sngular"
-  title: "AI Engineer / PhD"
-  bio: "Nerea Luis Mingueza es Artificial Intelligence Engineer en Sngular. Con 28 años es Doctora Cum Laude en Inteligencia Artificial. Paralelamente ha fundado el evento nacional y gratuito T3chFest con más de 1600 asistentes y 80 charlas sobre ciencia y tecnología. Google le otorgó el premio Women Techmaker en 2016 reconociendo su labor. En enero de 2018 se unió a la Fundación COTEC como experta en tecnología, Talento y Género. Estos son sólo algunos de los méritos obtenidos en estos últimos dos años. Sus actividades divulgativas han hecho que se convierta en un referente ‘women in tech’. Ha continuado colaborando con Google, el Anita Borg Institute, la Casa Real, ministerios, eventos tecnológicos etc. mientras sigue publicando artículos científicos sobre planificación automática multiagente, con gran impacto en los medios, entrevistas y algunas de sus charlas que han sido grabadas. Recientemente Nerea ha recibido la Condecoración de la Orden al Mérito Civil."
-  thumbnailUrl: speakers/nerea_luis.jpg
-  rockstar: true
-  social:
-    - { name: "twitter", link: "https://twitter.com/sailormerqury" }
-- id: 20
+- id: 4
   name: "Pedro"
   surname: "Gómez"
   company: "Karumi"
@@ -275,6 +66,223 @@
   social:
     - { name: "github", link: "https://github.com/pedrovgs" }
     - { name: "twitter", link: "https://twitter.com/pedro_g_s" }
+- id: 5
+  name: "Nerea"
+  surname: "Luis"
+  company: "Sngular"
+  title: "AI Engineer / PhD"
+  bio: "Nerea Luis Mingueza es Artificial Intelligence Engineer en Sngular. Con 28 años es Doctora Cum Laude en Inteligencia Artificial. Paralelamente ha fundado el evento nacional y gratuito T3chFest con más de 1600 asistentes y 80 charlas sobre ciencia y tecnología. Google le otorgó el premio Women Techmaker en 2016 reconociendo su labor. En enero de 2018 se unió a la Fundación COTEC como experta en tecnología, Talento y Género. Estos son sólo algunos de los méritos obtenidos en estos últimos dos años. Sus actividades divulgativas han hecho que se convierta en un referente ‘women in tech’. Ha continuado colaborando con Google, el Anita Borg Institute, la Casa Real, ministerios, eventos tecnológicos etc. mientras sigue publicando artículos científicos sobre planificación automática multiagente, con gran impacto en los medios, entrevistas y algunas de sus charlas que han sido grabadas. Recientemente Nerea ha recibido la Condecoración de la Orden al Mérito Civil."
+  thumbnailUrl: speakers/nerea_luis.jpg
+  rockstar: true
+  social:
+    - { name: "twitter", link: "https://twitter.com/sailormerqury" }
+    - { name: "linkedin", link: "https://www.linkedin.com/in/nerealuis/" }
+- id: 6
+  name: "Karl"
+  surname: "Hiramoto"
+  company: "VirusTotal"
+  title: "Software Engineer"
+  ribbon:
+    - {
+        abbr: "LPO",
+        title: "La Peña Overflow",
+        url: "https://www.meetup.com/es-ES/La-Pena-Overflow/",
+      }
+  bio: "Karl Hiramoto es un Estadounidense que lleva más de 14 años en la costa del sol. Ingeniero de Software en VirusTotal, una empresa adquirida por Google en 2012. Ahora en VirusTotal trabaja en un equipo dedicado al análisis de ficheros. Con más de 20 años de experiencia en el sector tecnológico, ha trabajado en las áreas de Big Data, Firewalls, Routers, sistemas empotrados y sensores, entre otras. Karl también es miembro activo de la comunidad de ciberseguridad, donde ha participado en varias conferencias en todo el mundo, ha contribuido al kernel de Linux y otros proyectos open source, además de participar y organizar meetups en Málaga y Marbella."
+  thumbnailUrl: speakers/karl_hiramoto.jpg
+  rockstar: true
+  social:
+    - { name: "twitter", link: "https://twitter.com/karlhiramoto" }
+    - { name: "linkedin", link: "https://www.linkedin.com/in/karlhiramoto" }
+- id: 7
+  name: "Alberto"
+  surname: "Gutierrez"
+  company: "Red Hat"
+  title: "Sr Software Engineer / GDE"
+  bio: "Engineer in RedHat working in ManageIQ Project and Middleware with RoR, Go and angular. With plenty of years of professional experience like SysAdmin (Hadoop certified, CloudForms) and Developer (Microservices in Go, OpenStack certified), Alberto works developing and maintaining open source projects and is part of the GDG community."
+  thumbnailUrl: speakers/alberto_gutierrez.jpeg
+  rockstar: true
+  ribbon:
+    - { abbr: "GDG", title: "Google Developer Group Organiser" }
+    - {
+        abbr: "GDE",
+        title: "Google Developer Expert",
+        url: "https://developers.google.com/community/experts/directory/profile/profile-alberto_gutierrez_juanes",
+      }
+  social:
+    - { name: "linkedin", link: "https://www.linkedin.com/in/aljesusg" }
+    - { name: "twitter", link: "https://twitter.com/aljesusg" }
+- id: 8
+  name: "Carmen"
+  surname: "Recio"
+  company: "IBM Research"
+  title: "Data Scientist / Advocate"
+  bio: "Carmen trabaja como Data Scientist en el equipo técnico de Sistemas Cognitivos, es Embajadora de Computación Cuántica en IBM y Qiskit Advocate. Estudió Matemáticas en la Universidad de Zaragoza, habla 4 idiomas y fue becaria de investigación en el departamento de Física-Matemática del Trinity College de Dublín en un proyecto sobre Relatividad General. Comenzó en IBM como parte del programa Artificial Intelligence & Cognitive program en el departamento de Hardware, a través de la Fundación Universidad-Empresa mientras hacía un posgrado en la Universidad Autónoma de Madrid (Citius Postgraduate Training Program). En IBM se está especializando en Inteligencia Artificial y Computación Cuántica. Carmen recibió el premio Movers by FUE, un reconocimiento a la excelencia académica y a la actitud diferencial en la empresa, por la Fundación Universidad-Empresa y la Fundación Rafael del Pino, gracias a este premio participó en el programa C4t Call for talent, en Londres y Boston, donde fue al Imperial College of London, LBS, LSE, MIT y Harvard University. Carmen colabora como profesora en varios máster en la UAH, es voluntaria del proyecto ESTALMAT de la Real Academia de las Ciencias Exactas, Físicas y Naturales y co-organizadora y co-fundadora de 4 grupos de meetup sobre IA en Madrid, Barcelona, Grecia y Lisboa."
+  thumbnailUrl: speakers/carmen_recio.jpg
+  rockstar: true
+  social:
+    - { name: "twitter", link: "https://twitter.com/carmenreciov" }
+- id: 9
+  name: "Miloš"
+  surname: "Marinković"
+  company: "GDG Berlin Android"
+  title: "Sr Android Developer @ Blacklane"
+  bio: "Milos is a software product developer, enthusiast, tech speaker, and an active event organizer. His interests are primarily Android, modern Web, general tech stuff and gadgets, and---of course---Internet of Things. He also likes reading about global innovation, programming, computer science, and organization."
+  thumbnailUrl: speakers/milos_marinkovic.jpg
+  rockstar: true
+  social:
+    - { name: "twitter", link: "https://twitter.com/milosmns" }
+- id: 10
+  name: "Ana"
+  surname: "Encinar"
+  company: "Idealista"
+  title: "FullStack Developer"
+  bio: "Ingeniera Informática por la Universidad de Salamanca, curiosa e inquieta por naturaleza. Resultado de ello es la obsesión por experimentar con todo lenguaje de programación. Amante de la inteligencia artificial y del cine. Temas sobre los que ha escrito en alguna revista. Una de las fundadoras de BlackBerry Developers Salamanca y ACM (Association for Computing Machinery) Salamanca. Fue en aquellas épocas donde comenzó su andadura con javascript. Actualmente se encuentra dedicada al mundo fullstack en Idealista."
+  thumbnailUrl: speakers/ana_encinar.jpg
+  rockstar: true
+  social:
+    - {
+        name: "linkedin",
+        link: "https://www.linkedin.com/in/ana-isabel-encinar-saez",
+      }
+    - { name: "twitter", link: "https://twitter.com/jnisabe" }
+- id: 11
+  name: "Leonardo"
+  surname: "Pitelli"
+  company: "OLX"
+  title: "Tech Lead / GDE"
+  bio: "Leonardo is an Argentinian Software Engineer and Google Developer Expert for Web and Cloud. He's been working on web technologies for many years, building websites with a heavy focus on performance and optimization. He has hosted leading roles in progressive web apps at e-commerce and classifieds companies. Leonardo has recently moved to Lisbon and is Tech Lead in OLX Portugal."
+  thumbnailUrl: speakers/leonardo_pitelli.jpg
+  rockstar: true
+  ribbon:
+    - {
+        abbr: "GDE",
+        title: "Google Developer Expert",
+        url: "https://developers.google.com/community/experts/directory/profile/profile-leonardo_pittelli",
+      }
+  social:
+    - { name: "linkedin", link: "https://www.linkedin.com/in/leopittelli" }
+    - { name: "twitter", link: "https://twitter.com/leopittelli" }
+- id: 12
+  name: "Imran"
+  surname: "Settuba"
+  company: "47 Degrees"
+  title: "Software Engineer"
+  bio: "Imran is a Software Engineer and maintainer of the Arrow Kotlin functional library for Kotlin. Graduated in 2019 from the Technische Universität München (TUM), he has recently moved to Cadiz to join 47 Degrees."
+  thumbnailUrl: speakers/imran_settuba.png
+  rockstar: true
+  social:
+    - { name: "github", link: "https://github.com/i-walker" }
+    - { name: "linkedin", link: "https://www.linkedin.com/in/imran-settuba/" }
+- id: 13
+  name: "Daniel"
+  surname: "Llanos"
+  company: "Worldline e-payment services"
+  title: "Sr Android Engineer"
+  bio: "From Extremadura, Daniel is a curious guy that He is always trying to learn new knowledge about technology and share it with the community. He works with Android in Worldline Iberia (Madrid) since 2016, but He try to learn how develop also for iOS."
+  thumbnailUrl: speakers/daniel-pizarro.jpg
+  rockstar: true
+  social:
+    - { name: "twitter", link: "https://twitter.com/Dany4794" }
+- id: 14
+  name: "Carlos"
+  surname: "Caballero"
+  company: "Universitat Oberta de Catalunya"
+  title: "Lecturer"
+  bio: "Carlos Caballero González es Ingeniero y Doctor en Informática por la Universidad de Málaga. Máster en Ingeniería del Software e Inteligencia Artificial. Imparte formación profesional y es profesor asociado en la Universidad Oberta de Cataluña. En la actualidad imparte el Máster de desarrollo de sitios Web, especializado en frontend. Además, desarrolla tareas de colaboración con el ministerio de educación como tutor del Aula Mentor e imparte cursos de formación específica. Ha escrito más de una docena de libros que son usados para impartir certificaciones profesionales y más de una decena de artículos de investigación en las primeras revistas a nivel internacional como son las publicaciones en Solar Physics (A Comparative Study of Clustering Methods for Active Region Detection in Solar EUV Images; Automatic tracking of active regions and detection of solar flares on solar EUV images). Anteriormente trabajó como investigador en la Universidad de Málaga en diversos proyectos internacionales centrados en AI y SWE donde acabó realizando una tesis doctoral relacionada con sistemas automáticos de detección de llamaradas solares."
+  thumbnailUrl: speakers/carlos_caballero.jpg
+  rockstar: true
+  social:
+    - { name: "twitter", link: "https://twitter.com/Carlillo" }
+- id: 15
+  name: "Gema"
+  surname: "Arnaiz"
+  company: "BBVA Next"
+  title: "Software Engineer"
+  bio: "Ingeniera de Software, Gema trabaja en en el equipo de Payments de BBVA Next Technologies desarrollando soluciones de pagos. Gema es organizadora de GDG Burgos."
+  thumbnailUrl: speakers/gema_arnaiz.jpg
+  rockstar: true
+  ribbon:
+    - { abbr: "GDG", title: "Google Developer Group Organiser" }
+  social:
+    - { name: "twitter", link: "https://twitter.com/garnaizd92" }
+- id: 16
+  name: "Elena"
+  surname: "Guzmán"
+  company: "Bravent"
+  title: "Software Developer"
+  bio: "Elena is a software developer located in Málaga, Spain. Elena enjoys learning new technologies and making dreams come apps. Also writing and creating fictional worlds, dreaming new adventures in TTRPGames and videogames to imagine better worlds."
+  thumbnailUrl: speakers/elena_guzman.jpg
+  rockstar: true
+  social:
+    - {
+        name: "linkedin",
+        link: "https://www.linkedin.com/in/elena-guzman-blanco",
+      }
+    - { name: "twitter", link: "https://twitter.com/Beelzenef_" }
+- id: 17
+  name: "David"
+  surname: "Cifuentes"
+  company: "Zalon by Zalando"
+  title: "Sr Software Engineer"
+  ribbon:
+    - {
+        abbr: "GDE",
+        title: "Google Developer Expert",
+        url: "https://developers.google.com/community/experts/directory/profile/profile-david_cifuentes",
+      }
+  bio: "David is a Software Engineer at Zalon by Zalando, based in Berlin, Germany. For the past few years, he has been developing applications running in the cloud in different kinds of projects ranging from enterprise software to IoT but he is currently focused in marketing tech. In his spare time, he enjoys traveling the world and running marathons."
+  thumbnailUrl: speakers/david_cifuentes.jpg
+  rockstar: true
+  social:
+    - { name: "github", link: "https://github.com/dcifuen" }
+    - { name: "twitter", link: "https://twitter.com/dcifuen" }
+- id: 18
+  name: "Javier"
+  surname: "López"
+  company: "BBVA Next"
+  title: "Tech Lead / GDE"
+  bio: "Javier is a technology enthusiast, and works as Tech Lead at BBVA Next Technologies. He is also professor of Cloud technologies and in his free time he organizes Google Developers Group Burgos and presides Abi2Burgos."
+  thumbnailUrl: speakers/javier_lopez.jpg
+  rockstar: true
+  ribbon:
+    - { abbr: "GDG", title: "Google Developer Group Organiser" }
+    - {
+        abbr: "GDE",
+        title: "Google Developer Expert",
+        url: "https://developers.google.com/community/experts/directory/profile/profile-javier_l_C3_B3pez_mart_C3_ADnez",
+      }
+  social:
+    - { name: "linkedin", link: "https://www.linkedin.com/in/jlopezmartinez" }
+    - { name: "twitter", link: "https://twitter.com/javioreto" }
+- id: 19
+  name: "Jorge"
+  surname: "del Casar"
+  company: "Sngular"
+  title: "Head of Frontend"
+  bio: "Jorge es desarrollador web desde hace más de 15 años. En 2012, Jorge centró su carrera en Javascript, desde 2015 comenzó a desarrollar Web Components y desde 2018 ha llevado los web components a otro nivel defendiendo la idea de los Micro Frontends. Adicionalmente lleva desde 2017 trasteando con Google Assistant creando Actions on Google y chatbots para Slack, Twitter y Telegram."
+  thumbnailUrl: speakers/jorge_del_casar.jpg
+  rockstar: true
+  ribbon:
+    - {
+        abbr: "GDE",
+        title: "Google Developer Expert",
+        url: "https://developers.google.com/community/experts/directory/profile/profile-jorge_del_casar",
+      }
+  social:
+    - { name: "twitter", link: "https://twitter.com/jorgecasar" }
+- id: 20
+  name: "Israel"
+  surname: "Blancas"
+  company: "RTI"
+  title: "Internal Tools Engineer"
+  bio: "Apasionado de las comunidades, del software libre y todo lo relacionado con la tecnología, Israel trabaja en RTI como Ingeniero de Software. Le gusta tocar y romper. Israel es Organizador de GDG Granada."
+  thumbnailUrl: speakers/israel_blancas.jpg
+  rockstar: true
+  ribbon:
+    - { abbr: "GDG", title: "Google Developer Group Organiser" }
+  social:
+    - { name: "twitter", link: "https://twitter.com/iblancasa" }
 - id: 21
   name: "Irene M"
   surname: "Morgado"
@@ -286,6 +294,71 @@
   social:
     - { name: "linkedin", link: "https://www.linkedin.com/in/irenemmorgado/" }
     - { name: "twitter", link: "https://twitter.com/leopittelli" }
+- id: 22
+  name: "Sergio"
+  surname: "Casero"
+  company: "Worldline e-payment services"
+  title: "Android Team Lead"
+  bio: "Sergio: Tengo 28 años, soy desarrollador de Android desde hace más de 4 años, y llevo trabajando con Kotlin desde 2015. Actualmente trabajo como Senior Android Engineer en Worldline Iberia. Amante del Software en general y de Android + IoT en particular. Arduino FTW!"
+  thumbnailUrl: speakers/sergio_casero.jpg
+  rockstar: true
+  social:
+    - { name: "twitter", link: "https://twitter.com/Sergioch23" }
+- id: 23
+  name: "Fernando"
+  surname: "Denis"
+  company: "Hispasec"
+  title: "Chief Executive Officer"
+  ribbon:
+    - {
+        abbr: "LPO",
+        title: "La Peña Overflow",
+        url: "https://www.meetup.com/es-ES/La-Pena-Overflow/",
+    }
+  bio: "Fernando Denis Ramírez works as Chief Executive Officer for Hispasec Sistemas, managing and improving services and protocols in the antifraud, early warning and brand abuse areas. He also coordinates the operations in the Koodous project, as well as contributing with his coding and system administration experience to the development and operation of some of the project's main features."
+  thumbnailUrl: speakers/fernando_denis.png
+  rockstar: true
+  social:
+    - { name: "twitter", link: "https://twitter.com/fdrg21" }
+    - { name: "linkedin", link: "https://www.linkedin.com/in/fernando-denis-ram%C3%ADrez-guerrero-6a184629/" }
+- id: 24
+  name: "Pablo"
+  surname: "Moncada"
+  company: "MasMovil"
+  title: "Tecnical Lead"
+  ribbon:
+    - {
+        abbr: "GDE",
+        title: "Google Developer Expert",
+        url: "https://developers.google.com/community/experts/directory/profile/profile-alberto_gutierrez_juanes",
+    }
+  bio: "Pablo is Google Developer Expert (GDE) focused on Cloud technologies and specifically on Kubernetes. He works at a billion Telco company with large scale deployments and working with several types and shape of software."
+  thumbnailUrl: speakers/pablo_moncada.png
+  rockstar: true
+  social:
+    - { name: "twitter", link: "https://twitter.com/pmoncadaisla" }
+- id: 25
+  name: "Miguel Ángel"
+  surname: "Muñoz"
+  company: "The Workshop"
+  title: "Front End Engineer"
+  bio: "Miguel works as a Front End Developer in The Workshop (Málaga). Interested in making developers life easier trying new approaches. Fanatic of clean code. Currently focused in developing maintainable and reliable applications using Angular, Jest and Cypress."
+  thumbnailUrl: speakers/miguel_munoz.jpeg
+  rockstar: true
+  social:
+    - { name: "linkedin", link: "https://www.linkedin.com/in/miguel-%C3%A1ngel-mu%C3%B1oz-alonso-97b9b061/" }
+    - { name: "twitter", link: "https://twitter.com/ma_munoz_dev" }
+- id: 26
+  name: "Javi"
+  surname: "Cepa"
+  company: "Pixelatto"
+  title: "Fundador / Director Creativo"
+  bio: "Javi Cepa es el fundador y director creativo de Pixelatto, un estudio independiente de Málaga conocido por sus assets y herramientas de apoyo a desarrolladores y videojuegos de corte clásico fundado en 2014. Además, es profesor de diseño y programación en el máster de videojuegos de la Universidad de Málaga y miembro fundador de Málaga Jam, una de las asociaciones locales de creadores de videojuegos más relevantes a nivel local y nacional."
+  thumbnailUrl: speakers/javi_cepa.jpg
+  rockstar: true
+  social:
+    - { name: "linkedin", link: "https://www.linkedin.com/in/javiercepa/" }
+    - { name: "twitter", link: "https://twitter.com/javicepa" }
 # - id: 50
 #   name: "Leonardo"
 #   surname: "Pitelli"

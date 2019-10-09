@@ -18,91 +18,91 @@
   title: "Observability and ServiceMesh with Istio & Kiali"
   description: "Microservice Architectures break up the monolith into many smaller pieces and introduce new communication patterns between services like fault tolerance and dynamic routing. A Service Mesh like Istio provides these traffic control capabilities on a platform level and frees the application writers from those tasks, allowing them to focus on business logic. One of the major challenges with the management of a microservices architecture is trying to understand how services are composed, how they are connected and how all components operate from global perspective to a particular detail. Kiali works with Istio to visualise the service mesh topology and describe how are they connected."
   subtype: presentation
-  speakers: [1]
+  speakers: [7]
   language: es
   complexity: "Intermediate"
 - id: 003
   title: "Desmontando Alphastar"
   description: "AlphaStar es la nueva creación del equipo DeepMind. Este sistema de Inteligencia Artificial es capaz de derrotar a los mejores jugadores de StarCraft II del planeta. Pero la gran pregunta es como funciona por dentro. En esta charla describiremos como está construido este sistema y cuales son cada uno de las piezas que lo componen. Para cada una de ellas describiremos que hacen cada una de ella y que aportan al sistema de juego global con el fin de entender un poco mejor porque el sistema desarrollado por el equipo de DeepMind juega tan bien. "
   subtype: presentation
-  speakers: [2]
+  speakers: [1]
   language: es
   complexity: "Intermediate"
 - id: 004
   title: "Managing state with NgRx and Pokemon"
   description: "Introducción a la construcción de aplicaciones reactivas en Angular usando la última versión del framework NgRx. Veremos el código necesario para la construcción de una Pokedex, en el que veremos aplicados los principios base de NgRx (inmutabilidad, centralización, delegación de responsabilidades, programación funcional etc.) "
   subtype: presentation
-  speakers: [3]
+  speakers: [2]
   language: es
   complexity: "Intermediate"
 - id: 005
   title: "Coroutines vs. ReactiveX: Handling errors"
   description: "<p>Whether you’re coming from the Android world or not, you’ve probably heard about Kotlin (the programming language) and its asynchronous programming concept called Coroutines. It’s a neat concept that helps you create execution blocks similar to light-weight threads, while at the same time allowing you to write your asynchronous code in a synchronous fashion. On the other hand, many of us got really (really) used to Reactive Extensions in many languages, and we prefer to go down this road. With ReactiveX, you can chain your asynchronous blocks in future-like structures, and easily control threading around them</p>. <p>Well, you know how it usually goes - you read about something (aha! what is this coroutines thing)… maybe you see a couple of talks on the topic, maybe you get interested. After you try it out and decide to use it in a real project, you start typing your code… and boom! Your program crashes. You then go to StackOverflow to check for answers to your problem, and surprise: you’re not handling errors properly. <p>You copy-paste the solution without any edits or tests and you’re ready for release.</p> Hopefully this is not you. You want to check everything before using a new language or library, you want to fully understand the consequences of switching over to a different solution from the one you currently have. There are some quirks in every approach, sure, but do you know all of the corner cases? </p> That’s why we need to have this talk. Let’s go together through the most interesting examples of how we can get (and handle) errors with ReactiveX and Coroutines."
   subtype: presentation
-  speakers: [4]
+  speakers: [9]
   language: en
   complexity: "Intermediate"
 - id: 006
   title: "Modern web development"
   description: "Progressive web apps have been around us for many years. Let's see how they evolved during this time, what the web can do and which are the plans for the future. We will also do a walkthrough some experiences developing and deploying some PWAs and some AMP compatible frontends for a big companies. Challenges, big wins, pros and cons of it, plus the results of how is it performing."
   subtype: presentation
-  speakers: [5]
+  speakers: [11]
   language: en
   complexity: "Intermediate"
 - id: 007
   title: "¿Qué es y cómo funciona la computación cuántica?"
   description: "En esta charla haremos una introducción a la computación cuántica, construiremos nuestro primer circuito cuántico con la plataforma IBM Q Experience... ¡¡¡en un ordenador cuántico de verdad!!! y terminaremos utilizando el framework de computación cuántica Qiskit mediante el cual utilizaremos Python para hacer nuestro primer programa cuántico, cómo no, el 'Hola mundo cuántico'."
   subtype: presentation
-  speakers: [6]
+  speakers: [8]
   language: es
   complexity: "Beginner"
 - id: 008
   title: "Arquitectura en node.js usando NestJS"
   description: "<p>Arquitectura en node.js usando NestJS: Nest es un framework para construir aplicaciones web eficientes y escalares usando node.js el cual es construido sobre TypeScript con la arquitectura de diseño de software aplicada por Angular. Para ello se dispone de conceptos como controladores, modelos, ORMs, middlewares, pipes, guardas, interceptores, inyección de dependencia, pruebas unitarias y e2e. Además, NestJS permite el uso de websockets, microservicios o graphQL</p>. <p> En este charla se presenta como comenzar una aplicación con Nest, además de aprender cómo incrementar la productividad cuando se están creando aplicaciones del lado del servidor con node.js. Se aprenderá los conceptos fundamentales de uso de este framework, así como algunas buenas prácticas. A lo largo de esta charla se construirá una simple API RESTful con varios endpoints en los que existirán roles, guardas, validaciones, etc. Dando arquitectura a una aplicación JavaScript/TypeScript. No obstante, la clave de esta charla es la de descubrir como crear aplicaciones escalables, mantenibles y extensibles en el ecosistema de node.js</p>. <p>Prerrequisitos: Conocimiento básico de TypeScript (o al menos las últimas características de ES6). Aquellas personas que hayan trabajado con otros frameworks en otros lenguajes se encontrarán muy cómodos (Spring, Angular, .NET)</p> <p>NestJS es el framework en GitHub con mayor repercusión cerca de 20000 estrellas y una fuerte de comunidad creando extensiones que lo hacen compatible con cualquier tecnología</p>"
   subtype: presentation
-  speakers: [7]
+  speakers: [14]
   language: es
   complexity: "Intermediate"
 - id: 009
   title: "Functional plant delivery in Kotlin with ArrowFx"
   description: "An introduction to write pure functional programs: In this talk we will model a small plant delivery system using an FP architecture approach and ArrowFx, which is a FP library in Kotlin with direct syntax and explicit control of side effects."
   subtype: presentation
-  speakers: [8]
+  speakers: [12]
   language: en
   complexity: "Intermediate"
 - id: 010
   title: "Kotlin multiplatform: un lenguaje para dominarlos a todos"
   description: "React, Xamarin, Ionic... todos ofrecen posibilidades 'multiplataforma' pero... y si pudiésemos crear un proyecto multiplataforma nativo? Con uno de los mejores lenguajes del momento? Y si encima pudiéramos compartir los modelos con el backend? Suena muy bien verdad? Pues con kotlin podemos hacerlo! Veremos como podemos hacer una app para Android, iOS, web y backend con el mismo lenguaje, y en el mismo proyecto!"
   subtype: presentation
-  speakers: [9, 10]
+  speakers: [13, 22]
   language: es
   complexity: "Intermediate"
 - id: 011
-  title: "Front performance:  la web movil"
+  title: "Front performance: la web movil"
   description: "La web 3.0 está en auge! Actualmente más de 57% del tráfico web, proviene de búsquedas a través de dispositivos móviles. Sin embargo, aunque estos dispositivos son cada día más potentes, la mayoría de las aplicaciones web del mercado no cumplen con los requisitos mínimos para poder visualizar su contenido en el móvil. Recordemos que desde 2015 Google penaliza a las webs no accesibles, por lo tanto, necesitamos conocer cómo construir correctamente una aplicación web que funcione por igual en desktop y en móvil, sin diferencias en funcionalidad ni costes a la hora de desarrollar. El objetivo de esta charla es mostrar las limitaciones funcionales de una web en navegador móvil y buscar soluciones para que no afecte al desarrollo y por supuesto al usuario."
   subtype: presentation
-  speakers: [11]
+  speakers: [10]
   language: es
   complexity: "Beginner"
 - id: 012
-  title: "De 0 a 100 con Machine Learning y Bigdata"
+  title: "Machine Learning & Big Data: de 0 a 100"
   description: "En esta charla veremos cómo crear un modelo de machine learning basado en imágenes y entrenarlo en directo, partiendo desde cero y accesible a todos los públicos. Igualmente, se verá las posibilidades de ofrece Google Cloud BigQuery parar el tratamiento de grandes cantidades de información."
   subtype: presentation
-  speakers: [12]
+  speakers: [18]
   language: es
   complexity: "Beginner"
 - id: 013
-  title: "GodotEngine y 3D"
+  title: "Workshop: introducción a GodotEngine y 3D"
   description: "<p>Crear videojuegos es el sueño de muchas personas, y lo más importante es empezar.</p><p>Únete a este taller para conocer GodotEngine, una herramienta libre y gratuita que permite crear videojuegos en 2D y 3D, obteniendo resultados de forma rápida y abriendo las puertas para los proyectos que siempre has soñado.<p/><p>Necesitarás tu portatil y la instalación de GodotEngine, ¡y a desarrollar!</p>"
   subtype: presentation
-  speakers: [13]
+  speakers: [16]
   language: es
   complexity: "Beginner"
 - id: 014
   title: "Continuous Delivery for Static Websites using Google Cloud, Contentful and GatsbyJS"
   description: "Continuous delivery is a practice that many software teams have adopted and embraced for a long time, however, it hasn’t been as explored in other realms such as content publishing, though it can bring most of the same benefits. During this talk, you’ll see how to use together: Contentful, a “headless” content management system, GatsbyJS, an open-source Javascript static site generation framework along with some of the Google Cloud services to achieve continuous delivery for both code and content to have a robust, well-tested and high-performance website."
   subtype: presentation
-  speakers: [14]
+  speakers: [17]
   language: en
   complexity: "Intermediate"
 - id: 015
@@ -116,35 +116,35 @@
   title: "PWAs basadas en Micro Frontends con Web Components"
   description: "<P>La idea detrás de Micro Frontends es pensar en un sitio web o aplicación web como una composición de características que son propiedad de equipos independientes. Cada equipo tiene un área de negocios o misión distinta en la que se preocupa y se especializa. Un equipo es multifuncional y desarrolla sus funciones de extremo a extremo, desde la base de datos hasta la interfaz de usuario.</p><p>¿Cómo podemos llevar a cabo esa idea usando Web Components</p>"
   subtype: presentation
-  speakers: [16]
+  speakers: [19]
   language: es
   complexity: "Advanced"
 - id: 017
-  title: "Ballenas a dieta"
+  title: "Docker: Ballenas a dieta"
   description: "Seguro que has oído hablar de Docker, el sistema más utilizado para crear containers. Los containers pueden ser muy útiles si sabes cómo utilizarlos pero las malas prácticas pueden hacer que todo se convierta en un infierno. Durante esta charla te contaré cómo optimizar tus contenedores a través de ejemplos y cómo he aplicado estas prácticas en algunos casos de uso en mi vida laboral. Si no sabes qué es Docker o un container, no te preocupes: haré un repaso al principio."
   subtype: presentation
-  speakers: [17]
+  speakers: [20]
   language: es
   complexity: "Intermediate"
 - id: 018
   title: "Build your own Knowledge Graph with Weaviate on GCP"
   description: "<p>Maybe you've heard of them before, knowledge graphs. But if you haven't, no worries, you are not alone. Knowledge graphs take an entirely new approach to data management. What makes them stand out from other data solutions is that they focus on the meaning and context of data by extracting the purpose of the language.</p><p>The use cases are almost endless. It allows scientists to automate drug discovery, doctors to search for diseases based on patients' symptoms, to map our complex Internet of Things landscapes, gather insights from billions of financial transactions, and many more things.</p><p>During this talk, we will go over the Weaviate software, the cloud deployment on Google Cloud Platform, and the use cases. Needless to say, they are all supported by on-stage demos. When the talk is over, you will be ready to start building your own Weaviate knowledge graph on Google </p>"
   subtype: presentation
-  speakers: [18]
+  speakers: [3]
   language: en
   complexity: "Intermediate"
 - id: 019
   title: "Desenmascarando las Generative Adversarial Networks"
   description: ""
   subtype: presentation
-  speakers: [19]
+  speakers: [5]
   language: es
   complexity: "Intermediate"
 - id: 020
   title: "UI Testing with Espresso and Test Doubles"
   description: "It's time to face new challenges, time to improve our automated testing skills beyond simple unit tests. During this 2 hours workshop, we will practice how to add UI tests ensuring the application works like a charm in terms of UI components. We will combine Espresso tests with test doubles, continuous integration, and all the tools provided by the AndroidX libraries to learn how to write automated test coverage to the UI layer of our app. During this 2 hours fully practical workshop we will stay focused on writing tests to ensure every detail of our app is working as expected."
   subtype: presentation
-  speakers: [20]
+  speakers: [4]
   language: en
   complexity: "Intermediate"
 - id: 021
@@ -154,6 +154,30 @@
   speakers: [21]
   language: es
   complexity: "Beginner"
+- id: 022
+  title: "Accelerate your tests and builds as you deserve with Bazel and monorepo"
+  description: "As a healthy development pipeline we want to push new versions to production several times a day without impacting our users and being sure there are no new bugs or regressions. As our project software grows this tasks gets harder with long build times and tests that never end, we chose between having bugs or slowing our release time a lot. In big organizations such as Google, they have written their own build systems to accelerate building and testing as much as posible. We will learn how these companies work with mono-repo and how tools like bazel can drastically reduce our build times more than 90% in many cases."
+  subtype: presentation
+  speakers: [24]
+  language: es
+  complexity: "Beginner"
+- id: 023
+  title: "Create your Angular App and test it with Jest and Cypress in 1 hour"
+  description: "<p>Sometimes it's difficult to find a great combination of packages to start a new app. Initialization and configuration can be a pain if we don't know a set of tools that makes our life easier. In this workshop we will show you how to create a small Angular app that is tested with Jest and Cypress, to set a good point of start for your future applications.</p><p>Objectives of this workshop:</p><p>Angular:</p><p>- Easy initialization of an Angular workspace with NX<br />- Create components &amp; services with Angular CLI<br />- Do HTTP request<br />- Component interaction via service</p><p>Unit testing with Jest:</p><p>- Unit testing components &amp; services<br />- Mocking services<br />- Snapshot Testing</p><p>E2E with Cypress:</p><p>- Creation of E2E to test the integration between components<br />- Mocking HTTP requests in Cypress<br />- Debugging your E2E test</p>"
+  subtype: presentation
+  speakers: [25]
+  language: en
+  complexity: "Beginner"
+- id: 024
+  title: "Trucos para sobrevivir al indiepocalypse: Reventure"
+  description: "Lecciones aprendidas durante el desarrollo y lanzamiento de su juego más reciente 'Reventure', que cuenta con 100 finales distintos, ha llegado a lo más alto de las listas de top ventas en Steam tras su lanzamiento en junio de este año y próximamente estará disponible en Nintendo Switch."
+  subtype: presentation
+  speakers: [26]
+  language: es
+  complexity: "Beginner"
+
+
+  
 # - id: 006
 #   title: "Modern web development"
 #   description: ""
