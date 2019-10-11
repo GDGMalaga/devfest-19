@@ -14,3 +14,6 @@ ehthumbs.db
 
 ### Mac ###
 .DS_Store
+
+### Firebase ###
+.firebase/
