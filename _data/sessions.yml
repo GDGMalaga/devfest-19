@@ -175,8 +175,27 @@
   speakers: [26]
   language: es
   complexity: "Beginner"
-
-
+- id: 025
+  title: "Lo que hacen los hackers por dinero"
+  description: "Varios trabajadores del ámbito de la seguridad informática nos cuentan sus experiencias laborales, contándonos qué piden las empresas, así como sus aventuras y desventuras personales"
+  subtype: presentation
+  speakers: [6, 23]
+  language: es
+  complexity: "Beginner"
+- id: 026
+  title: "SOC Side Story"
+  description: "1. Ciberseguridad (cibercrimen - ciberguerra - ciberterrorismo). Ataques famosos y no tan famosos que se han vivido a lo largo de la historia. DarkHotel, Mirai, Wannacry, Stuxnet... Atacando a los grandes: facebook, google, playstation... 2. ¿Cómo nos protegemos de todo eso? ¿Qué es un SOC? Diferentes deopartamentos y tareas: blue team y red team ¿Qué hacemos los chic@s del blue? 3. Batallitas, investigaciones de las que me deja mi jefe contar: - Intrusiones, Malware, errores de configuración. Breve repaso a los cibermamporros más famosos de la historia con un montón de salseo."
+  subtype: presentation
+  speakers: [28]
+  language: es
+  complexity: "Beginner"
+- id: 027
+  title: "Taller: Introducción al mundo de los CTFs, ¿los próximos e-Sports?"
+  description: "En el taller se darán las nociones básicas para iniciarse en las competiciones CTF. Se explicarán las categorías más comunes en los torneos y se pondrán una serie de pruebas estilo Jeopardy para que los asistentes pongan a prueba sus conocimientos en las diferentes materias de ciberseguridad."
+  subtype: presentation
+  speakers: [27]
+  language: es
+  complexity: "Beginner"
   
 # - id: 006
 #   title: "Modern web development"

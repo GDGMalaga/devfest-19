@@ -359,6 +359,28 @@
   social:
     - { name: "linkedin", link: "https://www.linkedin.com/in/javiercepa/" }
     - { name: "twitter", link: "https://twitter.com/javicepa" }
+- id: 27
+  name: "Daniel"
+  surname: "Pua"
+  company: "Hispasec"
+  title: "IT Audit Manager"
+  bio: "Daniel Púa es un apasionado de los retos de seguridad informática tipo Capture The Flag, o CTFs. Ha participado en competiciones a nivel nacional e internacional con muy buenos resultados, algunas veces con su propio equipo, Ripp3rs. Actualmente trabaja en Hispasec como investigador de seguridad y coordinador del departamento de auditoría."
+  thumbnailUrl: speakers/dani_pua.jpeg
+  rockstar: true
+  social:
+    - { name: "linkedin", link: "https://www.linkedin.com/in/daniel-pua" }
+    - { name: "twitter", link: "https://twitter.com/devploit" }
+- id: 28
+  name: "Marta"
+  surname: "Lopez"
+  company: "Entelgy Innotec Security"
+  title: "Analista de Seguridad"
+  bio: "Ex-administradora de sistemas y analista de seguridad. Leo logs, libros y PCAPs, no necesariamente por ese orden. Un día me saqué el CEH pero en lugar de darme un papelito me dieron un PDF. Otro día me llamó la Guardia Civil ¡y no fue para ponerme una multa! me querían de mentora en la National Cyberleague."
+  thumbnailUrl: speakers/marta-lopez.jpg
+  rockstar: true
+  social:
+    - { name: "linkedin", link: "https://www.linkedin.com/in/martalopezpardal/" }
+    - { name: "twitter", link: "https://twitter.com/martixx" }
 # - id: 50
 #   name: "Leonardo"
 #   surname: "Pitelli"
