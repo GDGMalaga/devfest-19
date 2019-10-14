@@ -132,15 +132,15 @@ ticketsInfo: "Tickets grant access to all conference sections, coffee breaks and
 ticketsOffers:
  -
   name: "Early Bird"
-  price: "3"
+  price: "5"
   priceCurrency: "EUR"
   ticketsNumber: "80"
-  ribbon: "-70%"
-  buyButtonLink: "https://www.eventbrite.es/e/entradas-devfest-malaga19-75813818171"
+  ribbon: "-50%"
+  buyButtonLink: "https://www.eventbrite.es/e/devfest-malaga-19-tickets-76086273091"
   buyButtonText: "Get Now"
-  ticketContentList: ["Coffee breaks", "Lunch", "workshops & talks"]
-  validFrom: "2019-10-28T10:00"
-  validThrough: "2019-11-10T23:59"
+  ticketContentList: ["Full access to the conference"]
+  validFrom: "2019-10-14T10:00"
+  validThrough: "2019-10-18T23:59"
  -
   name: "General Admission"
   price: "10"
@@ -148,10 +148,10 @@ ticketsOffers:
   ticketsNumber: "180"
   # ribbon: "-20%"
   featured: true
-  buyButtonLink: "https://www.eventbrite.es/e/entradas-devfest-malaga19-75813818171"
+  buyButtonLink: "https://www.eventbrite.es/e/devfest-malaga-19-tickets-76086273091"
   buyButtonText: "Soon"
-  ticketContentList: ["Coffee breaks", "Lunch", "workshops & talks"]
-  validFrom: "2019-11-11T00:00"
+  ticketContentList: ["Full access to the conference"]
+  validFrom: "2019-11-18T00:00"
   validThrough: "2019-12-13T23:59"
   disabled: true
  -
@@ -159,13 +159,12 @@ ticketsOffers:
   price: "3"
   priceCurrency: "EUR"
   ticketsNumber: "100"
-  buyButtonLink: "https://www.eventbrite.es/e/entradas-devfest-malaga19-75813818171"
-  buyButtonText: "Buy soon"
-  additionalInfo: "Requires a valid student ID at the conference check in. Without student ID at the check in, ticket will be cancelled without refund"
-  ticketContentList: ["Coffee breaks", "Lunch", "workshops & talks"]
-  validFrom: "2019-11-11T00:00"
+  buyButtonLink: "hhttps://www.eventbrite.es/e/devfest-malaga-19-tickets-76086273091"
+  buyButtonText: "Get Now"
+  additionalInfo: "Required a valid student ID at the conference check in. Without student ID at the check in, ticket will be cancelled without refund"
+  ticketContentList: ["Full access to the conference", "Requires a valid student ID at the conference check in."]
+  validFrom: "2019-10-14T00:00"
   validThrough: "2019-12-13T23:59"
-  disabled: true
   # soldOut: true
   # soldOutText: "Sold Out"
 
