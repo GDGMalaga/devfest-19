@@ -1,4 +1,4 @@
-- group: "co-organizers"
+- group: "Co-organizers"
   elements:
     - {
         name: "La Peña Overflow",
@@ -12,43 +12,6 @@
         description: "Yes We Tech",
         link: "https://yeswetech.org/",
         imageUrl: "communities/yes_we_tech.jpg",
-        width: "100px",
-      }
-- group: "Community Partners"
-  elements:
-    - {
-        name: "Code House Academy",
-        description: "Code House Academy",
-        link: "https://codehouse.academy/",
-        imageUrl: "communities/logo-codehouse.png",
-        width: "100px",
-      }
-    - {
-        name: "Angular Malaga",
-        description: "Angular Malaga",
-        link: "https://www.meetup.com/es-ES/Angular-Malaga/",
-        imageUrl: "communities/LogoAngularMalaga.jpg",
-        width: "100px",
-      }
-    - {
-        name: "Topic Friends",
-        description: "Topic Friends",
-        link: "https://topicfriends.org",
-        imageUrl: "communities/topicfriend.jpg",
-        width: "100px",
-      }
-    - {
-        name: "Hack me up",
-        description: "HackmeUp",
-        link: "https://hackmeup.io/",
-        imageUrl: "communities/hackmeup.png",
-        width: "100px",
-      }
-    - {
-        name: "dotnet",
-        description: "dotnet",
-        link: "http://dotnetmalaga.es/",
-        imageUrl: "communities/dotnet.jpg",
         width: "100px",
       }
 - group: "Platinum Sponsors"
@@ -106,5 +69,42 @@
         description: "Bravent",
         link: "https://www.bravent.net/",
         imageUrl: "Logo-Bravent.png",
+        width: "100px",
+      }
+- group: "Community Partners"
+  elements:
+    - {
+        name: "Angular Malaga",
+        description: "Angular Malaga",
+        link: "https://www.meetup.com/es-ES/Angular-Malaga/",
+        imageUrl: "communities/LogoAngularMalaga.jpg",
+        width: "100px",
+      }
+    - {
+        name: "Topic Friends",
+        description: "Topic Friends",
+        link: "https://topicfriends.org",
+        imageUrl: "communities/topicfriend.jpg",
+        width: "100px",
+      }
+    - {
+        name: "Code House Academy",
+        description: "Code House Academy",
+        link: "https://codehouse.academy/",
+        imageUrl: "communities/logo-codehouse.png",
+        width: "100px",
+      }
+    - {
+        name: "Hack me up",
+        description: "HackmeUp",
+        link: "https://hackmeup.io/",
+        imageUrl: "communities/hackmeup.png",
+        width: "100px",
+      }
+    - {
+        name: "dotnet",
+        description: "dotnet",
+        link: "http://dotnetmalaga.es/",
+        imageUrl: "communities/dotnet.jpg",
         width: "100px",
       }
