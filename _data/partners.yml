@@ -1,4 +1,4 @@
-- group: "Community Partners"
+- group: "co-organizers"
   elements:
     - {
         name: "La Peña Overflow",
@@ -8,17 +8,19 @@
         width: "100px",
       }
     - {
-        name: "Code House Academy",
-        description: "Code House Academy",
-        link: "https://codehouse.academy/",
-        imageUrl: "communities/logo-codehouse.png",
-        width: "100px",
-      }
-    - {
         name: "Yes We Tech",
         description: "Yes We Tech",
         link: "https://yeswetech.org/",
         imageUrl: "communities/yes_we_tech.jpg",
+        width: "100px",
+      }
+- group: "Community Partners"
+  elements:
+    - {
+        name: "Code House Academy",
+        description: "Code House Academy",
+        link: "https://codehouse.academy/",
+        imageUrl: "communities/logo-codehouse.png",
         width: "100px",
       }
     - {
@@ -40,6 +42,13 @@
         description: "HackmeUp",
         link: "https://hackmeup.io/",
         imageUrl: "communities/hackmeup.png",
+        width: "100px",
+      }
+    - {
+        name: "dotnet",
+        description: "dotnet",
+        link: "http://dotnetmalaga.es/",
+        imageUrl: "communities/dotnet.jpg",
         width: "100px",
       }
 - group: "Platinum Sponsors"
