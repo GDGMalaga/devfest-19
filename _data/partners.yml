@@ -71,7 +71,7 @@
         imageUrl: "Logo-Bravent.png",
         width: "100px",
       }
-- group: "Community Partners"
+- group: "Acknowledgments"
   elements:
     - {
         name: "Angular Malaga",
