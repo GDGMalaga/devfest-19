@@ -43,6 +43,12 @@
         imageUrl: "rindus.png",
       }
     - {
+        name: "Freepik",
+        description: "Freepik",
+        link: "https://www.freepik.es/",
+        imageUrl: "FreepikCompany.png",
+      }
+    - {
         name: "Malt",
         description: "Malt",
         link: "https://www.malt.es/",
