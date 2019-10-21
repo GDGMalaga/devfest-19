@@ -264,6 +264,7 @@
   thumbnailUrl: speakers/jorge_del_casar.jpg
   rockstar: true
   ribbon:
+    - { abbr: "GDG", title: "Google Developer Group Organiser" }
     - {
         abbr: "GDE",
         title: "Google Developer Expert",
@@ -288,12 +289,12 @@
   surname: "Morgado"
   company: "Aplazame"
   title: "HR Talent Manager"
-  bio: "<p>¿Llevas ya años trabajando en el sector y temes perder el foco de hacia donde quieres desarrollarte realmente? ¿Has pivotado hace poco hacia al mundo del desarrollo y no sabes cómo enfrentarte a mundo profesional?</p><p>En esta charla averiguaremos las claves que te ayudarán a sentirte más fuerte durante las entrevistas y analizaremos cómo definir tu carrera profesional, ver cuáles son los puntos importantes a tener en cuenta cuando cambias de trabajo y definir de manera personalizada hacia dónde quieres crecer.</p>"
+  bio: "Socióloga especializada en Comunicación y Psicología Social. Comprometida con proyectos sociales, he pasado del mundo de las estrategias de Comunicación al de los Recursos Humanos. Siempre interesada en el mundo técnico, me gusta investigar cómo lograr que los equipos y las personas puedan trabajar y sentirse mejor, siempre con un enfoque práctico."
   thumbnailUrl: speakers/irene_morgado.jpeg
   rockstar: true
   social:
     - { name: "linkedin", link: "https://www.linkedin.com/in/irenemmorgado/" }
-    - { name: "twitter", link: "https://twitter.com/leopittelli" }
+    - { name: "twitter", link: "https://twitter.com/IrnMM" }
 - id: 22
   name: "Sergio"
   surname: "Casero"

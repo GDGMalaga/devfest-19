@@ -141,6 +141,8 @@ ticketsOffers:
   ticketContentList: ["Full access to the conference"]
   validFrom: "2019-10-28T10:00"
   validThrough: "2019-10-18T23:59"
+  soldOut: true
+  soldOutText: "Sold Out"
  -
   name: "General Admission"
   price: "10"
@@ -149,11 +151,11 @@ ticketsOffers:
   # ribbon: "-20%"
   featured: true
   buyButtonLink: "https://www.eventbrite.es/e/76086273091"
-  buyButtonText: "Soon"
+  buyButtonText: "Get Now"
   ticketContentList: ["Full access to the conference"]
   validFrom: "2019-10-18T00:00"
   validThrough: "2019-12-13T23:59"
-  disabled: true
+  disabled: false
  -
   name: "Student"
   price: "3"

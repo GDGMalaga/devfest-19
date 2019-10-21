@@ -43,6 +43,13 @@
         imageUrl: "rindus.png",
       }
     - {
+        name: "Freepik",
+        description: "Freepik",
+        link: "https://www.freepikcompany.com/",
+        imageUrl: "freepik.png",
+        width: "135px",
+      }
+    - {
         name: "Malt",
         description: "Malt",
         link: "https://www.malt.es/",
@@ -50,13 +57,6 @@
       }
 - group: "Silver Sponsors"
   elements:
-    - {
-        name: "Indra",
-        description: "Indra",
-        link: "https://www.indracompany.com/",
-        imageUrl: "Indra.jpg",
-        width: "120px",
-      }
     - {
         name: "Keepcoding",
         description: "Keepcoding",
