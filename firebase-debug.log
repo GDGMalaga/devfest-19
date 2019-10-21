@@ -1,0 +1,35 @@
+[debug] [2019-10-21T16:31:11.079Z] ----------------------------------------------------------------------
+[debug] [2019-10-21T16:31:11.081Z] Command:       /usr/local/bin/node /usr/local/bin/firebase deploy --only hosting
+[debug] [2019-10-21T16:31:11.081Z] CLI Version:   6.7.0
+[debug] [2019-10-21T16:31:11.081Z] Platform:      darwin
+[debug] [2019-10-21T16:31:11.081Z] Node Version:  v12.11.0
+[debug] [2019-10-21T16:31:11.086Z] Time:          Mon Oct 21 2019 18:31:11 GMT+0200 (Central European Summer Time)
+[debug] [2019-10-21T16:31:11.086Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2019-10-21T16:31:11.100Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2019-10-21T16:31:11.100Z] > authorizing via signed-in user
+[debug] [2019-10-21T16:31:11.100Z] [iam] checking project devfestmalaga19 for permissions ["firebase.projects.get","firebasehosting.sites.update"]
+[debug] [2019-10-21T16:31:11.102Z] > refreshing access token with scopes: ["email","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","openid"]
+[debug] [2019-10-21T16:31:11.102Z] >>> HTTP REQUEST POST https://www.googleapis.com/oauth2/v3/token  
+ <request body omitted>
+[debug] [2019-10-21T16:31:11.351Z] <<< HTTP RESPONSE 200
+[debug] [2019-10-21T16:31:11.359Z] >>> HTTP REQUEST POST https://cloudresourcemanager.googleapis.com/v1/projects/devfestmalaga19:testIamPermissions  
+
+[debug] [2019-10-21T16:31:12.291Z] <<< HTTP RESPONSE 200
+[debug] [2019-10-21T16:31:12.293Z] >>> HTTP REQUEST GET https://firebase.googleapis.com/v1beta1/projects/devfestmalaga19  
+ 
+[debug] [2019-10-21T16:31:12.606Z] <<< HTTP RESPONSE 200
+[info] 
+[info] === Deploying to 'devfestmalaga19'...
+[info] 
+[info] i  deploying hosting
+[debug] [2019-10-21T16:31:12.611Z] >>> HTTP REQUEST POST https://firebasehosting.googleapis.com/v1beta1/sites/devfestmalaga19/versions  
+
+[debug] [2019-10-21T16:31:14.579Z] <<< HTTP RESPONSE 200
+[info] i  hosting[devfestmalaga19]: beginning deploy...
+[info] i  hosting[devfestmalaga19]: found 168 files in _site
+[debug] [2019-10-21T16:31:14.625Z] [hosting] hash cache [X3NpdGU] load error: lines is not defined
+[debug] [2019-10-21T16:31:15.245Z] [hosting] hash cache [X3NpdGU] stored for 168 files
+[debug] [2019-10-21T16:31:15.245Z] [hosting][hash queue][FINAL]
+[debug] [2019-10-21T16:31:15.246Z] >>> HTTP REQUEST POST https://firebasehosting.googleapis.com/v1beta1/sites/devfestmalaga19/versions/83b6c86108c6e697:populateFiles  
+ <request body omitted>

@@ -46,8 +46,8 @@
         name: "Freepik",
         description: "Freepik",
         link: "https://www.freepikcompany.com/",
-        imageUrl: "freepik.png",
-        width: "135px",
+        imageUrl: "FreepikCompany.png",
+        width: "130px",
       }
     - {
         name: "Malt",
@@ -62,14 +62,14 @@
         description: "Keepcoding",
         link: "https://keepcoding.io/es",
         imageUrl: "keepcoding.png",
-        width: "120px",
+        width: "180px",
       }
     - {
         name: "Bravent",
         description: "Bravent",
         link: "https://www.bravent.net/",
         imageUrl: "Logo-Bravent.png",
-        width: "100px",
+        width: "90px",
       }
 - group: "Acknowledgments"
   elements:
