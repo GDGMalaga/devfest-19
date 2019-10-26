@@ -58,18 +58,25 @@
 - group: "Silver Sponsors"
   elements:
     - {
+        name: "Bravent",
+        description: "Bravent",
+        link: "https://www.bravent.net/",
+        imageUrl: "Logo-Bravent.png",
+        width: "85px",
+      }
+    - {
+        name: "Sequel",
+        description: "Sequel",
+        link: "https://sequel.com/",
+        imageUrl: "sequel.png",
+        width: "130px",
+      }
+    - {
         name: "Keepcoding",
         description: "Keepcoding",
         link: "https://keepcoding.io/es",
         imageUrl: "keepcoding.png",
         width: "180px",
-      }
-    - {
-        name: "Bravent",
-        description: "Bravent",
-        link: "https://www.bravent.net/",
-        imageUrl: "Logo-Bravent.png",
-        width: "90px",
       }
 - group: "Acknowledgments"
   elements:
@@ -102,9 +109,16 @@
         width: "100px",
       }
     - {
-        name: "dotnet",
-        description: "dotnet",
+        name: "dotnet Málaga",
+        description: "dotnet Málaga",
         link: "http://dotnetmalaga.es/",
         imageUrl: "communities/dotnet.jpg",
+        width: "100px",
+      }
+    - {
+        name: "Demium",
+        description: "Demium",
+        link: "https://demium.com/",
+        imageUrl: "demium.png",
         width: "100px",
       }

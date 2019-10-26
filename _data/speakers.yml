@@ -382,6 +382,60 @@
   social:
     - { name: "linkedin", link: "https://www.linkedin.com/in/martalopezpardal/" }
     - { name: "twitter", link: "https://twitter.com/martixx" }
+- id: 29
+  name: "Gerardo"
+  surname: "Fernández"
+  company: "VirusTotal"
+  title: "Senior Security Engineer"
+  bio: "Gerardo destaca por ser experto en análisis de malware. En cualquier caso, su trayectoria es de lo más variada: investigador y profesor en la universidad, administrador jefe de sistemas, co-fundador de Vulnera... En la actualidad reparte su tiempo entre Virustotal como ingeniero de seguridad y la Universidad de Málaga, donde enseña en el Título de Experto Universitario en Ingeniería Inversa e Inteligencia Malware."
+  thumbnailUrl: speakers/gerardo_fdez.jpeg
+  rockstar: true
+  social:
+    - { name: "linkedin", link: "https://www.linkedin.com/in/gerardofn/" }
+- id: 30
+  name: "Fernado"
+  surname: "Díaz"
+  company: "VirusTotal"
+  title: "Software Engineer"
+  bio: "Ingeniero de Software en VirusTotal. Enfocado a desarrollo de tecnologías de sandboxing distribuidas para sistemas Windows y Android. Investigación orientada a malware en sistemas Windows, Android e IoT."
+  thumbnailUrl: speakers/fernando-diaz.jpeg
+  rockstar: true
+  social:
+    - { name: "linkedin", link: "https://www.linkedin.com/in/fdiazmalaga/" }
+    - { name: "twitter", link: "https://twitter.com/entdark_" }
+- id: 31
+  name: "Marcos"
+  surname: "Arjona Fernández"
+  company: "ElevenPaths"
+  title: "Impulsor de innovación"
+  bio: "Marcos trabaja como impulsor y gestor de proyectos de investigación e innovación en ciberseguridad y privacidad para proporcionar mayor valor a los productos, servicios y soluciones de seguridad de ElevenPaths y Telefónica Digital España. Promotor de programas de transferencia tecnológica y colaboración con el sector académico para la evaluación e incorporación de propuestas y tecnologías innovadoras. Además profesor sobre seguridad de la información en el máster de ciberseguridad del Campus Internacional de Ciberseguridad, cuya docencia se centra en la gestión de riesgos, regulación y normativa aplicada a la ciberseguridad, metodologías de buenas prácticas y Sistemas de Gestión de la Seguridad de la Información."
+  thumbnailUrl: speakers/marcos-arjona.jpg
+  rockstar: true
+  social:
+    - { name: "linkedin", link: "https://www.linkedin.com/in/fdiazmalaga/" }
+    - { name: "twitter", link: "https://twitter.com/MarcosArjona" }
+- id: 32
+  name: "Jose"
+  surname: "Torres Velasco"
+  company: "ElevenPaths"
+  title: "Tech Lead"
+  bio: "Ingeniero Software por la Universidad de Málaga, donde también cursó máster en Ingeniería del Software e Inteligencia Artificial y trabajó como investigador. Actualmente, trabaja como technical lead en el área de Innovación y Laboratorio de ElevenPaths, coordinando proyectos técnicos del ámbito de la ciberseguridad. Participa de forma habitual como ponente en conferencias especializadas tanto nacionales como internacionales de referencia, habiendo publicado en diferentes revistas y publicaciones de amplio impacto del sector."
+  thumbnailUrl: speakers/jose-torres.jpg
+  rockstar: true
+  social:
+    - { name: "linkedin", link: "https://www.linkedin.com/in/fdiazmalaga/" }
+    - { name: "twitter", link: "https://twitter.com/jose7orres" }
+# - id: 33
+#   name: "Ana"
+#   surname: "Nieto"
+#   company: "University of Málaga"
+#   title: "Security Researcher - Digital Forensics (NICS Lab)"
+#   bio: "Ingeniero Software por la Universidad de Málaga, donde también cursó máster en Ingeniería del Software e Inteligencia Artificial y trabajó como investigador. Actualmente, trabaja como technical lead en el área de Innovación y Laboratorio de ElevenPaths, coordinando proyectos técnicos del ámbito de la ciberseguridad. Participa de forma habitual como ponente en conferencias especializadas tanto nacionales como internacionales de referencia, habiendo publicado en diferentes revistas y publicaciones de amplio impacto del sector."
+#   thumbnailUrl: speakers/jose-torres.jpg
+#   rockstar: true
+#   social:
+#     - { name: "linkedin", link: "https://www.linkedin.com/in/ana-nieto-72b17718/" }
+#     - { name: "twitter", link: "https://twitter.com/cadirneca" }
 # - id: 50
 #   name: "Leonardo"
 #   surname: "Pitelli"
