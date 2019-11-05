@@ -196,6 +196,34 @@
   speakers: [27]
   language: es
   complexity: "Beginner"
+- id: 028
+  title: "Únete a la resistencia"
+  description: "En VirusTotal hemos montado un curso formativo inédito... queremos crear especialistas en Ingeniería Inversa e Inteligencia Malware. Para ello nos hemos unido con la gente de NICS Lab, en la Universidad de Málaga, con el fin de crear un ejercito de especialistas en esta temática. En esta charla esbozaremos las principales características de este curso, que el año que viene celebrará su segunda edición. Si quieres saber cómo ejecutar malware de forma segura, cómo extraer información de su comportamiento, averiguar qué son los servicios de inteligencia, y cómo engañar al malware a través del desensamblado y depuración del mismo...  te esperamos."
+  subtype: presentation
+  speakers: [29]
+  language: es
+  complexity: "Beginner"
+- id: 029
+  title: "Instrumentacion de binarios con Frida"
+  description: "En esta charla trataremos la instrumentación de binarios dinámica con el fin de obtener información de binarios en tiempo de ejecución. Esta técnica consiste en analizar el comportamiento de una aplicación a través de inyeccion de código de instrumentación. De esta manera podemos obtener información del comportamiento y estado de una aplicación. Entre otras aplicaciones, contamos con la posibilidad de debuguear aplicaciones cuyo código no controlamos hasta el análisis de malware. Durante la charla, aprenderemos como funciona Frida, un framework open-source de instrumentación de binarios y a aplicar código de instrumentación sobre binarios."
+  subtype: presentation
+  speakers: [30]
+  language: es
+  complexity: "Beginner"
+- id: 030
+  title: "Diario de innovación, cuando el diseñador de malware te saca una sonrisa"
+  description: "Cuando una empresa piensa en innovación, tiene los ojos puestos en el retorno y el valor en el mercado, por eso  resulta gratificante que la estrategia consista en reunir en Málaga un grupo de ingenieros, con verdadero acento andaluz, para que apliquen su ingenio, creatividad y pasión sin la presión de unos objetivos económicos por cumplir. Obteniendo así un valor diferenciador de mercado que demuestra que la innovación no fluye con naturalidad si es a golpe de talonario o si se paga con futbolín o billar, sino cuando el entusiasmo y la implicación emergen de lo personal. Un ejemplo es nuestro DIARIO, una herramienta de detección de malware en documentos ofimáticos que actúa donde nadie cree que hay espacio y demuestra que te pueden robar la cartera porque crees que no tienes que protegerla. La veremos en acción, explicaremos qué hace, por qué es diferente y la utilizaremos para echarnos unas risas mientras estudiamos al diseñador malware, quien tiene lecciones muy valiosas de las que podremos aprender."
+  subtype: presentation
+  speakers: [31, 32]
+  language: es
+  complexity: "Beginner"
+- id: 031
+  title: "Investigación en Ciberseguridad: la Universidad como puente de transferencia"
+  description: "¿Cuál es el rol de la Universidad en Ciberseguridad? La respuesta a esta pregunta para mucha gente está clara: formación. Sin embargo, esa es sólo una parte de lo que la Universidad hace, y por lo general es la que se consigue implantar más tarde. Para que esa formación sea posible, siempre hay un grupo de profesionales por detrás que, entre bambalinas, promueven esa necesidad y permiten el cambio. Como parte intrínseca de ese tejido universitario, la investigación en ciberseguridad es crítica, porque permite vislumbrar el camino a seguir antes incluso de que la demanda sea popular. Durante esta charla se introducirá la investigación en ciberseguridad como otra vía de profesionalización con impacto nacional e internacional. Pero también como puente de transferencia hacia las empresas. El objetivo es acercar este sector a la comunidad para que no sea tan desconocido. También se hablará sobre los pasos que está dando la Universidad de Málaga para adaptarse a la demanda de formación en ciberseguridad, siendo una de las Universidades en las que las asignaturas de ciberseguridad forman parte de la oferta de grados no sólo técnicos, de másters, títulos de experto y otros cursos especializados. Todo esto no es casualidad."
+  subtype: presentation
+  speakers: [33]
+  language: es
+  complexity: "Beginner"
   
 # - id: 006
 #   title: "Modern web development"

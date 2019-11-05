@@ -425,17 +425,17 @@
   social:
     - { name: "linkedin", link: "https://www.linkedin.com/in/fdiazmalaga/" }
     - { name: "twitter", link: "https://twitter.com/jose7orres" }
-# - id: 33
-#   name: "Ana"
-#   surname: "Nieto"
-#   company: "University of Málaga"
-#   title: "Security Researcher - Digital Forensics (NICS Lab)"
-#   bio: "Ingeniero Software por la Universidad de Málaga, donde también cursó máster en Ingeniería del Software e Inteligencia Artificial y trabajó como investigador. Actualmente, trabaja como technical lead en el área de Innovación y Laboratorio de ElevenPaths, coordinando proyectos técnicos del ámbito de la ciberseguridad. Participa de forma habitual como ponente en conferencias especializadas tanto nacionales como internacionales de referencia, habiendo publicado en diferentes revistas y publicaciones de amplio impacto del sector."
-#   thumbnailUrl: speakers/jose-torres.jpg
-#   rockstar: true
-#   social:
-#     - { name: "linkedin", link: "https://www.linkedin.com/in/ana-nieto-72b17718/" }
-#     - { name: "twitter", link: "https://twitter.com/cadirneca" }
+- id: 33
+  name: "Ana"
+  surname: "Nieto"
+  company: "NICS Lab, University of Málaga"
+  title: "Security Researcher / Digital Forensics"
+  bio: "Enamorada de la informática por sorpresa y de la seguridad por curiosidad, formo parte del grupo Network, Information and Computer Security (NICS) Lab de la Universidad de Málaga desde hace más de 10 años, no había acabado la ingeniería. Durante este tiempo he aprendido a investigar sin darme cuenta, y a amar mucho mi profesión, con sus claros y oscuros inclusive. Formar parte de NICS todos estos años me ha permitido ver los cambios producidos en la carrera de informática muy de cerca. Impartir docencia en ciberseguridad es una de las grandes experiencias de mi día a día, y conocer alumnos con pasión y ganas de arriesgarse mi vicio."
+  thumbnailUrl: speakers/ana-nieto.png
+  rockstar: true
+  social:
+    - { name: "linkedin", link: "https://www.linkedin.com/in/ana-nieto-72b17718/" }
+    - { name: "twitter", link: "https://twitter.com/cadirneca" }
 # - id: 50
 #   name: "Leonardo"
 #   surname: "Pitelli"
