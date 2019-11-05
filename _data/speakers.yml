@@ -436,6 +436,17 @@
   social:
     - { name: "linkedin", link: "https://www.linkedin.com/in/ana-nieto-72b17718/" }
     - { name: "twitter", link: "https://twitter.com/cadirneca" }
+- id: 34
+  name: "Jose Antonio"
+  surname: "Suárez"
+  company: "Accenture España"
+  title: "Technology Architect"
+  bio: "Jose Antonio is a professional with a few years of experience. He has been a C, VisualBasic, Delphi, ASP.NET with C# and VB.NET developer progressing from an intern position in 1996 to junior, senior and lead positions. Later, he changed from desktop and website applications to iOS, Android and Hybrid apps world as a manager having expertise in various quality processes like ISO-9001 and CMMI. During the last 6 years he has being using Agile Methodologies while working as a Project Manager on mobile solutions, always having in mind the technical design side of things and all techniques and principles learned in the past like SOLID, OOP, Design Patterns, NLayers and NTiers Design or TDD. Currently, on the tech side he is focusing on Frontend Architectures being the Frontend Architecture Chapter Lead and Frontend & Fullstack Chapter Lead in Accenture Spain Advanced Technology Centers."
+  thumbnailUrl: speakers/ja-suarez.jpg
+  rockstar: true
+  social:
+    - { name: "linkedin", link: "https://www.linkedin.com/in/jasuarezg/" }
+    - { name: "twitter", link: "https://twitter.com/jasuarezg" }
 # - id: 50
 #   name: "Leonardo"
 #   surname: "Pitelli"

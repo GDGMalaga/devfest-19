@@ -224,6 +224,13 @@
   speakers: [33]
   language: es
   complexity: "Beginner"
+- id: 032
+  title: "SOLID Frontend Architecture. Do we need it? (Yes!)"
+  description: "It's very common to think that \"the UI\" is a simple thing that it doesn't deserve the same effort as the Backend, even some architects think it's only a \"box\" in their design.\r<br/>\r<br/>But if we want to have a maintainable and extensible web app we need to apply the same principles as in Backend:<ul><li>we need to design a robust architecture,</li><li>apply software design main OOP principles,</li><li>and define and measure strong metrics.</li></ul>What happens if \"the UI\" is left in programmers hands only? Frontend world has not evolved as quickly as Backend. We can't yet apply the *\"microservices\"* concept in its full meaning but it doesn't mean that there are not options to get closer.\r<br/>\r<br/>In this presentation I want to explain how to apply S.O.L.I.D. OOP principles to Frontend architecture. I want to demonstrate that there are options to avoid the typical Frontend disasters based on my own experience, how to apply a good design at code level, what is cognitive complexity and how to measure it.\r<br/>\r<br/>To sum up, Frontend not only deserves architecture time, it's mandatory for the sake of the project and we are going to see how."
+  subtype: presentation
+  speakers: [34]
+  language: es
+  complexity: "Beginner"
   
 # - id: 006
 #   title: "Modern web development"

@@ -50,6 +50,12 @@
         width: "130px",
       }
     - {
+        name: "Accenture",
+        description: "Accenture",
+        link: "https://www.accenture.com/es-es",
+        imageUrl: "accenture.png",
+      }
+    - {
         name: "Malt",
         description: "Malt",
         link: "https://www.malt.es/",
