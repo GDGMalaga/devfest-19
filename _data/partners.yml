@@ -61,6 +61,13 @@
         link: "https://www.malt.es/",
         imageUrl: "malt.png",
       }
+    - {
+        name: "Cerveza Victoria",
+        description: "Cerveza Victoria",
+        link: "https://www.cervezavictoria.es/",
+        imageUrl: "cerveza-victoria.jpg",
+        width: "140px",
+      }
 - group: "Silver Sponsors"
   elements:
     - {
