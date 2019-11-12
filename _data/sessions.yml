@@ -32,7 +32,7 @@
   title: "Managing state with NgRx and Pokemon"
   description: "Introducción a la construcción de aplicaciones reactivas en Angular usando la última versión del framework NgRx. Veremos el código necesario para la construcción de una Pokedex, en el que veremos aplicados los principios base de NgRx (inmutabilidad, centralización, delegación de responsabilidades, programación funcional etc.) "
   subtype: presentation
-  speakers: [2]
+  speakers: [11]
   language: es
   complexity: "Intermediate"
 - id: 005
@@ -46,7 +46,7 @@
   title: "Modern web development"
   description: "Progressive web apps have been around us for many years. Let's see how they evolved during this time, what the web can do and which are the plans for the future. We will also do a walkthrough some experiences developing and deploying some PWAs and some AMP compatible frontends for a big companies. Challenges, big wins, pros and cons of it, plus the results of how is it performing."
   subtype: presentation
-  speakers: [11]
+  speakers: [35]
   language: en
   complexity: "Intermediate"
 - id: 007
@@ -130,14 +130,14 @@
   title: "Build your own Knowledge Graph with Weaviate on GCP"
   description: "<p>Maybe you've heard of them before, knowledge graphs. But if you haven't, no worries, you are not alone. Knowledge graphs take an entirely new approach to data management. What makes them stand out from other data solutions is that they focus on the meaning and context of data by extracting the purpose of the language.</p><p>The use cases are almost endless. It allows scientists to automate drug discovery, doctors to search for diseases based on patients' symptoms, to map our complex Internet of Things landscapes, gather insights from billions of financial transactions, and many more things.</p><p>During this talk, we will go over the Weaviate software, the cloud deployment on Google Cloud Platform, and the use cases. Needless to say, they are all supported by on-stage demos. When the talk is over, you will be ready to start building your own Weaviate knowledge graph on Google </p>"
   subtype: presentation
-  speakers: [3]
+  speakers: [5]
   language: en
   complexity: "Intermediate"
 - id: 019
   title: "Desenmascarando las Generative Adversarial Networks"
   description: ""
   subtype: presentation
-  speakers: [5]
+  speakers: [3]
   language: es
   complexity: "Intermediate"
 - id: 020
@@ -231,7 +231,27 @@
   speakers: [34]
   language: es
   complexity: "Beginner"
-  
+- id: 033
+  title: "Innovación en ciberseguridad sin complejos desde Málaga"
+  description: "Cómo liderar la innovación en ciberseguridad de una gran compañía desde Málaga, con sede propia y proyección global. Ventajas y desventajas de tener una sucursal en Madrid."
+  subtype: presentation
+  speakers: [2]
+  language: es
+  complexity: "Beginner"
+- id: 034
+  title: "¿Cómo tener éxito como freelance web?"
+  description: "Los profesionales independientes están cambiando la fuerza laboral en toda Europa. Su presencia ha crecido un 99% desde la entrada de milenio y en 2015, ya representaban el 29% de todos los trabajadores por cuenta propia en Europa. Si todavía tienes dudas a lanzarte o quieres compartir tu experiencia como freelance te invitamos a participar en nuestra charla impartida por uno de los expertos freelance Malt, donde te daremos las pautas para destacarte como freelance."
+  subtype: presentation
+  speakers: [36]
+  language: es
+  complexity: "Beginner"
+- id: 035
+  title: "What’s in an AppSec program?"
+  description: "Application Security is a misunderstood discipline, often seen as a combination of secure testing and bugs fixing, when done correctly it stretches beyond tools and processes to forge strong and long-lasting relationships with Product, Engineering and Operations. The ultimate goal of an AppSec program should be to enable the business to move fast and take more calculated risks. As part of this session we look at what it takes to setup and run an application security program from the ground up. You’ll learn how to reconcile security requirements with security testing, the roles, tools and processes involved and how we have attempted to solve some common security challenges here at The Workshop."
+  subtype: presentation
+  speakers: [37]
+  language: en
+  complexity: "Beginner"
 # - id: 006
 #   title: "Modern web development"
 #   description: ""

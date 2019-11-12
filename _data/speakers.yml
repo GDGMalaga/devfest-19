@@ -28,16 +28,39 @@
   social:
     - { name: "twitter", link: "https://twitter.com/moisipm" }
 - id: 2
-  name: "Estefania"
-  surname: "García"
-  company: "Npkill"
-  title: "Intern SwE @ Lemoncode / 'NPKILL'"
-  bio: "Born in Málaga, Estefanía has completed college at IES Jesús Marín and is currently working as Software Developer intern in Lemoncoder. Her specialty are web technologies, and she often collaborates in the open source community. Estefanía is the co-creator and maintainer of the utility npkill that helps developers find and remove heavy & unused node_module in npm."
-  thumbnailUrl: speakers/estefania_garcia.jpg
+  name: "Sergio"
+  surname: "de los Santos"
+  company: "ElevenPaths"
+  title: "Innovation and Labs Leader"
+  bio: "Currently Sergio de los Santos is Innovation and Labs Leader at ElevenPaths, Telefónica Digital. From 2005 to 2013, he has been a Technical Consultant at Hispasec, the responsible for antifraud and vulnerabilities alert in the oldest security newsletter published in Spanish. Since 2000 he has worked as an auditor and technical coordinator, has written three technical security books and one book about the history of security. Sergio holds a degree in IT Engineering, a M.Sc. in Software Engineering and Artificial Intelligence and has been awarded with Microsoft MVP Consumer Security title from 2013 to 2017. Sergio is also an assistant professor in a master of Technology and Communication Security in the University of Seville."
+  thumbnailUrl: speakers/sergio-santos.jpg
   rockstar: true
   social:
-    - { name: "twitter", link: "https://twitter.com/Nyablk" }
+    - { name: "linkedin", link: "https://www.linkedin.com/in/sergio-de-los-santos-276ab829/" }
+    - { name: "twitter", link: "https://twitter.com/ssantosv" }
 - id: 3
+  name: "Nerea"
+  surname: "Luis"
+  company: "Sngular"
+  title: "AI Engineer / PhD"
+  bio: "Nerea Luis Mingueza es Artificial Intelligence Engineer en Sngular. Con 28 años es Doctora Cum Laude en Inteligencia Artificial. Paralelamente ha fundado el evento nacional y gratuito T3chFest con más de 1600 asistentes y 80 charlas sobre ciencia y tecnología. Google le otorgó el premio Women Techmaker en 2016 reconociendo su labor. En enero de 2018 se unió a la Fundación COTEC como experta en tecnología, Talento y Género. Estos son sólo algunos de los méritos obtenidos en estos últimos dos años. Sus actividades divulgativas han hecho que se convierta en un referente ‘women in tech’. Ha continuado colaborando con Google, el Anita Borg Institute, la Casa Real, ministerios, eventos tecnológicos etc. mientras sigue publicando artículos científicos sobre planificación automática multiagente, con gran impacto en los medios, entrevistas y algunas de sus charlas que han sido grabadas. Recientemente Nerea ha recibido la Condecoración de la Orden al Mérito Civil."
+  thumbnailUrl: speakers/nerea_luis.jpg
+  rockstar: true
+  social:
+    - { name: "twitter", link: "https://twitter.com/sailormerqury" }
+    - { name: "linkedin", link: "https://www.linkedin.com/in/nerealuis/" }
+- id: 4
+  name: "Pedro"
+  surname: "Gómez"
+  company: "Karumi"
+  title: "Sr Software Engineer"
+  bio: "Pedro is a young Android developer really focused in new technologies, clean code and testing. Pedro works as Senior Mobile Software Engineer at Karumi. Before Karumi, Pedro has also worked at companies like Tuenti or Droiders as Senior Android Developer. He tries to improve his knowledge about other technologies and languages everyday by setting an interesting objective and writing code up to the best standards of quality."
+  thumbnailUrl: speakers/pedro_gomez.jpg
+  rockstar: true
+  social:
+    - { name: "github", link: "https://github.com/pedrovgs" }
+    - { name: "twitter", link: "https://twitter.com/pedro_g_s" }
+- id: 5
   name: "Bob"
   surname: "van Luijt"
   company: "SeMI Technologies"
@@ -55,28 +78,6 @@
     - { name: "linkedin", link: "https://linkedin.com/in/bobvanluijt" }
     - { name: "github", link: "https://github.com/bobvanluijtt" }
     - { name: "twitter", link: "https://twitter.com/bobvanluijt" }
-- id: 4
-  name: "Pedro"
-  surname: "Gómez"
-  company: "Karumi"
-  title: "Sr Software Engineer"
-  bio: "Pedro is a young Android developer really focused in new technologies, clean code and testing. Pedro works as Senior Mobile Software Engineer at Karumi. Before Karumi, Pedro has also worked at companies like Tuenti or Droiders as Senior Android Developer. He tries to improve his knowledge about other technologies and languages everyday by setting an interesting objective and writing code up to the best standards of quality."
-  thumbnailUrl: speakers/pedro_gomez.jpg
-  rockstar: true
-  social:
-    - { name: "github", link: "https://github.com/pedrovgs" }
-    - { name: "twitter", link: "https://twitter.com/pedro_g_s" }
-- id: 5
-  name: "Nerea"
-  surname: "Luis"
-  company: "Sngular"
-  title: "AI Engineer / PhD"
-  bio: "Nerea Luis Mingueza es Artificial Intelligence Engineer en Sngular. Con 28 años es Doctora Cum Laude en Inteligencia Artificial. Paralelamente ha fundado el evento nacional y gratuito T3chFest con más de 1600 asistentes y 80 charlas sobre ciencia y tecnología. Google le otorgó el premio Women Techmaker en 2016 reconociendo su labor. En enero de 2018 se unió a la Fundación COTEC como experta en tecnología, Talento y Género. Estos son sólo algunos de los méritos obtenidos en estos últimos dos años. Sus actividades divulgativas han hecho que se convierta en un referente ‘women in tech’. Ha continuado colaborando con Google, el Anita Borg Institute, la Casa Real, ministerios, eventos tecnológicos etc. mientras sigue publicando artículos científicos sobre planificación automática multiagente, con gran impacto en los medios, entrevistas y algunas de sus charlas que han sido grabadas. Recientemente Nerea ha recibido la Condecoración de la Orden al Mérito Civil."
-  thumbnailUrl: speakers/nerea_luis.jpg
-  rockstar: true
-  social:
-    - { name: "twitter", link: "https://twitter.com/sailormerqury" }
-    - { name: "linkedin", link: "https://www.linkedin.com/in/nerealuis/" }
 - id: 6
   name: "Karl"
   surname: "Hiramoto"
@@ -147,22 +148,15 @@
       }
     - { name: "twitter", link: "https://twitter.com/jnisabe" }
 - id: 11
-  name: "Leonardo"
-  surname: "Pitelli"
-  company: "OLX"
-  title: "Tech Lead / GDE"
-  bio: "Leonardo is an Argentinian Software Engineer and Google Developer Expert for Web and Cloud. He's been working on web technologies for many years, building websites with a heavy focus on performance and optimization. He has hosted leading roles in progressive web apps at e-commerce and classifieds companies. Leonardo has recently moved to Lisbon and is Tech Lead in OLX Portugal."
-  thumbnailUrl: speakers/leonardo_pitelli.jpg
+  name: "Estefania"
+  surname: "García"
+  company: "Npkill"
+  title: "Intern SwE @ Lemoncode / 'NPKILL'"
+  bio: "Born in Málaga, Estefanía has completed college at IES Jesús Marín and is currently working as Software Developer intern in Lemoncoder. Her specialty are web technologies, and she often collaborates in the open source community. Estefanía is the co-creator and maintainer of the utility npkill that helps developers find and remove heavy & unused node_module in npm."
+  thumbnailUrl: speakers/estefania_garcia.jpg
   rockstar: true
-  ribbon:
-    - {
-        abbr: "GDE",
-        title: "Google Developer Expert",
-        url: "https://developers.google.com/community/experts/directory/profile/profile-leonardo_pittelli",
-      }
   social:
-    - { name: "linkedin", link: "https://www.linkedin.com/in/leopittelli" }
-    - { name: "twitter", link: "https://twitter.com/leopittelli" }
+    - { name: "twitter", link: "https://twitter.com/Nyablk" }
 - id: 12
   name: "Imran"
   surname: "Settuba"
@@ -447,20 +441,41 @@
   social:
     - { name: "linkedin", link: "https://www.linkedin.com/in/jasuarezg/" }
     - { name: "twitter", link: "https://twitter.com/jasuarezg" }
-# - id: 50
-#   name: "Leonardo"
-#   surname: "Pitelli"
-#   company: "OLX"
-#   title: "Tech Lead / GDE"
-#   bio: ""
-#   thumbnailUrl: speakers/leonardo_pitelli.jpg
-#   rockstar: true
-#   ribbon:
-#     - {
-#         abbr: "GDE",
-#         title: "Google Developer Expert",
-#         url: "https://developers.google.com/community/experts/directory/profile/profile-leonardo_pittelli",
-#       }
-#   social:
-#     - { name: "linkedin", link: "https://www.linkedin.com/in/leopittelli" }
-#     - { name: "twitter", link: "https://twitter.com/leopittelli" }
+- id: 35
+  name: "Leonardo"
+  surname: "Pitelli"
+  company: "OLX"
+  title: "Tech Lead / GDE"
+  bio: "Leonardo is an Argentinian Software Engineer and Google Developer Expert for Web and Cloud. He's been working on web technologies for many years, building websites with a heavy focus on performance and optimization. He has hosted leading roles in progressive web apps at e-commerce and classifieds companies. Leonardo has recently moved to Lisbon and is Tech Lead in OLX Portugal."
+  thumbnailUrl: speakers/leonardo_pitelli.jpg
+  rockstar: true
+  ribbon:
+    - {
+        abbr: "GDE",
+        title: "Google Developer Expert",
+        url: "https://developers.google.com/community/experts/directory/profile/profile-leonardo_pittelli",
+      }
+  social:
+    - { name: "linkedin", link: "https://www.linkedin.com/in/leopittelli" }
+    - { name: "twitter", link: "https://twitter.com/leopittelli" }
+- id: 36
+  name: "David"
+  surname: "Gómez"
+  company: "Malt"
+  title: "Tech Lead / GDE"
+  bio: "David Gomez: Apasionado de la informática y programador por vocación, amante del front-end y el back-end a partes iguales, me especializo en el desarrollo web junto a Laravel, Vue.js y node.js. Trabajo como Freelance, lo que me ha dado la oportunidad durante el último año de trabajar en más de 10 proyectos de campos completamente distintos desde proyectos del sector de Recursos Humanos hasta el sector Inmobiliario. Me gusta transformar ideas en realidad pero sobre todo adoro la oportunidad de aprendizaje que te da programar."
+  thumbnailUrl: speakers/david-gomez.png
+  rockstar: true
+  social:
+    - { name: "linkedin", link: "https://www.linkedin.com/in/davidgomezgam/" }
+    - { name: "twitter", link: "https://twitter.com/davidgomezgam/" }
+- id: 37
+  name: "Claudio"
+  surname: "Camerino"
+  company: "The Workshop"
+  title: "Head of Application Security"
+  bio: "Claudio is in equal parts engineer, technical manager and diplomat. He’s responsible for the security of hundreds of disparate applications and software products and is often found wrangling the requirements of our product development and engineering departments in a continuous attempt to make the stuff we build more secure and less hackable. Fundamentally a technologist and geek at heart he’s equally interested in how leveraging human relationships and diverse skillset, can lead to a much improved security posture for your business."
+  thumbnailUrl: speakers/caludio-camerino.jpg
+  rockstar: true
+  social:
+    - { name: "linkedin", link: "https://www.linkedin.com/in/claudio-camerino-0694702/" }
