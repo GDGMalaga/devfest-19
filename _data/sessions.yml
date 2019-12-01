@@ -142,7 +142,7 @@
   complexity: "Intermediate"
 - id: 020
   title: "UI Testing with Espresso and Test Doubles"
-  description: "It's time to face new challenges, time to improve our automated testing skills beyond simple unit tests. During this 2 hours workshop, we will practice how to add UI tests ensuring the application works like a charm in terms of UI components. We will combine Espresso tests with test doubles, continuous integration, and all the tools provided by the AndroidX libraries to learn how to write automated test coverage to the UI layer of our app. During this 2 hours fully practical workshop we will stay focused on writing tests to ensure every detail of our app is working as expected."
+  description: "It's time to face new challenges, time to improve our automated testing skills beyond simple unit tests. During this 2 hours workshop, we will practice how to add UI tests ensuring the application works like a charm in terms of UI components. We will combine Espresso tests with test doubles, continuous integration, and all the tools provided by the AndroidX libraries to learn how to write automated test coverage to the UI layer of our app. During this 2 hours fully practical workshop we will stay focused on writing tests to ensure every detail of our app is working as expected.<br><br><b>Please</b>, before attending this workshop, <b>fork the following repository and ensure you can run the application</b> the repository contains into any emulator or simulator: <a href='https://github.com/karumi/katasuperheroeskotlin' target='_blank'>https://github.com/karumi/katasuperheroeskotlin</a>"
   subtype: presentation
   speakers: [4]
   language: en
@@ -162,7 +162,7 @@
   language: es
   complexity: "Beginner"
 - id: 023
-  title: "Create your Angular App and test it with Jest and Cypress in 1 hour"
+  title: "Create your Angular App and test it with Jest and Cypress"
   description: "<p>Sometimes it's difficult to find a great combination of packages to start a new app. Initialization and configuration can be a pain if we don't know a set of tools that makes our life easier. In this workshop we will show you how to create a small Angular app that is tested with Jest and Cypress, to set a good point of start for your future applications.</p><p>Objectives of this workshop:</p><p>Angular:</p><p>- Easy initialization of an Angular workspace with NX<br />- Create components &amp; services with Angular CLI<br />- Do HTTP request<br />- Component interaction via service</p><p>Unit testing with Jest:</p><p>- Unit testing components &amp; services<br />- Mocking services<br />- Snapshot Testing</p><p>E2E with Cypress:</p><p>- Creation of E2E to test the integration between components<br />- Mocking HTTP requests in Cypress<br />- Debugging your E2E test</p>"
   subtype: presentation
   speakers: [25]
@@ -183,7 +183,7 @@
   language: es
   complexity: "Beginner"
 - id: 026
-  title: "SOC Side Story"
+  title: "Breve repaso a los cibermamporros más famosos de la historia con un montón de salseo"
   description: "1. Ciberseguridad (cibercrimen - ciberguerra - ciberterrorismo). Ataques famosos y no tan famosos que se han vivido a lo largo de la historia. DarkHotel, Mirai, Wannacry, Stuxnet... Atacando a los grandes: facebook, google, playstation... 2. ¿Cómo nos protegemos de todo eso? ¿Qué es un SOC? Diferentes deopartamentos y tareas: blue team y red team ¿Qué hacemos los chic@s del blue? 3. Batallitas, investigaciones de las que me deja mi jefe contar: - Intrusiones, Malware, errores de configuración. Breve repaso a los cibermamporros más famosos de la historia con un montón de salseo."
   subtype: presentation
   speakers: [28]

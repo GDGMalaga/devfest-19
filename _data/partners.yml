@@ -71,11 +71,18 @@
 - group: "Silver Sponsors"
   elements:
     - {
-        name: "Bravent",
-        description: "Bravent",
-        link: "https://www.bravent.net/",
-        imageUrl: "Logo-Bravent.png",
-        width: "85px",
+        name: "Autentia",
+        description: "Autentia",
+        link: "https://www.autentia.com/",
+        imageUrl: "autentia.png",
+        width: "130px",
+      }
+    - {
+        name: "Sngular",
+        description: "Sngular",
+        link: "https://www.sngular.com/",
+        imageUrl: "sngular.png",
+        width: "130px",
       }
     - {
         name: "Sequel",
@@ -83,6 +90,13 @@
         link: "https://sequel.com/",
         imageUrl: "sequel.png",
         width: "130px",
+      }
+    - {
+        name: "Bravent",
+        description: "Bravent",
+        link: "https://www.bravent.net/",
+        imageUrl: "Logo-Bravent.png",
+        width: "85px",
       }
     - {
         name: "Keepcoding",

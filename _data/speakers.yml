@@ -2,8 +2,8 @@
   name: "Ekaterina"
   surname: "Kamenskaya"
   company: "Google"
-  title: "Tech Lead"
-  bio: "Ekaterina has been working in Google for almost 9 years helping increase Engineering Productivity and product quality in various teams. She has been working for products such as Google Chrome and YouTube. Ekaterina received higher education degrees in Engineering and Management, and PhD in Engineering. She published a book about image recognition algorithms in biometrics. Ekaterina is passionate about Women in Tech, gives regular talks at the conferences, provides mentorship for Anita Borg Scholars, Googlers and girls interested in CS. She is the Google Women Engineers Lead in Google Zurich. She is also leading the internal education community focusing on Googlers‘ learning and development."
+  title: "Tech Lead Manager"
+  bio: "Ekaterina has been working in Google for more than 11 years helping increase Engineering Productivity and product quality in various teams. Currently she manages a team of Software Engineers developing tools and infrastructure at YouTube. Ekaterina received higher education degrees in Engineering and Management, and PhD in Engineering. She published a book about image recognition algorithms in biometrics. Ekaterina is passionate about Women in Tech, gives regular talks at the conferences, provides mentorship for Anita Borg Scholars, Googlers and girls interested in CS. She is the Google Women Engineers Lead in Google Zurich. She is also leading the internal education community focusing on Googlers‘ learning and development."
   thumbnailUrl: speakers/ekaterina.jpg
   rockstar: true
   social:
@@ -151,8 +151,8 @@
   name: "Estefania"
   surname: "García"
   company: "Npkill"
-  title: "Intern SwE @ Lemoncode / 'NPKILL'"
-  bio: "Born in Málaga, Estefanía has completed college at IES Jesús Marín and is currently working as Software Developer intern in Lemoncoder. Her specialty are web technologies, and she often collaborates in the open source community. Estefanía is the co-creator and maintainer of the utility npkill that helps developers find and remove heavy & unused node_module in npm."
+  title: "Co-creator of 'NPKILL'"
+  bio: "Born in Málaga, Estefanía has completed college at IES Jesús Marín and is currently working as Software Developer intern. Her specialty are web technologies, and she often collaborates in the open source community. Estefanía is the co-creator and maintainer of the utility npkill that helps developers find and remove heavy & unused node_module in npm."
   thumbnailUrl: speakers/estefania_garcia.jpg
   rockstar: true
   social:
@@ -162,7 +162,7 @@
   surname: "Settuba"
   company: "47 Degrees"
   title: "Software Engineer"
-  bio: "Imran is a Software Engineer and maintainer of the Arrow Kotlin functional library for Kotlin. Graduated in 2019 from the Technische Universität München (TUM), he has recently moved to Cadiz to join 47 Degrees."
+  bio: "Imran is a Software Engineer and maintainer of the Arrow Kotlin functional library for Kotlin. Attended the Technische Universität München (TUM). He has recently moved to Cadiz to join 47 Degrees."
   thumbnailUrl: speakers/imran_settuba.png
   rockstar: true
   social:
@@ -193,7 +193,7 @@
   surname: "Arnaiz"
   company: "BBVA Next"
   title: "Software Engineer"
-  bio: "Ingeniera de Software, Gema trabaja en en el equipo de Payments de BBVA Next Technologies desarrollando soluciones de pagos. Gema es organizadora de GDG Burgos."
+  bio: "Ingeniera de Software, Gema trabaja desarrollando asistentes de voz con Dialogflow y Google Cloud Platform en BBVA Next Technologies. Gema es organizadora de GDG Burgos."
   thumbnailUrl: speakers/gema_arnaiz.jpg
   rockstar: true
   ribbon:
@@ -443,7 +443,7 @@
     - { name: "twitter", link: "https://twitter.com/jasuarezg" }
 - id: 35
   name: "Leonardo"
-  surname: "Pitelli"
+  surname: "Pittelli"
   company: "OLX"
   title: "Tech Lead / GDE"
   bio: "Leonardo is an Argentinian Software Engineer and Google Developer Expert for Web and Cloud. He's been working on web technologies for many years, building websites with a heavy focus on performance and optimization. He has hosted leading roles in progressive web apps at e-commerce and classifieds companies. Leonardo has recently moved to Lisbon and is Tech Lead in OLX Portugal."
