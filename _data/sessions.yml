@@ -1,11 +1,21 @@
-- id: 307
+- id: 101
+  title: "Registration & Breakfast"
+  place: "Hall"
+  service: true
+  description: "The best time to talk with speakers and attendees"
+- id: 102
   title: "Coffee Break"
   place: "Hall"
   service: true
   description: "The best time to talk with speakers and attendees"
-- id: 503
+- id: 103
   title: "Lunch Break"
   place: "Dining room"
+  service: true
+- id: 104
+  title: "Welcome Keynote"
+  place: "Main Track"
+  description: "Welcome to DevFest MLG '19'"
   service: true
 - id: 001
   title: "Get real happy at work!"
@@ -64,8 +74,8 @@
   language: es
   complexity: "Intermediate"
 - id: 009
-  title: "Functional plant delivery in Kotlin with ArrowFx"
-  description: "An introduction to write pure functional programs: In this talk we will model a small plant delivery system using an FP architecture approach and ArrowFx, which is a FP library in Kotlin with direct syntax and explicit control of side effects."
+  title: "Functional plant delivery in Kotlin with Arrow Meta"
+  description: "An introduction to write pure functional programs: In this talk we will model a small plant delivery system using an FP architecture and techniques build with Arrow Meta, which is a meta-programming library that cooperates with the Kotlin Compiler."
   subtype: presentation
   speakers: [12]
   language: en
@@ -252,6 +262,13 @@
   speakers: [37]
   language: en
   complexity: "Beginner"
+- id: 036
+  title: "GraalVM: Máquina virtual políglota"
+  description: "En esta charla introduciremos qué es GraalVM, una nueva máquina virtual open source que permite tanto reemplazar la JVM (Java, Scala, Groovy) como ejecutar otros lenguajes como Ruby, Python, JavaScript/Node.js o C (con interfaz LLVM). Introduce además de un compilador JIT, un nuevo compilador AOT que permite la creación de imágenes nativas ultra-rápidas y muy ligeras. A través de varios escenarios prácticos y ejemplos aclaratorios, aprenderemos las formas de usar GraalVM y el compilador Graal, así como a integrar, depurar y monitorizar programas escritos en diferentes lenguajes de programación. También haremos una demostración rápida de cómo GraalVM se usa en frameworks de nueva generación como Quarkus para hacer aplicaciones cloud-native."
+  subtype: presentation
+  speakers: [38, 39]
+  language: es
+  complexity: "Intermediate"
 # - id: 006
 #   title: "Modern web development"
 #   description: ""

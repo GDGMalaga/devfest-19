@@ -162,7 +162,7 @@
   surname: "Settuba"
   company: "47 Degrees"
   title: "Software Engineer"
-  bio: "Imran is a Software Engineer and maintainer of the Arrow Kotlin functional library for Kotlin. Attended the Technische Universität München (TUM). He has recently moved to Cadiz to join 47 Degrees."
+  bio: "Imran is a Software Engineer and maintainer of the Arrow Meta functional library for Kotlin. Attended the Technische Universität München (TUM). He has recently moved to Cadiz to join 47 Degrees."
   thumbnailUrl: speakers/imran_settuba.png
   rockstar: true
   social:
@@ -476,6 +476,26 @@
   title: "Head of Application Security"
   bio: "Claudio is in equal parts engineer, technical manager and diplomat. He’s responsible for the security of hundreds of disparate applications and software products and is often found wrangling the requirements of our product development and engineering departments in a continuous attempt to make the stuff we build more secure and less hackable. Fundamentally a technologist and geek at heart he’s equally interested in how leveraging human relationships and diverse skillset, can lead to a much improved security posture for your business."
   thumbnailUrl: speakers/caludio-camerino.jpg
+  rockstar: true
+  social:
+    - { name: "linkedin", link: "https://www.linkedin.com/in/claudio-camerino-0694702/" }
+- id: 38
+  name: "Jorge"
+  surname: "Hidalgo"
+  company: "Accenture"
+  title: "Senior Technology Architect"
+  bio: "Jorge Hidalgo es arquitecto de tecnología senior en Accenture Technology España, donde es además responsable del área de desarrollo a medida en tecnologías abiertas, arquitectura y DevOps. Además de su trabajo como arquitecto, ayuda a organizar los grupos de usuarios de MálagaJUG y Málaga Scala, y le gusta compartir sobre tecnología y programación a través de su blog, talleres y charlas en eventos de todo tipo. Cuando no está “aporreando teclas” le gusta pasar tiempo con la familia, jugar a videojuegos (vale, también es “aporrear teclas”), tocar las flautas y disfrutar del buen tiempo de Málaga 360 días al año."
+  thumbnailUrl: speakers/jorge-hidalgo.jpg
+  rockstar: true
+  social:
+    - { name: "linkedin", link: "https://www.linkedin.com/in/deors/" }
+- id: 39
+  name: "Eliana"
+  surname: "Ferioli"
+  company: "Accenture"
+  title: "DevOps & Cloud"
+  bio: "Natural de Buenos Aires, llevo dos años trabajando en Accenture y dedicándose al mundo de DevOps y Cloud. Se define como una entusiasta de las nuevas tecnologías. Lo que más le gusta de la informática es que todos los días puedes aprender algo nuevo."
+  thumbnailUrl: speakers/eli-ferioli.jpg
   rockstar: true
   social:
     - { name: "linkedin", link: "https://www.linkedin.com/in/claudio-camerino-0694702/" }
