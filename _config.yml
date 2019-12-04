@@ -47,6 +47,7 @@ navigationLinks:
  - {permalink: "/speakers/", text: "Speakers"}
  - {permalink: "/team/", text: "Team"}
  - {permalink: "/logistics/", text: "Attending"}
+ - {permalink: "/cod/", text: "Code of Conduct"}
 # bottomNavigationLinks:
 #  - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
 # rightNavigationButtons:
@@ -71,7 +72,7 @@ aboutBlock:
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
 statisticBlock:
- - {count: "350", specialCharacter: "+", info: "attendees", detail: "from everywhere"}
+ - {count: "400", specialCharacter: "+", info: "attendees", detail: "from everywhere"}
  - {count: "10", specialCharacter: "+", info: "hours", detail: "of talks and hand in sessions"}
  - {count: "25", specialCharacter: "+", info: "speakers", detail: "from Spain and beyond"}
  - {count: "5", specialCharacter: "", info: "parallel tracks", detail: "plus networking time"}
@@ -155,7 +156,8 @@ ticketsOffers:
   ticketContentList: ["Full access to the conference"]
   validFrom: "2019-10-18T00:00"
   validThrough: "2019-12-13T23:59"
-  disabled: false
+  soldOut: true
+  soldOutText: "Sold Out"
  -
   name: "Student"
   price: "3"
@@ -166,9 +168,8 @@ ticketsOffers:
   ticketContentList: ["Full access to the conference", "Requires a valid student ID at the conference check in."]
   validFrom: "2019-10-14T00:00"
   validThrough: "2019-12-13T23:59"
-  disabled: false
-  # soldOut: true
-  # soldOutText: "Sold Out"
+  soldOut: true
+  soldOutText: "Sold Out"
 
 # Footer
 socialLinks:

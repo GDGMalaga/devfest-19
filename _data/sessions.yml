@@ -17,6 +17,21 @@
   place: "Main Track"
   description: "Welcome to DevFest MLG '19'"
   service: true
+- id: 105
+  title: "Farewell + Contests"
+  place: "Main Track"
+  description: ""
+  service: true
+- id: 106
+  title: "WTM Open Space"
+  place: "Main Track"
+  description: "Join us at the main track during the coffee break"
+  service: true
+- id: 404
+  title: ""
+  place: ""
+  description: ""
+  service: true
 - id: 001
   title: "Get real happy at work!"
   description: "Many of us are spending at least 8 hours a day being disconnected from our deep meaning, purpose and values, as well disconnected from people around us. These are major issues in modern day organizations (even at Google!). There are both lack of understanding why we do our job, and lack of openness, trust, authenticity and vulnerability in teams. Instead of being fully present and feeling happy, engaged, energized - we agree for less and bring only small part of ourselves to our companies, startups, schools. This talk/workshop will help you find true happiness at work!"
@@ -145,7 +160,7 @@
   complexity: "Intermediate"
 - id: 019
   title: "Desenmascarando las Generative Adversarial Networks"
-  description: ""
+  description: "Aplicaciones como FaceApp o Deepfake han causado un gran revuelo y se han viralizado a través de las redes sociales y la televisión. ¿La clave? Los asombrosos resultados en generación y/o modificación de imágenes de caras humanas (incluso llegando a la suplantación de identidad). En esta charla me gustaría contar qué hay detrás de todos estos sistemas, algoritmos y tendencias de inteligencia artificial que siguen la línea de esos trabajos. Principalmente, la charla estará orientada a las redes generativas adversarias o GANs y se contarán numerosos ejemplos y variaciones de la arquitectura original como CycleGAN, ProGAN, GauGAN etc."
   subtype: presentation
   speakers: [3]
   language: es
@@ -228,7 +243,7 @@
   language: es
   complexity: "Beginner"
 - id: 031
-  title: "Investigación en Ciberseguridad: la Universidad como puente de transferencia"
+  title: "[11:30h - 12h] Investigación en Ciberseguridad: la Universidad como puente de transferencia"
   description: "¿Cuál es el rol de la Universidad en Ciberseguridad? La respuesta a esta pregunta para mucha gente está clara: formación. Sin embargo, esa es sólo una parte de lo que la Universidad hace, y por lo general es la que se consigue implantar más tarde. Para que esa formación sea posible, siempre hay un grupo de profesionales por detrás que, entre bambalinas, promueven esa necesidad y permiten el cambio. Como parte intrínseca de ese tejido universitario, la investigación en ciberseguridad es crítica, porque permite vislumbrar el camino a seguir antes incluso de que la demanda sea popular. Durante esta charla se introducirá la investigación en ciberseguridad como otra vía de profesionalización con impacto nacional e internacional. Pero también como puente de transferencia hacia las empresas. El objetivo es acercar este sector a la comunidad para que no sea tan desconocido. También se hablará sobre los pasos que está dando la Universidad de Málaga para adaptarse a la demanda de formación en ciberseguridad, siendo una de las Universidades en las que las asignaturas de ciberseguridad forman parte de la oferta de grados no sólo técnicos, de másters, títulos de experto y otros cursos especializados. Todo esto no es casualidad."
   subtype: presentation
   speakers: [33]
@@ -256,7 +271,7 @@
   language: es
   complexity: "Beginner"
 - id: 035
-  title: "What’s in an AppSec program?"
+  title: "[12:00h] What’s in an AppSec program?"
   description: "Application Security is a misunderstood discipline, often seen as a combination of secure testing and bugs fixing, when done correctly it stretches beyond tools and processes to forge strong and long-lasting relationships with Product, Engineering and Operations. The ultimate goal of an AppSec program should be to enable the business to move fast and take more calculated risks. As part of this session we look at what it takes to setup and run an application security program from the ground up. You’ll learn how to reconcile security requirements with security testing, the roles, tools and processes involved and how we have attempted to solve some common security challenges here at The Workshop."
   subtype: presentation
   speakers: [37]

@@ -99,6 +99,13 @@
         width: "85px",
       }
     - {
+      name: "Digital Overcoming",
+      description: "Digital Overcoming",
+      link: "https://digitalovercoming.com/",
+      imageUrl: "digitalovercoming.png",
+      width: "160px",
+      }
+    - {
         name: "Keepcoding",
         description: "Keepcoding",
         link: "https://keepcoding.io/es",

@@ -162,7 +162,7 @@
   surname: "Settuba"
   company: "47 Degrees"
   title: "Software Engineer"
-  bio: "Imran is a Software Engineer and maintainer of the Arrow Meta functional library for Kotlin. Attended the Technische Universität München (TUM). He has recently moved to Cadiz to join 47 Degrees."
+  bio: "Imran is a Software Engineer and maintainer of Arrow a pure functional library for Kotlin. He attended the Technische Universität München (TUM) and has recently moved to Cadiz to join 47 Degrees."
   thumbnailUrl: speakers/imran_settuba.png
   rockstar: true
   social:
@@ -279,9 +279,9 @@
   social:
     - { name: "twitter", link: "https://twitter.com/iblancasa" }
 - id: 21
-  name: "Irene M"
+  name: "Irene"
   surname: "Morgado"
-  company: "Aplazame"
+  company: ""
   title: "HR Talent Manager"
   bio: "Socióloga especializada en Comunicación y Psicología Social. Comprometida con proyectos sociales, he pasado del mundo de las estrategias de Comunicación al de los Recursos Humanos. Siempre interesada en el mundo técnico, me gusta investigar cómo lograr que los equipos y las personas puedan trabajar y sentirse mejor, siempre con un enfoque práctico."
   thumbnailUrl: speakers/irene_morgado.jpeg

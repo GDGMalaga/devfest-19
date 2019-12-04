@@ -41,6 +41,11 @@ $small-label-width: 80px;
         margin-bottom: 60px;
         padding: 0;
     }
+    @media (min-width: 767px) {
+        &.col-md-10 {
+            width: 88.33333%;
+        }
+    }
 }
 .schedule-table-heading {
     margin: 10px 0 20px;

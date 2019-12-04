@@ -1,50 +1,85 @@
 - 
-  date: "2014-10-24"
-  dateReadable: "October 24"
+  date: "2019-12-14"
+  dateReadable: "December 14th"
   tracks: 
-    - {title: "Android", color: "#90be4e"}
-    - {title: "Web & Cloud", color: "#03a9f4"}
-    - {title: "Community", color: "#e91e63"}
+    - {title: "Main Track", color: "#4285F4"}
+    - {title: "La Peña Overflow", color: "#90be4e"}
+    - {title: "Web & Mobile", color: "#F4B400"}
+    - {title: "Cloud", color: "#DB4437"}
+    - {title: "Workshops", color: "#7B1FA2"}
   timeslots:
     - {
-    	startTime: "10:00",
-    	endTime: "10:45",
-    	sessionIds: [002, 003, 004]
+    	startTime: "8:30",
+    	endTime: "9:00",
+    	sessionIds: [101]
     }
     - {
-        startTime: "11:00",
-        endTime: "11:45",
-        sessionIds: [003, 404, 004]
+    	startTime: "9:00",
+    	endTime: "9:30",
+    	sessionIds: [104]
     }
     - {
-    	startTime: "12:00",
-    	endTime: "11:45",
-    	sessionIds: [307]
-    }
-- 
-  date: "2014-10-25"
-  dateReadable: "October 25"
-  tracks: 
-    - {title: "Android", color: "#90be4e"}
-    - {title: "Web & Cloud", color: "#03a9f4"}
-  timeslots: 
-    - {
-    	startTime: "10:00",
-    	endTime: "10:45",
-    	sessionIds: [404, 002]
+        startTime: "9:30",
+        endTime: "10:30",
+        sessionIds: [003, 026, 016, 018, 013]
     }
     - {
-    	startTime: "11:00",
-    	endTime: "11:45",
-    	sessionIds: [002, 003]
+        startTime: "10:30",
+        endTime: "11:30",
+        sessionIds: [032, 025, 010, 017, 013]
+    }
+    - {
+        startTime: "11:30",
+        endTime: "12:30",
+        sessionIds: [036, 031, 011, 012, 023]
+    }
+    - {
+        startTime: "12:30",
+        endTime: "13:00",
+        sessionIds: [024, 035, 009, 022, 023]
     }
     - {
         startTime: "13:00",
-        endTime: "13:45",
-        sessionIds: [003]
+        endTime: "14:00",
+        sessionIds: [103]
     }
     - {
-    	startTime: "14:00",
-    	endTime: "15:00",
-    	sessionIds: [503]
+        startTime: "14:00",
+        endTime: "15:00",
+        sessionIds: [007, 027, 005, 015, 404]
+    }
+    - {
+        startTime: "15:00",
+        endTime: "16:00",
+        sessionIds: [001, 027, 008, 002, 020]
+    }
+    - {
+        startTime: "16:00",
+        endTime: "17:00",
+        sessionIds: [021, 027, 004, 014, 020]
+    }
+    - {
+        startTime: "17:00",
+        endTime: "17:30",
+        sessionIds: [106, 102]
+    }
+    - {
+        startTime: "17:30",
+        endTime: "18:00",
+        sessionIds: [029, 028, 034, 404, 404]
+    }
+    - {
+        startTime: "18:00",
+        endTime: "19:00",
+        sessionIds: [019, 030, 006, 404, 404]
+    }
+    - {
+        startTime: "19:00",
+        endTime: "19:25",
+        sessionIds: [033, 404, 404, 404, 404]
+    }
+    - {
+        startTime: "19:25",
+        endTime: "19:40",
+        sessionIds: [105, 404, 404, 404, 404]
     }
